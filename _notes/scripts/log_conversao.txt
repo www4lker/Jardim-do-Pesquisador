@@ -1,0 +1,96 @@
+Conversão iniciada: 2025-10-23 22:14:11.714188
+
+✓ CAPÍTULO 3: TECNOLOGIA E TRANSFORMAÇÃO EPISTÊMICA → capítulo-3-tecnologia-e-transformação-epistêmica.md
+✓ A NOVA EPISTEME DIGITAL: → a-nova-episteme-digital.md
+✓ Inteligência Artificial na Pesquisa Bibliográfica e Revisão de Literatura: Estado Atual, Eficácia e Rigor Científico → inteligência-artificial-na-pesquisa-bibliográfica-e-revisão-de-literatura-estado-atual-eficácia-e-rigor-científico.md
+✓ CAPÍTULO 4: ANÁLISE DO CORPUS → capítulo-4-análise-do-corpus.md
+✓ CAPÍTULO 1: FUNDAMENTAÇÃO TEÓRICO-METODOLÓGICA → capítulo-1-fundamentação-teórico-metodológica.md
+✓ REVISÃO ESTRUTURAL FINAL → revisão-estrutural-final.md
+✓ 01-INBOX – Metodologia simplificada... → 01-inbox-metodologia-simplificada.md
+✓ CONCLUSÃO → conclusão.md
+✓ MAPA CONCEITUAL INTEGRADO → mapa-conceitual-integrado.md
+✓ LOG DO PROCESSO: CRIAÇÃO DA DISSERTAÇÃO → log-do-processo-criação-da-dissertação.md
+✓ pesquisas-especificas / estudos-diversos – Detecção de IA em Textos... → pesquisas-especificas-estudos-diversos-detecção-de-ia-em-textos.md
+✓ gpt 4 brainstorming TCC - 16 → gpt-4-brainstorming-tcc-16.md
+✓ CAPÍTULO 2: LITERATURA DIGITAL E CIBERCULTURA → capítulo-2-literatura-digital-e-cibercultura.md
+✓ Google NotebookLM para Aprendizagem Contínua e Pesquisa Acadêmica: Análise, Integração com Obsidian e Estratégias Otimizadas → google-notebooklm-para-aprendizagem-contínua-e-pesquisa-acadêmica-análise-integração-com-obsidian-e-estratégias-otimizadas.md
+✓ **Integração Ética de Ferramentas de IA na Escrita Acadêmica para Estudantes Iniciantes** → integração-ética-de-ferramentas-de-ia-na-escrita-acadêmica-para-estudantes-iniciantes.md
+✓ Google NotebookLM para Aprendizagem Contínua e Pesquisa Acadêmica: Análise, Integração com Obsidian e Estratégias Otimizadas → google-notebooklm-para-aprendizagem-contínua-e-pesquisa-acadêmica-análise-integração-com-obsidian-e-estratégias-otimizadas-20251023.md
+✓ **A Trama da Máquina: Inteligência Artificial, Antropologia Geertziana e Comunidades Minoritárias** → a-trama-da-máquina-inteligência-artificial-antropologia-geertziana-e-comunidades-minoritárias.md
+✓ **A Filosofia e a Inteligência Artificial: Uma Investigação Multidimensional** → a-filosofia-e-a-inteligência-artificial-uma-investigação-multidimensional.md
+✓ Deep Research Ai Integration Fiction 2 → deep-research-ai-integration-fiction-2.md
+✓ 05-PROJETOS / mestrado-ufmt – Ajuda a estruturar um plano de ação para sua pesquisa no ECCO/UFMT, focando especialmente no conteúdo... → 05-projetos-mestrado-ufmt-ajuda-a-estruturar-um-plano-de-ação-para-sua-pesquisa-no-eccoufmt-focando-especialmente-no-conteúdo.md
+✓ Promptgpt → promptgpt.md
+✓ DISSERTAÇÃO ATUALIZADA → dissertação-atualizada.md
+✓ CORPUS DEFINITIVO - DISSERTAÇÃO → corpus-definitivo-dissertação.md
+✓ Itinerário Temático: Ética e epistemologia aplicada: derivar princípios normativos da prática híbrida (human + machine) → itinerário-temático-ética-e-epistemologia-aplicada-derivar-princípios-normativos-da-prática-híbrida-human-machine.md
+✓ Investigação Linguística da Inteligência Artificial: Um Estudo Interdisciplinar sobre Processamento, Representação e Impacto da Linguagem → investigação-linguística-da-inteligência-artificial-um-estudo-interdisciplinar-sobre-processamento-representação-e-impacto-da-linguagem.md
+✓ Chatgpt Ideologia Direita → chatgpt-ideologia-direita.md
+✓ **Estudos de Caso de PKM Aprimorado por IA: A Integração de Claude MCP e Obsidian** → estudos-de-caso-de-pkm-aprimorado-por-ia-a-integração-de-claude-mcp-e-obsidian.md
+✓ 01-INBOX – Aprofundando questoes de pesquisa... → 01-inbox-aprofundando-questoes-de-pesquisa.md
+✓ Workflow Avançado: Doutorando em Humanidades como "Organizador de Agentes IA" → workflow-avançado-doutorando-em-humanidades-como-organizador-de-agentes-ia.md
+✓ Does Openai_S New Model Think → does-openai_s-new-model-think.md
+✓ REDE DE WIKILINKS: Autenticidade, Plágio e Impacto na Educação → rede-de-wikilinks-autenticidade-plágio-e-impacto-na-educação.md
+✓ justificativa  da pesquisa → justificativa-da-pesquisa.md
+✓ Itinerário Temático: Metodologia híbrida e escrita não-linear: formalizando um método autoetnográfico de coautoria controlada com IA → itinerário-temático-metodologia-híbrida-e-escrita-não-linear-formalizando-um-método-autoetnográfico-de-coautoria-controlada-com-ia.md
+✓ MAPA AUTORES E CONCEITOS - DISSERTAÇÃO IA+ACADEMIA+AUTENTICIDADE → mapa-autores-e-conceitos-dissertação-iaacademiaautenticidade.md
+✓ ## analysis> → analysis.md
+✓ 5 ChatGPT Prompts To Create Awesome Content (That Actually Sounds Like You) → 5-chatgpt-prompts-to-create-awesome-content-that-actually-sounds-like-you.md
+✓ review de chat gpt, bard e bing chat → review-de-chat-gpt-bard-e-bing-chat.md
+✓ 2 NOTAS PERMANENTES / PERMANENTES – 060220231505 → 2-notas-permanentes-permanentes-060220231505.md
+✓ Como deveríamos estar usando IA nesse momento (zt) → como-deveríamos-estar-usando-ia-nesse-momento-zt.md
+✓ 01-INBOX – 202502111224 → 01-inbox-202502111224.md
+✓ PESQUISA ACADÊMICA: INTEGRAÇÃO ÉTICA DE FERRAMENTAS DE IA NA ESCRITA ACADÊMICA PARA ESTUDANTES INICIANTES → pesquisa-acadêmica-integração-ética-de-ferramentas-de-ia-na-escrita-acadêmica-para-estudantes-iniciantes.md
+✓ A Integração Ética de Ferramentas de IA na Escrita Acadêmica de Estudantes Recém-Ingressos → a-integração-ética-de-ferramentas-de-ia-na-escrita-acadêmica-de-estudantes-recém-ingressos.md
+✓ Investigação dos Impactos da Inteligência Artificial em Comunidades Minoritárias: Uma Análise Cultural Crítica → investigação-dos-impactos-da-inteligência-artificial-em-comunidades-minoritárias-uma-análise-cultural-crítica.md
+✓ Google NotebookLM para Aprendizagem Contínua e Pesquisa Acadêmica: Análise, Integração com Obsidian e Estratégias Otimizadas → google-notebooklm-para-aprendizagem-contínua-e-pesquisa-acadêmica-análise-integração-com-obsidian-e-estratégias-otimizadas-20251023-2.md
+✓ A Filosofia e a Inteligência Artificial: Uma Investigação Multidimensional → a-filosofia-e-a-inteligência-artificial-uma-investigação-multidimensional-20251023.md
+✓ **Examining Claims of a Rightward Shift in ChatGPT's Political Positions: A Deep Research Investigation** → examining-claims-of-a-rightward-shift-in-chatgpts-political-positions-a-deep-research-investigation.md
+✓ desenvolvimento-pessoal / DIARIO – 09-03-25 → desenvolvimento-pessoal-diario-09-03-25.md
+✓ Workflow de um Doutorando em Humanidades com IA no Sul Global → workflow-de-um-doutorando-em-humanidades-com-ia-no-sul-global.md
+✓ **Best Practices for Deep Research with AI Agents: Gemini, Perplexity, and ChatGPT** → best-practices-for-deep-research-with-ai-agents-gemini-perplexity-and-chatgpt.md
+✓ PROMPT LIGERIRAMENTE DIFERENTE USANDO STRAWBERRY MODEL → prompt-ligeriramente-diferente-usando-strawberry-model.md
+✓ 01-INBOX – 202504091104 → 01-inbox-202504091104.md
+✓ **Hybrid Authorship: The Collaboration between Human Creativity and Algorithms** → hybrid-authorship-the-collaboration-between-human-creativity-and-algorithms.md
+✓ Análises Comparativas LLMs → análises-comparativas-llms.md
+✓ pesquisas-especificas / estudos-diversos – Lyotard and Knowledge Fragmentation... → pesquisas-especificas-estudos-diversos-lyotard-and-knowledge-fragmentation.md
+✓ Improved Research Prompt on Philosophy and Artificial Intelligence → improved-research-prompt-on-philosophy-and-artificial-intelligence.md
+✓ Artigo Blog Webcoding → artigo-blog-webcoding.md
+✓ Deepresearchenhancer 26K → deepresearchenhancer-26k.md
+✓ **Otimizando a Pesquisa Acadêmica com o OpenRouter: Um Guia Completo para o Uso Versátil e Concorrente de Modelos de Reasoning e Modelos Padrão** → otimizando-a-pesquisa-acadêmica-com-o-openrouter-um-guia-completo-para-o-uso-versátil-e-concorrente-de-modelos-de-reasoning-e-modelos-padrão.md
+✓ Estrutura Metodologica → estrutura-metodologica.md
+✓ BATCH 01 ANALYSIS - GEMINI DEEP RESEARCH → batch-01-analysis-gemini-deep-research.md
+✓ BATCH 02 ANALYSIS - GEMINI DEEP RESEARCH → batch-02-analysis-gemini-deep-research.md
+✓ BATCH 03 ANALYSIS - GEMINI DEEP RESEARCH → batch-03-analysis-gemini-deep-research.md
+✓ BATCH 04 ANALYSIS - GEMINI DEEP RESEARCH → batch-04-analysis-gemini-deep-research.md
+✓ BATCH 06 ANALYSIS - GEMINI DEEP RESEARCH → batch-06-analysis-gemini-deep-research.md
+✓ Mapa Conceitual: Autenticidade, IA e Metodologia na Pesquisa Acadêmica → mapa-conceitual-autenticidade-ia-e-metodologia-na-pesquisa-acadêmica.md
+✓ CLUSTERS CONCEITUAIS: Autenticidade, Plágio e Impacto na Educação → clusters-conceituais-autenticidade-plágio-e-impacto-na-educação.md
+✓ 2 NOTAS PERMANENTES / PERMANENTES – 220120232039 → 2-notas-permanentes-permanentes-220120232039.md
+✓ 1 NOTAS LITERAIS / Interesses de Pesquisa – 221220221438 → 1-notas-literais-interesses-de-pesquisa-221220221438.md
+✓ gpt3 → gpt3.md
+✓ claude ai - porque soa melhor → claude-ai-porque-soa-melhor.md
+✓ abstracts fooling scientists → abstracts-fooling-scientists.md
+✓ Itinerário Temático: O Evento IA como Fenômeno Sociocultural → itinerário-temático-o-evento-ia-como-fenômeno-sociocultural.md
+✓ Itinerário Temático: Ferramenta vs. Mediação Cognitiva na Era da IA → itinerário-temático-ferramenta-vs-mediação-cognitiva-na-era-da-ia.md
+✓ Itinerário Temático (Manual): Metodologia Híbrida e Escrita Não-Linear → itinerário-temático-manual-metodologia-híbrida-e-escrita-não-linear.md
+✓ Mestrado   Projeto → mestrado-projeto.md
+✓ _Death of an Author_ Prophesies the Future of AI Novels → _death-of-an-author_-prophesies-the-future-of-ai-novels.md
+✓ 1 NOTAS LITERAIS / Interesses de Pesquisa – 131220221704 → 1-notas-literais-interesses-de-pesquisa-131220221704.md
+✓ Your A.I. Companion Will Support You No Matter What → your-ai-companion-will-support-you-no-matter-what.md
+✓ como descobrir a posição da UFMT frente às IAS → como-descobrir-a-posição-da-ufmt-frente-às-ias.md
+✓ disclaimer chat gpt → disclaimer-chat-gpt.md
+✓ Justificativas   Preliminares → justificativas-preliminares.md
+✓ AI expert Gary Marcus → ai-expert-gary-marcus.md
+✓ Algoritmos e *criatividade* - ecco 2023 → algoritmos-e-criatividade-ecco-2023.md
+✓ The Space Of Possible Minds → the-space-of-possible-minds.md
+✓ 1 NOTAS LITERAIS / Interesses de Pesquisa – 060220232110 → 1-notas-literais-interesses-de-pesquisa-060220232110.md
+✓ DUAS REGRAS BÁSICAS DA NATURE PARA USO DE CHATGPT → duas-regras-básicas-da-nature-para-uso-de-chatgpt.md
+✓ Como deveríamos estar usando IA nesse momento (pergunta) → como-deveríamos-estar-usando-ia-nesse-momento-pergunta.md
+✓ Como deveríamos estar usando IA nesse momento GPT 4 (zt) → como-deveríamos-estar-usando-ia-nesse-momento-gpt-4-zt.md
+✓ Análise Crítica das Analogias entre Inteligência Artificial e Cognição Humana na Linguística Computacional: Uma Abordagem Epistemológica → análise-crítica-das-analogias-entre-inteligência-artificial-e-cognição-humana-na-linguística-computacional-uma-abordagem-epistemológica.md
+✓ expandindo prompts para pensar como interdisciplina → expandindo-prompts-para-pensar-como-interdisciplina.md
+✓ Análise Textual: Rascunhos Acadêmicos e Reflexões Metodológicas → análise-textual-rascunhos-acadêmicos-e-reflexões-metodológicas.md
+
+
+Total: 91/91 convertidas com sucesso

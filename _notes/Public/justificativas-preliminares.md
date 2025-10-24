@@ -1,0 +1,46 @@
+---
+title: "Justificativas   Preliminares"
+date: 2025-10-23
+---
+
+- [[JUSTIFICATIVA PRELIMINAR CHATGPT]]
+- [[JUSTIFICATIVA PRELIMINAR CLAUDE]]
+- [[JUSTIFICATIVA PRELIMINAR DEEPSEEK]]
+- #CLAUDE37
+- # Perguntas essenciais para delinear sua justificativa de pesquisa
+- [[Respostas essenciais para delinear sua justificativa de pesquisa]]
+	- [[mais 7 perguntas sobre o projeto e a justificativa]]
+- ## Sobre seu posicionamento filosófico
+- 1. Qual corrente filosófica você pretende usar como base para analisar as questões de autenticidade e autoria (fenomenologia, pós-estruturalismo, pragmatismo, filosofia analítica, etc.)?
+- 2. Quais filósofos ou pensadores você considera fundamentais para sua abordagem sobre autenticidade e autoria?
+- 3. Como você define "autenticidade" e "autoria" no contexto da sua pesquisa?
+- 4. Você parte de alguma tese filosófica específica sobre a natureza da criação intelectual humana?
+- ## Sobre as lacunas de pesquisa
+- 5. Quais são as principais lacunas teóricas que você identifica na literatura atual sobre IA e autoria acadêmica?
+- 6. Há algum debate filosófico contemporâneo específico ao qual sua pesquisa pretende contribuir?
+- 7. Existe alguma contradição ou tensão teórica que sua pesquisa busca explorar ou resolver?
+- ## Sobre a interdisciplinaridade
+- 8. Como você pretende articular especificamente os campos do direito, tecnologia, arte e cultura de massa com a questão central da autenticidade/autoria?
+- 9. Qual dessas áreas interdisciplinares terá maior peso na sua análise, além da filosofia?
+- 10. Que conceitos-chave de cada área você pretende mobilizar em sua pesquisa?
+- ## Sobre o aspecto tecnológico
+- 11. Você abordará tecnologias específicas de IA (como LLMs, GPT, DALL-E) ou tratará a IA de forma mais conceitual?
+- 12. Qual sua posição sobre o determinismo tecnológico versus agência humana nesse contexto?
+- 13. Você pretende analisar casos concretos de uso de IA na pesquisa acadêmica ou focará em questões teóricas?
+- ## Sobre relevância e impacto
+- 14. Quais implicações éticas específicas da IA na pesquisa acadêmica você considera mais urgentes?
+- 15. Como sua pesquisa pode contribuir para políticas institucionais ou diretrizes sobre o uso de IA na academia?
+- 16. Quais transformações você antecipa na prática acadêmica nos próximos anos devido à IA?
+- ## Sobre seu recorte contextual
+- 17. Você pretende focar na realidade brasileira/latino-americana ou terá uma abordagem mais global?
+- 18. Há algum campo acadêmico específico (humanidades, ciências exatas, etc.) que você pretende analisar com mais atenção?
+- 19. Qual período temporal sua pesquisa irá abranger (apenas o presente, análise histórica, projeções futuras)?
+- ## Sobre sua metodologia
+- 20. Você pretende realizar alguma pesquisa empírica ou experimental, ou será uma pesquisa teórica?
+- 21. Planeja analisar documentos específicos (como políticas universitárias, códigos de ética, etc.)?
+- 22. Você considerará a perspectiva de diferentes atores (pesquisadores, estudantes, editores, etc.)?
+- ## Sobre sua originalidade
+- 23. O que torna sua abordagem diferente de outras pesquisas sobre IA na academia?
+- 24. Qual você considera ser a contribuição mais original que sua pesquisa pode oferecer?
+- 25. Há algum aspecto contraintuitivo ou surpreendente que sua pesquisa pretende revelar?
+- Suas respostas a estas perguntas me ajudarão a elaborar uma justificativa mais alinhada com sua visão específica e mais convincente para o programa ECCO.

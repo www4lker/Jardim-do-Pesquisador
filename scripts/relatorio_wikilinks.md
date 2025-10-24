@@ -1,0 +1,5946 @@
+# RELATÓRIO DE VALIDAÇÃO DE WIKILINKS
+
+Data: 1761269959.6000915
+
+## ESTATÍSTICAS
+
+- Total de notas: 105
+- Total de wikilinks: 5853
+- Links válidos: 84
+- Links quebrados: 5769
+- Taxa de integridade: 1.4%
+
+## LINKS QUEBRADOS POR NOTA
+
+### 060220231505.md
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[Guia para transformar sua pesquisa em forma escrita]]`
+- `[[Repetição espaçada - Spaced repetition]]`
+- `[[chat gpt me ajuda a escrever]]`
+- `[[explique o metodo estatistico do gpt 3 de forma simples]]`
+
+### 060220232110.md
+- `[[NATURE ISSUES FOR DEBATE - CHATGPT]]`
+
+### 09-03-25.md
+- `[[versao claude da mesma questao - planejamento de estudos]]`
+
+### 1-why-buddhism-is-true.md
+- `[[Módulos Mentais]]`
+- `[[2 why buddhism is true]]`
+- `[[14 why buddhism is true]]`
+- `[[15 why buddhism is true]]`
+- `[[Robert Wright]]`
+- `[[3 why buddhism is true]]`
+- `[[14 why buddhism is true]]`
+- `[[15 why buddhism is true]]`
+- `[[Robert Wright]]`
+- `[[Origens e Comercialização da Atenção Plena (Mindfulness)]]`
+- `[[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]`
+- `[[3 why buddhism is true]]`
+- `[[8 why buddhism is true]]`
+- `[[14 why buddhism is true]]`
+- `[[15 why buddhism is true]]`
+- `[[3.1 why buddhism is true - Níveis de Ilusão nos Sentimentos]]`
+- `[[Robert Wright]]`
+- `[[A terapia cognitivo-comportamental (TCC)]]`
+- `[[integrar cnv e tcc]]`
+- `[[dissertação index]]`
+- `[[Manufacturing Happy Citizens]]`
+- `[[dissertação index]]`
+- `[[o que o mundo precisa e ninguem esta fazendo]]`
+- `[[ELIT - NO BRASIL HOJE]]`
+- `[[5 estratégias para potencializar a empatia através da investigação acadêmica]]`
+- `[[humanidades digitais]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/quais problemas seu projeto pode resolver]]`
+- `[[300920221013]]`
+- `[[interesses de pesquisa]]`
+- `[[Postmodernism]]`
+- `[[Foucault, Michel]]`
+- `[[Deleuze]]`
+- `[[Derrida]]`
+- `[[13 why buddhism is true]]`
+- `[[14 why buddhism is true]]`
+- `[[15 why buddhism is true]]`
+- `[[Robert Wright]]`
+- `[[12 why buddhism is true]]`
+- `[[14 why buddhism is true]]`
+- `[[Poem with nirvana]]`
+- `[[13 why buddhism is true]]`
+- `[[15 why buddhism is true]]`
+- `[[Poem with nirvana]]`
+- `[[14 why buddhism is true]]`
+- `[[Poem with nirvana]]`
+- `[[16 why buddhism is true]]`
+- `[[12 why buddhism is true]]`
+- `[[13 why buddhism is true]]`
+- `[[14 why buddhism is true]]`
+- `[[15 why buddhism is true]]`
+- `[[Robert Wright]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[notas de retiro dhamma sarana]]`
+- `[[061223]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[051223]]`
+- `[[Gilberto Silva]]`
+- `[[071223]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[061223]]`
+- `[[nota sobre essa nota de 071223]]`
+- `[[081223]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[071223]]`
+- `[[Frankl, Viktor]]`
+- `[[Frankl, Viktor]]`
+- `[[091223]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[081223]]`
+- `[[101223]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[091223]]`
+- `[[Dietlevsen, Tove]]`
+- `[[Gaspari, Ilaria]]`
+- `[[111223]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[101223]]`
+- `[[121223]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[111223]]`
+- `[[Analayo]]`
+- `[[131223]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[Sam Harris]]`
+- `[[151223]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[The Way of Chuang Tzu by Thomas Merton]]`
+- `[[Thomas Merton]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[ottappa]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[sacerdotisa]]`
+- `[[interesses de pesquisa]]`
+- `[[Autoficção]]`
+- `[[blog]]`
+- `[[plano de ação nr. 456379]]`
+- `[[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/333 páginas para tirar seu projeto do papel]]`
+- `[[CRIMES FROM THE FUTURE]]`
+- `[[Happycracia]]`
+- `[[o sentido verdadeiro da felicidade]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[why buddhism is true - O papel da autodisciplina]]`
+- `[[cap 9 autodisciplina -  questões relacionadas]]`
+- `[[simple pratices to enhance metacognition]]`
+- `[[nosurf]]`
+- `[[Sontag, Susan]]`
+- `[[SUSAN SONTAG ON WRITING]]`
+- `[[mushrooms, a poem by Sylvia Plath]]`
+- `[[no antigo império persa, os homens debatiam duas vezes]]`
+- `[[formas sóbrias de exercitar sua criatividade]]`
+- `[[Projeto Psiconautas]]`
+- `[[dicas de cultivo]]`
+- `[[protocolo de md 2022]]`
+- `[[Vendendo psicodélico por lebre - ZT]]`
+- `[[Crítica às Experiências Religiosas com Alucinógenos]]`
+- `[[Happycracia]]`
+- `[[apneia de telas]]`
+- `[[filosofia da tecnologia]]`
+- `[[251020220040]]`
+- `[[ resposta 8 como a meditação pode intervir...]]`
+- `[[resposta 11 como a abordagem modular...]]`
+- `[[resposta 12 sobre a tecnica RAIN]]`
+- `[[why buddhism is true - O papel da autodisciplina]]`
+- `[[Coincidências são reais]]`
+- `[[Por Que Fatos Não Mudam Nossas Mentes]]`
+- `[[Para quê serve a crença]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[eneagrama]]`
+- `[[INTP T]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[17-12-2021]]`
+- `[[interesses de pesquisa]]`
+- `[[interesses de pesquisa]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD]]`
+- `[[interesses de pesquisa]]`
+- `[[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/333 páginas para tirar seu projeto do papel]]`
+- `[[interesses de pesquisa]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD]]`
+- `[[dissertação index]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[220920221553]]`
+- `[[proposta de estágio IEL]]`
+- `[[rem - redução de emissão máxima]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[chatgpt]]`
+- `[[dissertação index]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[220920221553]]`
+- `[[dissertação index]]`
+- `[[Saramäki - RESUMÃO]]`
+- `[[Feynman's Approach]]`
+- `[[dissertação index]]`
+- `[[dissertação index]]`
+- `[[dissertação index]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[220920221553]]`
+- `[[dissertação index]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[220920221553]]`
+- `[[dissertação index]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[220920221553]]`
+- `[[Saramäki, Jari]]`
+- `[[dissertação index]]`
+- `[[NOTAS DE LEITURA/LIVROS/How to Take Smart Notes]]`
+- `[[dissertação index]]`
+- `[[dissertação index]]`
+- `[[Feynman's Approach]]`
+- `[[dissertação index]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[220920221553]]`
+- `[[dissertação index]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[220920221553]]`
+- `[[ Morning Pages technique]]`
+- `[[EPISTEMES CONTEMPORÂNEAS Ecco 2020]]`
+- `[[Epistemes Contemporâneas]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[prática de meditação Space-Time Bridging]]`
+- `[[O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[Vipassana e TAD]]`
+- `[[Dostoiévski, Fiodor]]`
+- `[[O Individualista]]`
+- `[[Epistemes Contemporâneas]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[Repetição espaçada - Spaced repetition]]`
+- `[[anki tips]]`
+- `[[all about anki]]`
+- `[[usando o ANKI para aprender QUALQUER COISA]]`
+- `[[DEFESA EM 12 PASSOS]]`
+- `[[anki para concursos]]`
+- `[[Plath, Sylvia]]`
+- `[[hifacultura]]`
+- `[[terapia psicodélica]]`
+- `[[o poema cogumelos explicado]]`
+- `[[Montaigne, Michel de]]`
+- `[[Os Ensaios-2]]`
+- `[[Os ensaios-1659546365469]]`
+- `[[selena gomez]]`
+- `[[SUMÁRIO SEMANA 23 EM screenshot]]`
+- `[[TOTALIZANTE]]`
+- `[[Alan Wake II - Maestria da narrativa]]`
+- `[[5 pontos sobre Economia da Atenção]]`
+- `[[TAD]]`
+- `[[Como TAD pode me ajudar]]`
+- `[[Vipassana e TAD]]`
+- `[[Como parar de viver no piloto automático]]`
+- `[[mushrooms, a poem by Sylvia Plath]]`
+- `[[plenitude]]`
+- `[[dissertação index]]`
+- `[[6 palpites de coisas que o mundo precisa e ninguém está a fazer nas humanidades]]`
+- `[[humanidades digitais]]`
+- `[[5 estratégias para potencializar a empatia através da investigação acadêmica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[meditar no quintal]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[dissertação index]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[220920221553]]`
+- `[[lições de um retiro longo de meditação VERSÃO ATUALIZADA]]`
+- `[[milesima tentativa de resumir leituras do retiro]]`
+- `[[ACRÔNIMO SINS]]`
+- `[[O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[Vipassana e TAD]]`
+- `[[Analayo-Perspectives on Satipatthana]]`
+- `[[body scan]]`
+- `[[interocepção e a exterocepção]]`
+- `[[extra - Analisando as notas sob uma perspectiva superior]]`
+- `[[Protocolo de escrita para saúde]]`
+- `[[Protocolo de escrita para saúde - consensus]]`
+- `[[Writing About Emotional Experiences as a Therapeutic Process]]`
+- `[[28 dias usando ginseng e ginkgo]]`
+- `[[GINGKO BILOBA - INSIGNIFICANTE]]`
+- `[[Dieta da mente segundo Dr Permutter]]`
+- `[[Hericium + Ganoderma]]`
+- `[[microdose para produtividade]]`
+- `[[interesses de pesquisa]]`
+- `[[300920221013]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/# 8 estratégias para encontrar o problema com o qual trabalhar numa tese]]`
+- `[[interesses de pesquisa]]`
+- `[[plenitude]]`
+- `[[interesses de pesquisa]]`
+- `[[dissertação index]]`
+- `[[plenitude]]`
+- `[[interesses de pesquisa]]`
+- `[[dissertação index]]`
+- `[[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/333 páginas para tirar seu projeto do papel]]`
+- `[[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]`
+- `[[plenitude]]`
+- `[[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]`
+- `[[Terceira orientação pós retiro]]`
+- `[[Segunda orientação pós retiro]]`
+- `[[Primeira orientação pós retiro]]`
+- `[[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]`
+- `[[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/333 páginas para tirar seu projeto do papel]]`
+- `[[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel.md]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/333 páginas para tirar seu projeto do papel]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/2022-07-27.md]]`
+- `[[NOTAS DE LEITURA/LIT/202207142241.md]]`
+- `[[NOTAS DE LEITURA/LIT/202207142245.md]]`
+- `[[NOTAS DE LEITURA/LIT/202207142252.md]]`
+- `[[NOTAS DE LEITURA/LIT/202207142255.md]]`
+- `[[NOTAS DE LEITURA/LIT/202207142258.md]]`
+- `[[NOTAS DE LEITURA/LIT/202207142300.md]]`
+- `[[NOTAS DE LEITURA/LIT/202207142313.md]]`
+- `[[NOTAS DE LEITURA/LIT/202207142316.md]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/202207142321]]`
+- `[[NOTAS DE LEITURA/LIT/202207142326.md]]`
+- `[[aos 80 anos...]]`
+- `[[cheat code de dinheiro infinito]]`
+- `[[conte sobre seu projeto para todo mundo]]`
+- `[[descobrindo o que seu projeto pode ser]]`
+- `[[eu sou bom em quê]]`
+- `[[Larusso-333 páginas para tirar seu projeto do papel]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/meta notas/novos projetos]]`
+- `[[o que o mundo precisa e ninguem esta fazendo]]`
+- `[[o que o projeto deve potencializar em mim]]`
+- `[[ORFÃOS notas passageiras]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/quais problemas seu projeto pode resolver]]`
+- `[[quais sao seus medos]]`
+- `[[qual o ancestral do meu projeto]]`
+- `[[qual o seu porque]]`
+- `[[qual o seu proposito]]`
+- `[[quem é voce]]`
+- `[[SEM TAGS]]`
+- `[[SEM TAGS]]`
+- `[[um dia uma semana um mes um ano]]`
+- `[[walker crianca]]`
+- `[[Quarta orientação pós retiro]]`
+- `[[Terceira orientação pós retiro]]`
+- `[[Segunda orientação pós retiro]]`
+- `[[Primeira orientação pós retiro]]`
+- `[[contemporaneo x classico]]`
+- `[[dark forest]]`
+- `[[dissertação index]]`
+- `[[Primeira postagem]]`
+- `[[relacionando leituras com notas do retiro - 111223]]`
+- `[[relacionando leituras com notas do retiro - 091223]]`
+- `[[relacionando leituras com notas do retiro - 081223]]`
+- `[[relacionando leituras com notas do retiro - 071223]]`
+- `[[relacionando leituras com notas do retiro - 111223]]`
+- `[[relacionando leituras com notas do retiro - 091223]]`
+- `[[relacionando leituras com notas do retiro - 081223]]`
+- `[[relacionando leituras com notas do retiro - 071223]]`
+- `[[resposta-sol2070 - postagem]]`
+- `[[porque o budismo funciona]]`
+- `[[lições de um retiro longo de meditação - ANALISE GPT 4]]`
+- `[[141223]]`
+- `[[Primeira orientação pós retiro]]`
+- `[[Terceira orientação pós retiro]]`
+- `[[Terceira orientação pós retiro]]`
+- `[[Segunda orientação pós retiro]]`
+- `[[Primeira orientação pós retiro]]`
+- `[[Primeira orientação pós retiro]]`
+- `[[extra - Analisando as notas sob uma perspectiva superior]]`
+- `[[Terceira orientação pós retiro]]`
+- `[[Segunda orientação pós retiro]]`
+- `[[Primeira orientação pós retiro]]`
+- `[[plenitude]]`
+- `[[dissertação index]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[220920221553]]`
+- `[[Quarta orientação pós retiro]]`
+- `[[Terceira orientação pós retiro]]`
+- `[[Segunda orientação pós retiro]]`
+- `[[Primeira orientação pós retiro]]`
+- `[[dissertação index]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[William Zinsser]]`
+- `[[220920221553]]`
+- `[[interesses de pesquisa]]`
+- `[[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/meta notas/novos projetos]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[Manufacturing Happy Citizens]]`
+- `[[Happycracia]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[eneagrama]]`
+- `[[lições de um retiro longo de meditação]]`
+- `[[notas de retiro dhamma sarana]]`
+- `[[NOTAS DE LEITURA/LIVROS/Torne-Se Quem Você é.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/O Livro Da Vida-2.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/Homo Deus-3.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/Deep Thinking in the Age of Distraction – The Startup – Medium.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/Como Viver.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/Como Viver-2.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/Cartas De Um Diabo a Seu Aprendiz.md]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/A Vida Intelectual]]`
+- `[[NOTAS DE LEITURA/LIVROS/50 Ways to Live on Your Own Terms.md]]`
+- `[[21 Lições Para O Século 21]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/PSICODELICO/Os psicodélicos mostram que a religião não é o único caminho para a espiritualidade.md]]`
+- `[[NOTAS DE LEITURA/LIT/ottappa.md]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/O livro da vida]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Como viver]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/KINDLE HIGHLIGHTS/A Vida Intelectual]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/CE1000PD]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/5 estratégias para potencializar a empatia através da investigação acadêmica.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/19082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/15082022.md]]`
+- `[[Usando o êxtase a seu favor]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/14082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/17082022.md]]`
+- `[[O significado do número 108 no budismo]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/13082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/12082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/11082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/Vipassana.md]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/Relacione cibernética com autenticidade]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/Meditation is like mountaineering approach it with care.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/ELIT/20082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/300920221642.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/2020-01-02.md]]`
+- `[[Serviço do Dhamma]]`
+- `[[lições de um retiro longo de meditação]]`
+- `[[Robert Wright]]`
+- `[[cap 9 autodisciplina -  questões relacionadas]]`
+- `[[resposta 11 como a abordagem modular...]]`
+- `[[A técnica RAIN]]`
+- `[[dissertação index]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[220920221553]]`
+- `[[Saramäki, Jari]]`
+
+### 1000-assinantes.md
+- `[[newsletter nova - baseada neste vault]]`
+- `[[TORÓ DE IDEIAS PARA GERAR UMA NOVA substack]]`
+- `[[Fazendo sucesso no Threads]]`
+- `[[Para além dos jardins  murados dos substack]]`
+- `[[Etapas para se tornar um criador de conteúdo]]`
+- `[[FAROFA DA GKAY]]`
+- `[[Epistemes Contemporâneas]]`
+- `[[DISSERTAÇÃO MESTRADO WALKER]]`
+- `[[tecnocracia podcast — de narrar]]`
+- `[[THE PLAYLIST DOCUMENTÁRIO]]`
+- `[[Montaigne, Michel de]]`
+- `[[ceticismo em montaigne]]`
+- `[[Autenticidade]]`
+- `[[O TEXTO E O TEMPO (WEBINAR)]]`
+- `[[dissertação index]]`
+- `[[O TEXTO E O TEMPO (WEBINAR)]]`
+- `[[William Zinsser]]`
+- `[[Como Escrever Bem]]`
+- `[[A Importância de Criar Conteúdo Autêntico com ChatGPT]]`
+- `[[INFP-T (T é para Turbulento)]]`
+- `[[5 Uses for ChatGPT really original]]`
+- `[[A autenticidade é um conceito bastante abstrato]]`
+- `[[meta-prompt Article to notes]]`
+- `[[how would you like chatgpt to respond - HWYLTA]]`
+- `[[zettel-this custom prompt]]`
+- `[[O TEXTO E O TEMPO (WEBINAR)]]`
+- `[[Substack é uma ameaça, mais ou menos]]`
+- `[[filosofia do texto puro - mataroa]]`
+- `[[Porque tentar o mataroa]]`
+- `[[A Polêmica do Substack com Conteúdos Neonazistas]]`
+- `[[Autenticidade]]`
+- `[[esboço de artigo sobre autenticidade]]`
+- `[[A Polêmica do Substack com Conteúdos Neonazistas]]`
+- `[[A merdificação das plataformas]]`
+- `[[substackers contra nazis]]`
+- `[[O TEXTO E O TEMPO (WEBINAR)]]`
+- `[[wired with a coder]]`
+- `[[substack, revue e blog]]`
+- `[[PITCH]]`
+- `[[portfolio]]`
+- `[[Autenticidade]]`
+- `[[bereal e a busca inalcançável pela autenticidade]]`
+- `[[pitch educação é a resposta]]`
+- `[[PITCH]]`
+- `[[Algoritmos e Criatividade - ecco 2023]]`
+- `[[sobre a criatividade]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/333 prompts criativos]]`
+- `[[Como se divertir]]`
+- `[[álcool e drogas nao te fazem mais criativo]]`
+- `[[substack, revue e blog]]`
+- `[[w4lker ponto com ponto br]]`
+- `[[Tim Berners-Lee]]`
+- `[[padroes de hipertexto e criação lit]]`
+- `[[jardins digitais]]`
+- `[[link para imagem]]`
+- `[[TORÓ DE IDEIAS PARA GERAR UMA NOVA substack]]`
+- `[[AI Reveals the Most Human Parts of Writing]]`
+- `[[William Zinsser]]`
+- `[[produtividade no wisecrack]]`
+- `[[links one tab dez de 2022]]`
+- `[[zettelkasten - deutch - falácia do colecionador]]`
+- `[[The Complete Works of Henry David Thoreau-2]]`
+- `[[Por Que Manter Um Diário Pode Mudar Sua Vida]]`
+- `[[Need for Drama]]`
+- `[[How to Find Your Most Productive Hours of the Day]]`
+- `[[NOTAS DE LEITURA/LIVROS/How to Take Smart Notes]]`
+- `[[NOTAS DE LEITURA/LIVROS/How to Do Nothing]]`
+- `[[Fnhum.2017.00224]]`
+- `[[NOTAS DE LEITURA/LIVROS/Digital Zettelkasten]]`
+- `[[50 Ways to Live on Your Own Terms]]`
+- `[[11 Productivity Hacks You Need to Know Right Now – The Mission – Medium]]`
+- `[[zettelkasten guide]]`
+- `[[Saramäki-How To Write A Scientific Paper]]`
+- `[[NOTAS DE LEITURA/LIVROS/How to Take Smart Notes]]`
+- `[[NOTAS DE LEITURA/LIVROS/How to Do Nothing]]`
+- `[[NOTAS DE LEITURA/LIVROS/Digital Zettelkasten]]`
+- `[[dantas-zettelkasten guide]]`
+- `[[Ahrens-How to Take Smart Notes]]`
+- `[[Como fazer nada]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/INFP]]`
+- `[[081220221047]]`
+- `[[goblin mode]]`
+- `[[obsidian]]`
+- `[[suposto chefe]]`
+- `[[proposta de estágio IEL]]`
+- `[[PITCH]]`
+- `[[quisquilae]]`
+- `[[milesima tentativa de resumir leituras do retiro]]`
+- `[[post blog 1 150124]]`
+- `[[LEITURAS CLANDESTINAS I]]`
+- `[[milesima tentativa de resumir leituras do retiro]]`
+- `[[post blog 1 150124]]`
+- `[[LEITURAS CLANDESTINAS I]]`
+- `[[esquema - LEITURAS CLANDESTINAS 4]]`
+- `[[SP - ROTEIRO PARA UM ESTUDANTE DE GEOGRAFIA]]`
+- `[[Saindo para próxima viagem]]`
+- `[[Roteiros de viagem para São Paulo - personalizadíssimo]]`
+- `[[Chico Moura and Wilma Moura]]`
+- `[[ escrita clara é como um videogame]]`
+- `[[NOTAS DE LEITURA/LIVROS/Tirando De Letra]]`
+- `[[aprenda a curtir as idas e vindas]]`
+- `[[Como Escrever Bem]]`
+- `[[A reescrita é crucial]]`
+- `[[GUIA - SMART BREVITY]]`
+- `[[Como a salsicha é feita - a parte técnica das newsletters]]`
+- `[[A Polêmica do Substack com Conteúdos Neonazistas]]`
+- `[[filosofia do texto puro - mataroa]]`
+- `[[portfolio]]`
+- `[[nova newsletter - toró de ideias]]`
+- `[[substack, revue e blog]]`
+- `[[w4lker ponto com ponto br]]`
+- `[[Tim Berners-Lee]]`
+- `[[padroes de hipertexto e criação lit]]`
+- `[[jardins digitais]]`
+- `[[a web está mal]]`
+- `[[atualizando o domínio]]`
+
+### 11-20251023.md
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[o que podemos aprender sobre resistência com os programadores]]`
+- `[[cap 1]]`
+- `[[wired - sobre capitalismo e tecnologia]]`
+- `[[Meganets - Dan Auerbach]]`
+- `[[Heidegger, Martin]]`
+- `[[paradoxo de polanyi]]`
+- `[[paradoxo da contemporaneidade]]`
+- `[[011220221620]]`
+- `[[DASEIN]]`
+- `[[chat do substack]]`
+- `[[filosofia da tecnologia]]`
+- `[[PROJETOS DE HUMANIDADES NA PANDEMIA VIA NEXO]]`
+- `[[dissertação index]]`
+- `[[inumeráveis no nexo]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[um sombrio aviso]]`
+- `[[hipercultura]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[Han-Hiperculturalidade]]`
+- `[[Han, Byung-Chul]]`
+- `[[071020221000]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[hipercultura]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[Han-Hiperculturalidade]]`
+- `[[Han, Byung-Chul]]`
+- `[[071020220916]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[05-12-2022]]`
+- `[[episteme]]`
+- `[[hipercultura]]`
+- `[[interesses de pesquisa]]`
+- `[[Globalização]]`
+- `[[Foucault e a globalização]]`
+- `[[interesses de pesquisa]]`
+- `[[101020221256]]`
+- `[[episteme]]`
+- `[[Foucault, Michel]]`
+- `[[Globalização]]`
+- `[[hipercultura]]`
+- `[[filosofia da linguagem]]`
+- `[[Derrida]]`
+- `[[Deleuze]]`
+- `[[Foucault, Michel]]`
+- `[[Hui, Yuk]]`
+- `[[Han, Byung-Chul]]`
+- `[[Foucault, Michel]]`
+- `[[Santos, Milton]]`
+- `[[Han, Byung-Chul]]`
+- `[[GLOBALIZAÇÃO - INDEX]]`
+- `[[episteme]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[dissertação index]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[Bauman, Zygmunt]]`
+- `[[Santos, Milton]]`
+- `[[Chuang Tzu]]`
+- `[[dissertação index]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[Bauman, Zygmunt]]`
+- `[[Santos, Milton]]`
+- `[[Chuang Tzu]]`
+- `[[William Zinsser]]`
+- `[[lide com o lide]]`
+- `[[Como Escrever Bem]]`
+- `[[ELO]]`
+- `[[Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Hiperculturalidade]]`
+- `[[filosofia da tecnologia]]`
+- `[[Eichhorn, Kate]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[A revolução das máquinas de conteúdo]]`
+- `[[Como Escrever Bem]]`
+- `[[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]`
+- `[[eight by seven]]`
+- `[[Hipertexto]]`
+- `[[ELO]]`
+- `[[Tim Berners-Lee]]`
+- `[[George Landow]]`
+- `[[Manual de Sobrevivência à era da IA]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[A revolução das máquinas de conteúdo]]`
+- `[[Olavo Amaral sobre regulação da IA]]`
+- `[[racismo algorítmico]]`
+- `[[dissertação index]]`
+- `[[ o que são os deep fakes]]`
+- `[[ quem ta consertando a internet]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[medium quebrou]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[Como Escrever Bem]]`
+- `[[William Zinsser]]`
+- `[[Cérebro e corpo são mais interligados do que imaginávamos]]`
+- `[[Manual do Método de Journaling para Melhoria da Saúde Mental e Física]]`
+- `[[PRINCIPAIS CONCEITOS 29112023]]`
+- `[[Jenny Odell]]`
+- `[[Políticas Da Imagem]]`
+- `[[Políticas da imagem-1669928668195]]`
+- `[[5 pontos sobre Economia da Atenção]]`
+- `[[NOTAS DE LEITURA/LIVROS/How to Do Nothing]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/How to Do Nothing]]`
+- `[[grinding no biohacking]]`
+- `[[A reflexão sobre a tecnologia e a vida humana]]`
+- `[[o fim do antropoceno]]`
+- `[[o fim do antropoceno]]`
+- `[[o fim do antropoceno]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Eichhorn, Kate]]`
+- `[[Os alunos estão acertando seus deveres de casa, entregando ensaios gerados por máquinas]]`
+- `[[A ascensão da indústria de conteúdo]]`
+- `[[Analogias sobre a contradição capitalisma na indústria do conteúdo]]`
+- `[[The Age of Social Media Is Ending]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Flow]]`
+- `[[digital minimalism]]`
+- `[[Trabalho Focado]]`
+- `[[chatgpt roubou seu trabalho - e agora oque farás (pergunta)]]`
+- `[[cal newport]]`
+- `[[Simondon, Gilbert]]`
+- `[[Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a]]`
+- `[[The Age of Social Media Is Ending]]`
+- `[[NOTAS DE LEITURA/LIVROS/Flow]]`
+- `[[digital minimalism]]`
+- `[[estudos da mídia]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[pós-modernismo]]`
+- `[[Kierkegaard]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[filosofia da tecnologia]]`
+- `[[aura em benjamin]]`
+- `[[GPT COMO MICROFONE]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[sobre a criatividade]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[mudar o enfoque do desenvolvimento de IA]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[The banality of ChatGPT]]`
+- `[[BERT]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[referência a watchmen]]`
+- `[[NOTAS DE LEITURA/LIVROS/O Fascismo Eterno]]`
+- `[[Benjamin, Walter]]`
+- `[[estudos da mídia]]`
+- `[[hipercultura]]`
+- `[[hipermídia]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Repetição espaçada - Spaced repetition]]`
+- `[[usando o ANKI para aprender QUALQUER COISA]]`
+- `[[anki tips]]`
+- `[[pkm fragmenta nossa forma de entender o mundo]]`
+- `[[o que é PKM]]`
+- `[[ usando o ANKI para aprender QUALQUER COISA]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[O aumento da oferta de textos causado pelo advento de grandes modelos de linguagem]]`
+- `[[chatgpt]]`
+- `[[chat gpt ajudou a complementar esse texto]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[Algoritmos e Criatividade - ecco 2023]]`
+- `[[Anna L Tsing]]`
+- `[[Mushrooms ate the end of the world]]`
+- `[[The Mushroom at the End of the World (philosophia review)]]`
+- `[[book review Progress in human geography]]`
+- `[[Making worlds at the end of the world]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[sindrome do impostor e dunning krugger efeito]]`
+- `[[paradoxo de polanyi]]`
+- `[[filosofia da tecnologia]]`
+- `[[Como o paradoxo de polanyi tem sido superado]]`
+- `[[a técnica do feynman]]`
+- `[[Como o ChatGPT funciona]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[AI Shouldn’t Compete With Workers]]`
+- `[[um sombrio aviso]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[armadilha do progresso]]`
+- `[[filosofia da tecnologia]]`
+- `[[chat gpt na vice]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[ELO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[SEARLE, JOHN]]`
+- `[[ editing web pages became difficult and complicated for people]]`
+- `[[interesses de pesquisa]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Hipertexto]]`
+- `[[Publishing versus communicating]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[interesses de pesquisa]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[primeira postagem.]]`
+- `[[trabalhos de faculdade]]`
+- `[[ ficou mais fácil]]`
+- `[[diversos escândalos]]`
+- `[[tecnocéticos]]`
+- `[[ um terço de todos os internautas na rede.]]`
+- `[[James Bridle]]`
+- `[[World Wide Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[“Hora do Vapor”]]`
+- `[[Tim Berners-Lee]]`
+- `[[linguagem especial ]]`
+- `[[blogs]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[ ocorrem corriqueiramente]]`
+- `[[a origem do termo economia da atenção]]`
+- `[[entre tantos outros]]`
+- `[[chat gpt ajudou a complementar esse texto]]`
+- `[[Globalização]]`
+- `[[Nomades digitais e CT]]`
+- `[[cartografia social - João Antonio castrillon]]`
+- `[[Questionário socioeconomico e demais Informações]]`
+- `[[Maps shape our lives]]`
+- `[[ECCO 2023 - Geografia e ativismo social]]`
+- `[[Geografia Humana]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/CE1000PD]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[CE1000PD LIVE]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[literature, at least in theory, enhance my metacognition]]`
+- `[[The Psychedelic Scientist Who Sends Brains Back to Childhood]]`
+- `[[Maryanne Wolf]]`
+- `[[chatgpt]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[cap 1]]`
+- `[[filosofia da tecnologia]]`
+- `[[tecnocéticos]]`
+- `[[ceticismo]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[armadilha do progresso]]`
+- `[[filosofia da tecnologia]]`
+- `[[The banality of ChatGPT]]`
+- `[[chatgpt]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[Atlantic argumentou que o ChatGPT é divertido e não persuasivo]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[chatgpt]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[a tecnologia quebrou nossos cérebros]]`
+- `[[filosofia da tecnologia]]`
+- `[[chatgpt]]`
+- `[[Don’t ask if artificial intelligence is good or fair, ask how it shifts power]]`
+- `[[notas sobre RAN]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte um]]`
+- `[[IA está assumindo enigmas cada vez maiores]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[armadilha do progresso]]`
+- `[[filosofia da tecnologia]]`
+- `[[Ciberespaço]]`
+- `[[metaverso]]`
+- `[[artigo sobre IA e Polanyi]]`
+- `[[World Wide Web]]`
+- `[[tecnocéticos]]`
+- `[[Levy, Pierre]]`
+- `[[NOTAS PARA REVISAR/Interesses de Pesquisa/interessesdepesquisa]]`
+- `[[w gibson]]`
+- `[[hipermídia]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[hifacultura]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/filosofia/Relacione cibernética com autenticidade]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[Comparação de ChatGPT, Bing Chat e Bard - wired zt]]`
+- `[[writing with AI - IA net]]`
+- `[[writing with AI - IA net]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[estudos da mídia]]`
+- `[[FAROFA DA GKAY]]`
+- `[[dissertação index]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[a internet ta quebrada]]`
+- `[[A internet corre o risco de afastar as mulheres]]`
+- `[[como consertar a internet]]`
+- `[[ o que há de errado com a internet segundo o medium]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[a internet ta quebrada]]`
+- `[[A internet corre o risco de afastar as mulheres]]`
+- `[[como consertar a internet]]`
+- `[[como consertar a internet  - sumário]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[lendo fooquedeu]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/How to Do Nothing]]`
+- `[[NOTAS DE LEITURA/LIVROS/How to Do Nothing]]`
+- `[[her writing]]`
+- `[[Refusal, she writes, was exemplified by the Greek philosopher Diogenes,]]`
+- `[[The Age of Surveillance Capitalism”]]`
+- `[[How to Change Your Mind]]`
+- `[[paradoxo de polanyi]]`
+- `[[como o computador “aprende”]]`
+- `[[filosofia da tecnologia]]`
+- `[[tecnocéticos]]`
+- `[[a tecnologia quebrou nossos cérebros]]`
+- `[[filosofia da tecnologia]]`
+- `[[como perceber um texto gerado por IA segundo... uma IA]]`
+- `[[Como Escrever Bem]]`
+- `[[pesquisas apenas on-line]]`
+- `[[Malcolm Gladwell faz apologia das bibliotecas]]`
+- `[[chatgpt]]`
+- `[[teoria da cauda longa e a indústria do conteúdo - revisão 1]]`
+- `[[teoria da cauda longa e a indústria do conteúdo 1]]`
+- `[[metodologia]]`
+- `[[dissertação index]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[NOTAS DE LEITURA/LIVROS/Metodologia Do Trabalho Científico]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[armadilha do progresso]]`
+- `[[filosofia da tecnologia]]`
+- `[[Atlantic argumentou que o ChatGPT é divertido e não persuasivo]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[GLOBALIZAÇÃO - INDEX]]`
+- `[[Ciberespaço]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[Relacionar a hipercultura com a globalização]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[dicotomia antigo e contemporaneo]]`
+- `[[simplifique, simplifique, simplifique]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[contemporaneo x classico]]`
+- `[[2022-W25]]`
+- `[[a trama da vida podcast poe na estante]]`
+- `[[interesses de pesquisa]]`
+- `[[estudos]]`
+- `[[giuseppe paterno]]`
+- `[[insight sobre minha dissertação]]`
+- `[[o que significa escrever na era da internet]]`
+- `[[quisquilae]]`
+- `[[Relatório da bolsa]]`
+- `[[sobre como alguem le]]`
+- `[[SUMÁRIO SEMANA 23 EM screenshot]]`
+- `[[ursula le guin quote]]`
+- `[[Como se faz uma tese]]`
+- `[[Como se faz uma tese]]`
+- `[[Thoreau, Henry David]]`
+- `[[Walden Or Life In The Woods]]`
+- `[[dissertação index]]`
+- `[[World Wide Web]]`
+- `[[identificando content farms]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[how to with John wilson]]`
+- `[[Austerlitz]]`
+- `[[Sebald, W. G.]]`
+- `[[Understanding Sebald]]`
+- `[[dissertação index]]`
+- `[[Globalização]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[usar o gpt é low effort (pergunta)]]`
+- `[[ALARMADOS PELO GPT3, UNIVERSIDADES COMEÇAM E REVISAR SUA FORMA DE ENSINAR - artigo]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[081120221122]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[Políticas Da Imagem]]`
+- `[[escrita terapeutica nexo jornal]]`
+- `[[mapa sonoro na pandemia]]`
+- `[[covid museum]]`
+- `[[Políticas Da Imagem]]`
+- `[[arte como efeito terapeutico]]`
+- `[[Isto não é um cachimbo]]`
+- `[[eis dois cachimbos]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[new dark age]]`
+- `[[World Wide Web]]`
+- `[[Eugênio Bucci]]`
+- `[[Eugênio Bucci]]`
+- `[[Postmodernism]]`
+- `[[Derrida]]`
+- `[[Kant]]`
+- `[[Georg Wilhelm Friedrich Hegel]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[O paradoxo da fé]]`
+- `[[A Sociedade Do Espetáculo]]`
+- `[[Tudo que é sólido desmancha no ar]]`
+- `[[ABSTRACT PHANTOM]]`
+- `[[Cosmodernism and planetarism]]`
+- `[[Postmodernism]]`
+- `[[8 questions for my interview with a postmodern philosopher]]`
+- `[[w gibson]]`
+- `[[Ciberespaço]]`
+- `[[Arqueologias do futuro]]`
+- `[[Existencialismo]]`
+- `[[Heidegger, Martin]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/READY-NOTES]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[Notas essencias de Work, por James Suzman]]`
+- `[[A conexão entre aceleração de partículas e práticas indígenas]]`
+- `[[Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo]]`
+- `[[pesquisas apenas on-line]]`
+- `[[lide com o lide]]`
+- `[[Como se faz uma tese]]`
+- `[[Como Escrever Bem]]`
+- `[[dicotomia antigo e contemporaneo]]`
+- `[[contemporaneo x classico]]`
+- `[[cap 1]]`
+- `[[Políticas Da Imagem]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Tecnodiversidade]]`
+- `[[wired with a coder]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/INFP]]`
+- `[[o conceito de pretoguês]]`
+- `[[Galego e Português]]`
+- `[[zettelzinsser chapter 7]]`
+- `[[David Graeber]]`
+- `[[David Wengrow]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[podcast o despertar de tudo]]`
+- `[[Harari, Yuval Noah]]`
+- `[[David Wengrow]]`
+- `[[O despertar de tudo]]`
+- `[[NATURE ISSUES FOR DEBATE - CHATGPT]]`
+- `[[Duas reagras básicas (segundo a Resvista Nature)]]`
+- `[[exemplo de inclusão do chatgpt na seção de métodos]]`
+- `[[Como Escrever Bem]]`
+- `[[William Zinsser]]`
+- `[[Todo projeto de texto deve ser reduzido antes de começar a escrever]]`
+- `[[Como se faz uma tese]]`
+- `[[Como Escrever Bem]]`
+- `[[lide com o lide]]`
+- `[[William Zinsser]]`
+- `[[Como Escrever Bem]]`
+- `[[NOTAS DE LEITURA/LIVROS/Zen E a Arte Da Escrita]]`
+- `[[NOTAS DE LEITURA/LIVROS/A Arte De Escrever]]`
+- `[[A Arte De Escrever-2]]`
+- `[[advérbios como ameaças ao edifício verbal]]`
+- `[[cyberspace independence 96]]`
+- `[[a origem do termo economia da atenção]]`
+- `[[5 pontos sobre Economia da Atenção]]`
+- `[[0 - VAULT/2 NOTAS PERMANENTES/o mercado, o indivíduo e como sua atenção se tornou uma mercadoria]]`
+- `[[HTML]]`
+- `[[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]`
+- `[[dissertação index]]`
+- `[[interesses de pesquisa]]`
+- `[[Foucault, Michel]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/MAGRITTE PROMPT]]`
+- `[[caligrama]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[Foucault, Michel]]`
+- `[[quisquilae]]`
+- `[[interesses de pesquisa]]`
+- `[[dissertação index]]`
+- `[[BERT]]`
+- `[[como o computador “aprende”]]`
+- `[[exemplo de uso de gpt-3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[poesia feita por gpt3]]`
+- `[[prompts midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[chatgpt]]`
+- `[[chatgpt]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[Robôs com um toque humano (pergunta) Sim, por favor]]`
+- `[[filosofia da tecnologia]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[prompts]]`
+- `[[prompts midjourney]]`
+- `[[digital humanities]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/1 DISSERTAÇÃO/📕 DISSERTAÇÃO/dissertação/stengers]]`
+- `[[cris e edu]]`
+- `[[Projeto REM-MT]]`
+- `[[dicas para ajudá-lo a aceitar sua entrevista]]`
+- `[[interpretação de imagens expandido ]]`
+- `[[081120221122]]`
+- `[[Ciberespaço]]`
+- `[[NOTAS PERMANENTES/quais problemas seu projeto pode resolver]]`
+- `[[episteme]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[episteme]]`
+- `[[Foucault, Michel]]`
+- `[[foucault this is not a pipe]]`
+- `[[Livros Nexo História e Política Contemporânea]]`
+- `[[EPISTEMES CONTEMPORÂNEAS Ecco 2020]]`
+- `[[O despertar de tudo]]`
+- `[[episteme]]`
+- `[[mestizaje]]`
+- `[[Canclini, Néstor García]]`
+- `[[interdisciplinaridade]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[ELO]]`
+- `[[Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica]]`
+- `[[dissertação index]]`
+- `[[interesses de pesquisa]]`
+- `[[A episteme de Foucault e a Hipercultura]]`
+- `[[episteme]]`
+- `[[O Que é Episteme]]`
+- `[[Epistemes Contemporâneas]]`
+- `[[dissertação index]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[hipercultura]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[hipercultura]]`
+- `[[Vilém Flusser]]`
+- `[[hipermídia]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/READY-NOTES]]`
+- `[[Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)]]`
+- `[[William Zinsser]]`
+- `[[Como Escrever Bem]]`
+- `[[ a guerra dos sexos -  sérgio rodrigues]]`
+- `[[Como Escrever Bem]]`
+- `[[William Zinsser]]`
+- `[[NATURE ISSUES FOR DEBATE - CHATGPT]]`
+- `[[Duas reagras básicas (segundo a Resvista Nature)]]`
+- `[[framework teórico de pesquisa]]`
+- `[[Joyce, Jaime]]`
+- `[[Eco, Umberto]]`
+- `[[Hipertexto]]`
+- `[[Clean perversion in consumer culture]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[Foucault, Michel]]`
+- `[[foucault this is not a pipe]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[Han, Byung-Chul]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[dicotomia antigo e contemporaneo]]`
+- `[[NOTAS DE LEITURA/LIVROS/Leonardo Da Vinci]]`
+- `[[Montaigne, Michel de]]`
+- `[[homem competente]]`
+- `[[Renascença]]`
+- `[[respostas da entrevista com o filosofo renascentista]]`
+- `[[episteme]]`
+- `[[Globalização]]`
+- `[[7 pontos-chave que eu deveria saber ao estudar a globalização]]`
+- `[[Globalização]]`
+- `[[Eco, Umberto]]`
+- `[[Hipertexto]]`
+- `[[interesses de pesquisa]]`
+- `[[aura em benjamin]]`
+- `[[Benjamin, Walter]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[filosofia da tecnologia]]`
+- `[[O microfone]]`
+- `[[Projeto Psiconautas]]`
+- `[[hipercultura]]`
+- `[[Han, Byung-Chul]]`
+- `[[Plantas Humildes e a Interconexão na Natureza]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[KINDLE-HIGHLIGHTS/Han-Hiperculturalidade]]`
+- `[[MICÉLIO]]`
+- `[[Cap. 4 - Mentes miceliais]]`
+- `[[Merlin Sheldrake]]`
+- `[[Deleuze]]`
+- `[[rizoma de Deleuze]]`
+- `[[terapia psicodélica]]`
+- `[[Cap. 4 - Mentes miceliais]]`
+- `[[hipercultura]]`
+- `[[hifacultura]]`
+- `[[Deleuze]]`
+- `[[Globalização]]`
+- `[[Indústria Cultural]]`
+- `[[Eichhorn, Kate]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[Byung-Chul Han]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[estudos da mídia]]`
+- `[[literatura ergódica]]`
+- `[[A HISTÓRIA DO HIPERTEXTO - 121020222345]]`
+- `[[ELO]]`
+- `[[Benjamin, Walter]]`
+- `[[estudos da mídia]]`
+- `[[hipercultura]]`
+- `[[hipermídia]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[dissertação index]]`
+- `[[How To Choose The Supporting Results]]`
+- `[[6 palpites de coisas que o mundo precisa e ninguém está a fazer nas humanidades]]`
+- `[[anti-psicodelia]]`
+- `[[Ray Kurzweil - ZT]]`
+- `[[Psiquiatras, Professores e o Paradoxo de Moravec]]`
+- `[[A IA em 2023 - e o que esperar em 2024]]`
+- `[[review On the Mode of Existence of Technical Objects by Simondon]]`
+- `[[O despertar de tudo]]`
+- `[[lembra que]]`
+- `[[Entrevista com Yuval Noah Harari]]`
+- `[[Harari, Yuval Noah]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/No tempo das catástrofes]]`
+- `[[The rehearsal]]`
+- `[[podcast o despertar de tudo]]`
+- `[[O passado não é mais como era antigamente]]`
+- `[[David Wengrow]]`
+- `[[David Graeber]]`
+- `[[Why smart people So Dumb Wisecrack]]`
+- `[[Jared Diamond]]`
+- `[[Steven Pinker]]`
+- `[[Entrevista com Yuval Noah Harari]]`
+- `[[amizade real]]`
+- `[[David Wengrow]]`
+- `[[David Graeber]]`
+- `[[David Wengrow]]`
+- `[[Dívida os primeiros 5000 anos]]`
+- `[[Why smart people So Dumb Wisecrack]]`
+- `[[Realismo Capitalista]]`
+- `[[Mark Fisher]]`
+- `[[David Wengrow]]`
+- `[[Isabelle Stengers]]`
+- `[[📚 NOTAS 📖 DE 📘 LITERATURA/LIVROS/No Tempo Das Catástrofes#^445468]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte um]]`
+- `[[IA WRITER sobre usar corretamente os recursos de IA]]`
+- `[[markdown]]`
+- `[[obsidian]]`
+- `[[IA WRITER sobre usar corretamente IA - com exemplos]]`
+- `[[Sumário Artigo THE INTERNET IS BROKEN]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[imagens não podem dizer não]]`
+- `[[Images cannot say Ain’ t]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[imagens não podem dizer não]]`
+- `[[Criticismo às redes sociais - artigo nexo]]`
+- `[[interesses de pesquisa]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Hipertexto]]`
+- `[[The Future of the Book]]`
+- `[[o meio é a mensagem]]`
+- `[[books vs other supports]]`
+- `[[Role of Automatons in Modern Society]]`
+- `[[The Consequences of AI Proliferation]]`
+- `[[radical AI network]]`
+- `[[dicas para ajudá-lo a aceitar sua entrevista]]`
+- `[[dicas para ajudá-lo a aceitar sua entrevista]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[081120221122]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[Políticas Da Imagem]]`
+- `[[escrita terapeutica nexo jornal]]`
+- `[[inumeráveis no nexo]]`
+- `[[distopia feudal digital]]`
+- `[[filosofia da tecnologia]]`
+- `[[quisquilae]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[NOTAS PARA REVISAR/Interesses de Pesquisa/interessesdepesquisa]]`
+- `[[World Wide Web]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[tecnocracia podcast — de narrar]]`
+- `[[dazed sobre amalia ulman]]`
+- `[[O TEXTO E O TEMPO (WEBINAR)]]`
+- `[[Eichhorn, Kate]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[Jameson, Fredric]]`
+- `[[Arqueologias do futuro]]`
+- `[[ELO]]`
+- `[[interesses de pesquisa]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Notas do debate Literatura e arte digital]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Notas do debate Literatura e arte digital]]`
+- `[[Sterne, Laurence]]`
+- `[[Montaigne, Michel de]]`
+- `[[Burton, Robert]]`
+- `[[A Vida e Opiniões do Tristram Shandy]]`
+- `[[071120222028]]`
+- `[[podcast o despertar de tudo]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[O despertar de tudo]]`
+- `[[Pasted image 20220825175702.png]]`
+- `[[Linguagem e capitalismo]]`
+- `[[Foucault, Michel]]`
+- `[[surrealismo]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[prompts midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[craiyon_2022-6-26_1-7-27.jpg]]`
+- `[[craiyon_2022-6-26_1-9-14.jpg]]`
+- `[[craiyon_2022-6-26_1-13-18.jpg]]`
+- `[[Benjamin, Walter]]`
+- `[[estudos da mídia]]`
+- `[[hipercultura]]`
+- `[[hipermídia]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[081120221122]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[Políticas Da Imagem]]`
+- `[[escrita terapeutica nexo jornal]]`
+- `[[inumeráveis no nexo]]`
+- `[[dissertação index]]`
+- `[[BERT]]`
+- `[[como o computador “aprende”]]`
+- `[[exemplo de uso de gpt-3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[poesia feita por gpt3]]`
+- `[[prompts midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[chatgpt]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[Ev Williams' Rules for Quality Content in the Clickbait Age]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[081120221122]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Políticas Da 
+ Imagem]]`
+- `[[escrita terapeutica nexo jornal]]`
+- `[[mapa sonoro na pandemia]]`
+- `[[covid museum]]`
+- `[[inumeráveis no nexo]]`
+- `[[escritas da pandemia]]`
+- `[[Foucault, Michel]]`
+- `[[as palavras e as coisas]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[como separar o processo metodológico de pesquisa em pequenas partes]]`
+- `[[Antônio Joaquim Severino]]`
+- `[[ o que é episteme - uma abordagem]]`
+- `[[episteme foucault.png]]`
+- `[[distopia feudal digital]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[racismo algorítmico]]`
+- `[[Santos, Milton]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte 2]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte]]`
+- `[[o que a IA significa para a criatividade humana]]`
+- `[[Hammett foi um dos pioneiros da ficção policial hardboiled]]`
+- `[[hard boiled]]`
+- `[[Monsieur Spade - review]]`
+- `[[Revisão feminista em narrativas de detetives - true detective]]`
+- `[[Renascimento de 'True Detective' na Quarta Temporada - nexo jornal]]`
+- `[[Critique Studies in Contemporary Fiction]]`
+- `[[mudar o enfoque do desenvolvimento de IA]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[The banality of ChatGPT]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[Pasted image 20220627104121.png]]`
+- `[[Capitalismo tardio]]`
+- `[[o meio é a mensagem]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[O meio é a mensagem notas do podcast boa noite internet]]`
+- `[[the medium its the metaphor]]`
+- `[[ELO]]`
+- `[[dissertação index]]`
+- `[[Hipertexto]]`
+- `[[Epistemes Contemporâneas]]`
+- `[[EPISTEMES CONTEMPORÂNEAS Ecco 2020]]`
+- `[[8. Lev Manovich]]`
+- `[[NOTAS DE LEITURA/LIVROS/Cérebro No Mundo Digital]]`
+- `[[Derrida]]`
+- `[[Manovitch, Liev]]`
+- `[[racismo algorítmico]]`
+- `[[ELIT - NO BRASIL HOJE]]`
+- `[[variabilidade]]`
+- `[[manovich]]`
+- `[[o meio é a mensagem]]`
+- `[[Levy, Pierre]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[Resumido podcast]]`
+- `[[Arqueologias do futuro]]`
+- `[[Trabalho é mesmo essencial, por James Suzman]]`
+- `[[Como o trabalho otimizado pode se tornar um ciclo vicioso]]`
+- `[[Não aguento mais não aguentar mais - principais ideias]]`
+- `[[DEEP WORK e MINDFUL TECH - artigo]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[armadilhas da otimização]]`
+- `[[armadilha do progresso]]`
+- `[[BERT]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[aura em benjamin]]`
+- `[[o consumo de massa]]`
+- `[[GPT COMO MICROFONE]]`
+- `[[Benjamin, Walter]]`
+- `[[estudos da mídia]]`
+- `[[hipercultura]]`
+- `[[hipermídia]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Was 1610 the beginning of a new human epoch]]`
+- `[[NOTAS DE LEITURA/LIVROS/Antropoceno]]`
+- `[[Capitalismo tardio]]`
+- `[[Capitalist Sorcery]]`
+- `[[Antropoceno, Capitaloceno e Plantationoceno]]`
+- `[[cap 1]]`
+- `[[Renascença]]`
+- `[[resumo por um filósofo da renascença segundo gpt3]]`
+- `[[respostas da entrevista com o filosofo renascentista]]`
+- `[[pentiment]]`
+- `[[o que é biohacking]]`
+- `[[a relação  entre antropoceno e biohacking]]`
+- `[[Como Escrever Bem]]`
+- `[[pesquisas apenas on-line]]`
+- `[[Malcolm Gladwell faz apologia das bibliotecas]]`
+- `[[chatgpt]]`
+- `[[como podemos ter uma relação minimalista com informações e conteúdo 1]]`
+- `[[O despertar de tudo]]`
+- `[[lembra que]]`
+- `[[Entrevista com Yuval Noah Harari]]`
+- `[[Harari, Yuval Noah]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/No tempo das catástrofes]]`
+- `[[The rehearsal]]`
+- `[[podcast o despertar de tudo]]`
+- `[[distopia feudal digital]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[racismo algorítmico]]`
+- `[[Santos, Milton]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte 2]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte]]`
+- `[[midjourney]]`
+- `[[Ergodic Literature]]`
+- `[[ELO]]`
+- `[[hipercultura]]`
+- `[[Hipertexto]]`
+- `[[markdown]]`
+- `[[Stengers]]`
+- `[[NOTAS DE LEITURA/LIVROS/No Tempo Das Catástrofes]]`
+- `[[recoding power]]`
+- `[[Políticas Da Imagem]]`
+- `[[racismo algorítmico]]`
+- `[[dissertação index]]`
+- `[[A internet corre o risco de afastar as mulheres]]`
+- `[[interesses de pesquisa]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[dissertação index]]`
+- `[[isso não é um blog]]`
+- `[[interesses de pesquisa]]`
+- `[[Sontag, Susan]]`
+- `[[Sob o signo de Saturno]]`
+- `[[Cortázar, Julio]]`
+- `[[O escorpião encalacrado]]`
+- `[[surrealismo]]`
+- `[[obsidian]]`
+- `[[Why note-taking apps don’t make us smarter]]`
+- `[[culto ao obsidian]]`
+- `[[Notas eficazes segundo Annotation - MIT Press]]`
+- `[[design]]`
+- `[[interesses de pesquisa]]`
+- `[[dissertação index]]`
+- `[[ELO]]`
+- `[[Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)]]`
+- `[[Cybertext]]`
+- `[[a dissertação argumentativa]]`
+- `[[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]`
+- `[[eight by seven]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Foucault, Michel]]`
+- `[[episteme]]`
+- `[[interesses de pesquisa]]`
+- `[[um ensaio sobre Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica - EXPERIMENTO COM CHATGPT]]`
+- `[[William Zinsser]]`
+- `[[Como Escrever Bem]]`
+- `[[verbos como motor]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[tecnocéticos]]`
+- `[[chatgpt]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[Husserl]]`
+- `[[paradoxo da contemporaneidade]]`
+- `[[artigo sobre IA e Polanyi]]`
+- `[[sindrome do impostor e dunning krugger efeito]]`
+- `[[como o computador “aprende”]]`
+- `[[Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[Resumido podcast]]`
+- `[[presentismo - conceito de história]]`
+- `[[Eduardo viveiros de castro]]`
+- `[[distopia feudal digital]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[racismo algorítmico]]`
+- `[[Santos, Milton]]`
+- `[[o que é estado da arte]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[racismo algorítmico]]`
+- `[[filosofia da tecnologia]]`
+- `[[Criticismo às redes sociais - artigo nexo]]`
+- `[[Eugênio Bucci]]`
+- `[[Beiguelman, Giselle]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Políticas da imagem]]`
+- `[[Políticas Da Imagem]]`
+- `[[ inteligência artificial em Beiguelman]]`
+- `[[TCHPML - THE CAMBRIDGE HISTORY OF POSTMODERN LITERATURE]]`
+- `[[Postmodernism]]`
+- `[[Derrida]]`
+- `[[Kant]]`
+- `[[Georg Wilhelm Friedrich Hegel]]`
+- `[[O paradoxo da fé]]`
+- `[[A Sociedade Do Espetáculo]]`
+- `[[Tudo que é sólido desmancha no ar]]`
+- `[[pós-modernismo]]`
+- `[[foto de agosto de 2007 no facebook.jpg]]`
+- `[[208998_5397401469_9318_n.jpg]]`
+- `[[Graeber - entrevista]]`
+- `[[Por que o Brasil não é a Argentina]]`
+- `[[Questionário socioeconômico e demais Informações 2]]`
+- `[[dissertação index]]`
+- `[[the creativity code.md]]`
+- `[[sentimentos gerais sobre o livro mind children.md]]`
+- `[[O MITO DA IA.md]]`
+- `[[Mind Children - H Moravec.md]]`
+- `[[Hans Moravec - Explorando o Futuro da Inteligência Artificial e Robótica.md]]`
+- `[[5 pontos-chave que eu deveria saber ao estudar Mind Children de Moravec.md]]`
+- `[[interesses de pesquisa]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Hipertexto]]`
+- `[[Three kinds of hypertext]]`
+- `[[2022-07-10]]`
+- `[[2022-07-12]]`
+- `[[2022-08-17]]`
+- `[[2022-W25]]`
+- `[[A Terra Não Se Move]]`
+- `[[dissertação index]]`
+- `[[PRIMEIRA SEMANA DE JULHO]]`
+- `[[DEFESA EM 12 PASSOS]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[a internet ta quebrada]]`
+- `[[World Wide Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[dissertação index]]`
+- `[[Problema do endividamento no Brasil]]`
+- `[[Questionário socioeconomico e demais Informações]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[contemporaneo x classico]]`
+- `[[dissertação index]]`
+- `[[alan moore acertou nessa]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[GLOBALIZAÇÃO - INDEX]]`
+- `[[Ciberespaço]]`
+- `[[Construa um argumento que relacione cibercultura e globalização, tecnologia e literatura]]`
+- `[[chatgpt]]`
+- `[[Jevons paradox]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[filosofia da tecnologia]]`
+- `[[dicotomia antigo e contemporaneo]]`
+- `[[NOTAS DE LEITURA/LIVROS/Leonardo Da Vinci]]`
+- `[[Montaigne, Michel de]]`
+- `[[sobre o estudo dos antigos, em oposição ao estudo de questões contemporâneas]]`
+- `[[Filosofo Renascentista]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[Como Transformar um Passeio de Bicicleta em um Treino de Ciclismo]]`
+- `[[orientações sobre a manutenção básica de bicicletas]]`
+- `[[Andar de bicicleta em cidade grande no Brasil é um verdadeiro pesadelo]]`
+- `[[Benjamin, Walter]]`
+- `[[estudos da mídia]]`
+- `[[hipercultura]]`
+- `[[hipermídia]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[um sombrio aviso]]`
+- `[[resenha the chaos machine]]`
+- `[[The Chaos Machine]]`
+- `[[Swartz alerta sobre a internet]]`
+- `[[8 pontos sobre o livro The Chaos Machine]]`
+- `[[Was 1610 the beginning of a new human epoch]]`
+- `[[onde começa o antropoceno]]`
+- `[[dicotomia antigo e contemporaneo]]`
+- `[[NOTAS DE LEITURA/LIVROS/Leonardo Da Vinci]]`
+- `[[Montaigne, Michel de]]`
+- `[[Filosofo Renascentista]]`
+- `[[resumo por um filósofo da renascença segundo gpt3]]`
+- `[[051220221024]]`
+- `[[051220221024#^ac8f64]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[Ted Chiang escreve sobre o ChatGpt]]`
+- `[[As entrelinhas dos conteúdos produzidos pelo ChatGpt]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[Alan Wake II - Maestria da narrativa]]`
+- `[[Renascimento de 'True Detective' na Quarta Temporada - nexo jornal]]`
+- `[[Monsieur Spade - Gênesis e Contextualização]]`
+- `[[A murder at the end of the world - série televisiva da FX]]`
+- `[[hifacultura]]`
+- `[[dissertação index]]`
+- `[[BERT]]`
+- `[[como o computador “aprende”]]`
+- `[[exemplo de uso de gpt-3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[poesia feita por gpt3]]`
+- `[[prompts midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[chatgpt]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[filosofia da tecnologia]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[Empatia na era da IA]]`
+- `[[ voce quer ser escritor - lamento]]`
+- `[[IA, Criatividade e a Essência da Humanidade]]`
+- `[[Impacto da IA em Ocupações e Novas Oportunidades de Trabalho]]`
+- `[[William Zinsser]]`
+- `[[Antes de começar faça a si mesmo 6 perguntas]]`
+- `[[Como Escrever Bem]]`
+- `[[Como se faz uma tese]]`
+- `[[Sobre o escopo do texto]]`
+- `[[unidade textual segundo zinsser]]`
+- `[[William Zinsser]]`
+- `[[Antes de começar faça a si mesmo 6 perguntas]]`
+- `[[Como Escrever Bem]]`
+- `[[Como se faz uma tese]]`
+- `[[sobre o argumento principal de um texto]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[a internet ta quebrada]]`
+- `[[A internet corre o risco de afastar as mulheres]]`
+- `[[como consertar a internet]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[paradoxo da contemporaneidade]]`
+- `[[paradoxo de polanyi]]`
+- `[[chatgpt]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[resumo artigo ted chiang sobre ChatGpt]]`
+- `[[As entrelinhas dos conteúdos produzidos pelo ChatGpt]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[World Wide Web]]`
+- `[[Hypertext 3.0]]`
+- `[[hipercultura]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[markdown]]`
+- `[[Structangle]]`
+- `[[dissertação index]]`
+- `[[literatura ergódica]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[episteme]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[escritas da pandemia]]`
+- `[[escrita anticapitalista]]`
+- `[[sobre como alguem le]]`
+- `[[BERT]]`
+- `[[300920221013]]`
+- `[[caligrama]]`
+- `[[eis dois cachimbos]]`
+- `[[Eliot-Poemas]]`
+- `[[Esto no es una Pipa - video analise]]`
+- `[[filosofia do futuro]]`
+- `[[Foucault, Michel]]`
+- `[[isso não é um blog]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Metodologia do trabalho científico]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Notas do debate Literatura e arte digital]]`
+- `[[o caligrama desfeito]]`
+- `[[NOTAS DE LEITURA/LIVROS/Poemas]]`
+- `[[NOTAS DE LEITURA/LIVROS/Poemas]]`
+- `[[surrealismo]]`
+- `[[academic-foucault this is not a pipe]]`
+- `[[academic-this is not a review]]`
+- `[[Epistemes Contemporâneas]]`
+- `[[filosofia do futuro]]`
+- `[[foucault this is not a pipe]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[The Sunset Limited]]`
+- `[[this is not a review]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Images cannot say Ain’ t]]`
+- `[[joão montanaro isso não é uma granada]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[teoria da cauda longa e a indústria do conteúdo 1]]`
+- `[[teoria da cauda longa e a indústria do conteúdo - revisão 1]]`
+- `[[5 pontos sobre Economia da Atenção]]`
+- `[[sobre economia, agentes do mercado e a boa gestão da economia]]`
+- `[[ teoria da cauda longa e a indústria do conteúdo 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/A teoria da cauda longa]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/A teoria da cauda longa]]`
+- `[[teoria da cauda longa e a indústria do conteúdo 1]]`
+- `[[tensão  entre capitalismo e autenticidade na indústria cultural]]`
+- `[[como podemos ter uma relação minimalista com informações e conteúdo 1]]`
+- `[[sobre economia, agentes do mercado e a boa gestão da economia]]`
+- `[[ teoria da cauda longa e a indústria do conteúdo 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/A teoria da cauda longa]]`
+- `[[teoria da cauda longa e a indústria do conteúdo - revisão 1]]`
+- `[[tensão  entre capitalismo e autenticidade na indústria cultural]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/A teoria da cauda longa]]`
+- `[[teoria da cauda longa e a indústria do conteúdo - revisão 1]]`
+- `[[tensão  entre capitalismo e autenticidade na indústria cultural]]`
+- `[[como podemos ter uma relação minimalista com informações e conteúdo 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/A teoria da cauda longa]]`
+- `[[cal newport]]`
+- `[[Simondon, Gilbert]]`
+- `[[Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a]]`
+- `[[The Age of Social Media Is Ending]]`
+- `[[digital minimalism]]`
+- `[[World Wide Web]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[argumento do quarto chinês]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[interesses de pesquisa]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Hipertexto]]`
+- `[[experiências hipertextuais]]`
+- `[[Images versus alphabetic culture]]`
+- `[[Sumário Artigo THE INTERNET IS BROKEN]]`
+- `[[como consertar a internet]]`
+- `[[ a internet ta quebrada]]`
+- `[[Heidegger, Martin]]`
+- `[[filosofia da tecnologia]]`
+- `[[Heidegger, Martin]]`
+- `[[Psiquiatras, Professores e o Paradoxo de Moravec]]`
+- `[[What AI Teaches Us About Good Writing]]`
+- `[[hábitos de escritores]]`
+- `[[ideias para escrever]]`
+- `[[blog para sempre]]`
+- `[[contador de historias]]`
+- `[[interesses de pesquisa]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Hipertexto]]`
+- `[[World Wide Web]]`
+- `[[Derrida]]`
+- `[[racismo algorítmico]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[O futuro é multiespécie]]`
+- `[[digital minimalism]]`
+- `[[Tim Berners-Lee]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Gavin Wood pede ceticismo]]`
+- `[[w3]]`
+- `[[hipercultura]]`
+- `[[dissertação index]]`
+- `[[World Wide Web]]`
+- `[[Hipertexto]]`
+- `[[Ciberespaço]]`
+- `[[Como Escrever Bem]]`
+- `[[unidade textual segundo zinsser]]`
+- `[[Como se faz uma tese]]`
+- `[[antes de escrever reduza e simplifique]]`
+- `[[Além do homem]]`
+- `[[TRABALHO DE FACULDADE POSTADO NO  FACEBOOK - SEMIOTICA]]`
+- `[[Trabalho de Introdução à Filosofia]]`
+- `[[Happycracia]]`
+- `[[como ser um niilista feliz]]`
+- `[[substack, revue e blog]]`
+- `[[JARDIM DIGITAL E O FIM DO MEDIUM]]`
+- `[[when adopted people learn about their adoptee status]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[mudar o enfoque do desenvolvimento de IA]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[The banality of ChatGPT]]`
+- `[[plano de meditação 28 dias]]`
+- `[[prompt - louco, genio ou criança]]`
+- `[[Analise ou intuição - podcast ou leitura - ZT]]`
+- `[[podcast o despertar de tudo]]`
+- `[[um conjunto de perguntas absolutamente simples e interessantes sobre Inteligência humana - update]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[Carlos Heitor Cony]]`
+- `[[Quase Memória]]`
+- `[[Como se faz uma tese]]`
+- `[[lide com o lide]]`
+- `[[resenha the chaos machine]]`
+- `[[The Chaos Machine]]`
+- `[[Swartz alerta sobre a internet]]`
+- `[[8 pontos sobre o livro The Chaos Machine]]`
+- `[[as plataformas de mídia social são projetadas para exagerar e ampliar as identidades e crenças das pessoas]]`
+- `[[William Zinsser]]`
+- `[[Como Escrever Bem]]`
+- `[[NOTAS DE LEITURA/LIVROS/Zen E a Arte Da Escrita]]`
+- `[[NOTAS DE LEITURA/LIVROS/A Arte De Escrever]]`
+- `[[A Arte De Escrever-2]]`
+- `[[web 3.0]]`
+- `[[World Wide Web]]`
+- `[[Anna L Tsing]]`
+- `[[escritas da pandemia]]`
+- `[[escrita anticapitalista]]`
+- `[[NOTAS DE LEITURA/LIVROS/Antropoceno]]`
+- `[[Capitalismo tardio]]`
+- `[[Capitalist Sorcery]]`
+- `[[Antropoceno, Capitaloceno e Plantationoceno]]`
+- `[[NOTAS DE LEITURA/LIVROS/Antropoceno]]`
+- `[[cap 1]]`
+- `[[Renascença]]`
+- `[[resumo por um filósofo da renascença segundo gpt3]]`
+- `[[respostas da entrevista com o filosofo renascentista]]`
+- `[[pentiment]]`
+- `[[o fim do antropoceno]]`
+- `[[Tim Berners-Lee Explains the Semantic Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[w3]]`
+- `[[hipercultura]]`
+- `[[Web Semântica]]`
+- `[[Tim Berners-Lee Explains the Semantic Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[w3]]`
+- `[[hipercultura]]`
+- `[[Web Semântica]]`
+- `[[web 3.0]]`
+- `[[Web 3.0, Semantic Web, Potayto, Potahto]]`
+- `[[Tim Berners-Lee Explains the Semantic Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[w3]]`
+- `[[hipercultura]]`
+- `[[chat gpt na vice]]`
+- `[[o truque mais charmoso da IA é também sua maior freaqueza]]`
+- `[[chat gpt avisa]]`
+- `[[O brilhantismo e a esquisitice do ChatGPT]]`
+- `[[Ray Kurzweil - ZT]]`
+- `[[filosofia da tecnologia]]`
+- `[[AI Shouldn’t Compete With Workers]]`
+- `[[o homem competente (versão atualizada)]]`
+- `[[o fim do antropoceno]]`
+- `[[Tim Berners-Lee]]`
+- `[[como o computador “aprende”]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[web 3.0]]`
+- `[[Web Semântica]]`
+- `[[Tim Berners-Lee Explains the Semantic Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[w3]]`
+- `[[hipercultura]]`
+- `[[SN GOENKA]]`
+- `[[notas de retiro dhamma sarana]]`
+- `[[LEITURAS CLANDESTINAS I]]`
+
+### 11.md
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[o que podemos aprender sobre resistência com os programadores]]`
+- `[[cap 1]]`
+- `[[wired - sobre capitalismo e tecnologia]]`
+- `[[Meganets - Dan Auerbach]]`
+- `[[Heidegger, Martin]]`
+- `[[paradoxo de polanyi]]`
+- `[[paradoxo da contemporaneidade]]`
+- `[[011220221620]]`
+- `[[DASEIN]]`
+- `[[chat do substack]]`
+- `[[filosofia da tecnologia]]`
+- `[[PROJETOS DE HUMANIDADES NA PANDEMIA VIA NEXO]]`
+- `[[dissertação index]]`
+- `[[inumeráveis no nexo]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[um sombrio aviso]]`
+- `[[hipercultura]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[Han-Hiperculturalidade]]`
+- `[[Han, Byung-Chul]]`
+- `[[071020221000]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[hipercultura]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[Han-Hiperculturalidade]]`
+- `[[Han, Byung-Chul]]`
+- `[[071020220916]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[05-12-2022]]`
+- `[[episteme]]`
+- `[[hipercultura]]`
+- `[[interesses de pesquisa]]`
+- `[[Globalização]]`
+- `[[Foucault e a globalização]]`
+- `[[interesses de pesquisa]]`
+- `[[101020221256]]`
+- `[[episteme]]`
+- `[[Foucault, Michel]]`
+- `[[Globalização]]`
+- `[[hipercultura]]`
+- `[[filosofia da linguagem]]`
+- `[[Derrida]]`
+- `[[Deleuze]]`
+- `[[Foucault, Michel]]`
+- `[[Hui, Yuk]]`
+- `[[Han, Byung-Chul]]`
+- `[[Foucault, Michel]]`
+- `[[Santos, Milton]]`
+- `[[Han, Byung-Chul]]`
+- `[[GLOBALIZAÇÃO - INDEX]]`
+- `[[episteme]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[dissertação index]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[Bauman, Zygmunt]]`
+- `[[Santos, Milton]]`
+- `[[Chuang Tzu]]`
+- `[[dissertação index]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[Bauman, Zygmunt]]`
+- `[[Santos, Milton]]`
+- `[[Chuang Tzu]]`
+- `[[William Zinsser]]`
+- `[[lide com o lide]]`
+- `[[Como Escrever Bem]]`
+- `[[ELO]]`
+- `[[Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Hiperculturalidade]]`
+- `[[filosofia da tecnologia]]`
+- `[[Eichhorn, Kate]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[A revolução das máquinas de conteúdo]]`
+- `[[Como Escrever Bem]]`
+- `[[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]`
+- `[[eight by seven]]`
+- `[[Hipertexto]]`
+- `[[ELO]]`
+- `[[Tim Berners-Lee]]`
+- `[[George Landow]]`
+- `[[Manual de Sobrevivência à era da IA]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[A revolução das máquinas de conteúdo]]`
+- `[[Olavo Amaral sobre regulação da IA]]`
+- `[[racismo algorítmico]]`
+- `[[dissertação index]]`
+- `[[ o que são os deep fakes]]`
+- `[[ quem ta consertando a internet]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[medium quebrou]]`
+- `[[How To Write A Scientific Paper]]`
+- `[[Como Escrever Bem]]`
+- `[[William Zinsser]]`
+- `[[Cérebro e corpo são mais interligados do que imaginávamos]]`
+- `[[Manual do Método de Journaling para Melhoria da Saúde Mental e Física]]`
+- `[[PRINCIPAIS CONCEITOS 29112023]]`
+- `[[Jenny Odell]]`
+- `[[Políticas Da Imagem]]`
+- `[[Políticas da imagem-1669928668195]]`
+- `[[5 pontos sobre Economia da Atenção]]`
+- `[[NOTAS DE LEITURA/LIVROS/How to Do Nothing]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/How to Do Nothing]]`
+- `[[grinding no biohacking]]`
+- `[[A reflexão sobre a tecnologia e a vida humana]]`
+- `[[o fim do antropoceno]]`
+- `[[o fim do antropoceno]]`
+- `[[o fim do antropoceno]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Eichhorn, Kate]]`
+- `[[Os alunos estão acertando seus deveres de casa, entregando ensaios gerados por máquinas]]`
+- `[[A ascensão da indústria de conteúdo]]`
+- `[[Analogias sobre a contradição capitalisma na indústria do conteúdo]]`
+- `[[The Age of Social Media Is Ending]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Flow]]`
+- `[[digital minimalism]]`
+- `[[Trabalho Focado]]`
+- `[[chatgpt roubou seu trabalho - e agora oque farás (pergunta)]]`
+- `[[cal newport]]`
+- `[[Simondon, Gilbert]]`
+- `[[Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a]]`
+- `[[The Age of Social Media Is Ending]]`
+- `[[NOTAS DE LEITURA/LIVROS/Flow]]`
+- `[[digital minimalism]]`
+- `[[estudos da mídia]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[pós-modernismo]]`
+- `[[Kierkegaard]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[filosofia da tecnologia]]`
+- `[[aura em benjamin]]`
+- `[[GPT COMO MICROFONE]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[sobre a criatividade]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[mudar o enfoque do desenvolvimento de IA]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[The banality of ChatGPT]]`
+- `[[BERT]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[referência a watchmen]]`
+- `[[NOTAS DE LEITURA/LIVROS/O Fascismo Eterno]]`
+- `[[Benjamin, Walter]]`
+- `[[estudos da mídia]]`
+- `[[hipercultura]]`
+- `[[hipermídia]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Repetição espaçada - Spaced repetition]]`
+- `[[usando o ANKI para aprender QUALQUER COISA]]`
+- `[[anki tips]]`
+- `[[pkm fragmenta nossa forma de entender o mundo]]`
+- `[[o que é PKM]]`
+- `[[ usando o ANKI para aprender QUALQUER COISA]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[O aumento da oferta de textos causado pelo advento de grandes modelos de linguagem]]`
+- `[[chatgpt]]`
+- `[[chat gpt ajudou a complementar esse texto]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[Algoritmos e Criatividade - ecco 2023]]`
+- `[[Anna L Tsing]]`
+- `[[Mushrooms ate the end of the world]]`
+- `[[The Mushroom at the End of the World (philosophia review)]]`
+- `[[book review Progress in human geography]]`
+- `[[Making worlds at the end of the world]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[sindrome do impostor e dunning krugger efeito]]`
+- `[[paradoxo de polanyi]]`
+- `[[filosofia da tecnologia]]`
+- `[[Como o paradoxo de polanyi tem sido superado]]`
+- `[[a técnica do feynman]]`
+- `[[Como o ChatGPT funciona]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[AI Shouldn’t Compete With Workers]]`
+- `[[um sombrio aviso]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[armadilha do progresso]]`
+- `[[filosofia da tecnologia]]`
+- `[[chat gpt na vice]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[ELO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[SEARLE, JOHN]]`
+- `[[ editing web pages became difficult and complicated for people]]`
+- `[[interesses de pesquisa]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Hipertexto]]`
+- `[[Publishing versus communicating]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[interesses de pesquisa]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[primeira postagem.]]`
+- `[[trabalhos de faculdade]]`
+- `[[ ficou mais fácil]]`
+- `[[diversos escândalos]]`
+- `[[tecnocéticos]]`
+- `[[ um terço de todos os internautas na rede.]]`
+- `[[James Bridle]]`
+- `[[World Wide Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[“Hora do Vapor”]]`
+- `[[Tim Berners-Lee]]`
+- `[[linguagem especial ]]`
+- `[[blogs]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[ ocorrem corriqueiramente]]`
+- `[[a origem do termo economia da atenção]]`
+- `[[entre tantos outros]]`
+- `[[chat gpt ajudou a complementar esse texto]]`
+- `[[Globalização]]`
+- `[[Nomades digitais e CT]]`
+- `[[cartografia social - João Antonio castrillon]]`
+- `[[Questionário socioeconomico e demais Informações]]`
+- `[[Maps shape our lives]]`
+- `[[ECCO 2023 - Geografia e ativismo social]]`
+- `[[Geografia Humana]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/CE1000PD]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[CE1000PD LIVE]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[literature, at least in theory, enhance my metacognition]]`
+- `[[The Psychedelic Scientist Who Sends Brains Back to Childhood]]`
+- `[[Maryanne Wolf]]`
+- `[[chatgpt]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[cap 1]]`
+- `[[filosofia da tecnologia]]`
+- `[[tecnocéticos]]`
+- `[[ceticismo]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[armadilha do progresso]]`
+- `[[filosofia da tecnologia]]`
+- `[[The banality of ChatGPT]]`
+- `[[chatgpt]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[Atlantic argumentou que o ChatGPT é divertido e não persuasivo]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[chatgpt]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[a tecnologia quebrou nossos cérebros]]`
+- `[[filosofia da tecnologia]]`
+- `[[chatgpt]]`
+- `[[Don’t ask if artificial intelligence is good or fair, ask how it shifts power]]`
+- `[[notas sobre RAN]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte um]]`
+- `[[IA está assumindo enigmas cada vez maiores]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[armadilha do progresso]]`
+- `[[filosofia da tecnologia]]`
+- `[[Ciberespaço]]`
+- `[[metaverso]]`
+- `[[artigo sobre IA e Polanyi]]`
+- `[[World Wide Web]]`
+- `[[tecnocéticos]]`
+- `[[Levy, Pierre]]`
+- `[[NOTAS PARA REVISAR/Interesses de Pesquisa/interessesdepesquisa]]`
+- `[[w gibson]]`
+- `[[hipermídia]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[hifacultura]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/filosofia/Relacione cibernética com autenticidade]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[Comparação de ChatGPT, Bing Chat e Bard - wired zt]]`
+- `[[writing with AI - IA net]]`
+- `[[writing with AI - IA net]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[estudos da mídia]]`
+- `[[FAROFA DA GKAY]]`
+- `[[dissertação index]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[a internet ta quebrada]]`
+- `[[A internet corre o risco de afastar as mulheres]]`
+- `[[como consertar a internet]]`
+- `[[ o que há de errado com a internet segundo o medium]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[a internet ta quebrada]]`
+- `[[A internet corre o risco de afastar as mulheres]]`
+- `[[como consertar a internet]]`
+- `[[como consertar a internet  - sumário]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[lendo fooquedeu]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/How to Do Nothing]]`
+- `[[NOTAS DE LEITURA/LIVROS/How to Do Nothing]]`
+- `[[her writing]]`
+- `[[Refusal, she writes, was exemplified by the Greek philosopher Diogenes,]]`
+- `[[The Age of Surveillance Capitalism”]]`
+- `[[How to Change Your Mind]]`
+- `[[paradoxo de polanyi]]`
+- `[[como o computador “aprende”]]`
+- `[[filosofia da tecnologia]]`
+- `[[tecnocéticos]]`
+- `[[a tecnologia quebrou nossos cérebros]]`
+- `[[filosofia da tecnologia]]`
+- `[[como perceber um texto gerado por IA segundo... uma IA]]`
+- `[[Como Escrever Bem]]`
+- `[[pesquisas apenas on-line]]`
+- `[[Malcolm Gladwell faz apologia das bibliotecas]]`
+- `[[chatgpt]]`
+- `[[teoria da cauda longa e a indústria do conteúdo - revisão 1]]`
+- `[[teoria da cauda longa e a indústria do conteúdo 1]]`
+- `[[metodologia]]`
+- `[[dissertação index]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[NOTAS DE LEITURA/LIVROS/Metodologia Do Trabalho Científico]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[armadilha do progresso]]`
+- `[[filosofia da tecnologia]]`
+- `[[Atlantic argumentou que o ChatGPT é divertido e não persuasivo]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[GLOBALIZAÇÃO - INDEX]]`
+- `[[Ciberespaço]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[Relacionar a hipercultura com a globalização]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[dicotomia antigo e contemporaneo]]`
+- `[[simplifique, simplifique, simplifique]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[contemporaneo x classico]]`
+- `[[2022-W25]]`
+- `[[a trama da vida podcast poe na estante]]`
+- `[[interesses de pesquisa]]`
+- `[[estudos]]`
+- `[[giuseppe paterno]]`
+- `[[insight sobre minha dissertação]]`
+- `[[o que significa escrever na era da internet]]`
+- `[[quisquilae]]`
+- `[[Relatório da bolsa]]`
+- `[[sobre como alguem le]]`
+- `[[SUMÁRIO SEMANA 23 EM screenshot]]`
+- `[[ursula le guin quote]]`
+- `[[Como se faz uma tese]]`
+- `[[Como se faz uma tese]]`
+- `[[Thoreau, Henry David]]`
+- `[[Walden Or Life In The Woods]]`
+- `[[dissertação index]]`
+- `[[World Wide Web]]`
+- `[[identificando content farms]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[how to with John wilson]]`
+- `[[Austerlitz]]`
+- `[[Sebald, W. G.]]`
+- `[[Understanding Sebald]]`
+- `[[dissertação index]]`
+- `[[Globalização]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[usar o gpt é low effort (pergunta)]]`
+- `[[ALARMADOS PELO GPT3, UNIVERSIDADES COMEÇAM E REVISAR SUA FORMA DE ENSINAR - artigo]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[081120221122]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[Políticas Da Imagem]]`
+- `[[escrita terapeutica nexo jornal]]`
+- `[[mapa sonoro na pandemia]]`
+- `[[covid museum]]`
+- `[[Políticas Da Imagem]]`
+- `[[arte como efeito terapeutico]]`
+- `[[Isto não é um cachimbo]]`
+- `[[eis dois cachimbos]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[new dark age]]`
+- `[[World Wide Web]]`
+- `[[Eugênio Bucci]]`
+- `[[Eugênio Bucci]]`
+- `[[Postmodernism]]`
+- `[[Derrida]]`
+- `[[Kant]]`
+- `[[Georg Wilhelm Friedrich Hegel]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[O paradoxo da fé]]`
+- `[[A Sociedade Do Espetáculo]]`
+- `[[Tudo que é sólido desmancha no ar]]`
+- `[[ABSTRACT PHANTOM]]`
+- `[[Cosmodernism and planetarism]]`
+- `[[Postmodernism]]`
+- `[[8 questions for my interview with a postmodern philosopher]]`
+- `[[w gibson]]`
+- `[[Ciberespaço]]`
+- `[[Arqueologias do futuro]]`
+- `[[Existencialismo]]`
+- `[[Heidegger, Martin]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/READY-NOTES]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[Notas essencias de Work, por James Suzman]]`
+- `[[A conexão entre aceleração de partículas e práticas indígenas]]`
+- `[[Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo]]`
+- `[[pesquisas apenas on-line]]`
+- `[[lide com o lide]]`
+- `[[Como se faz uma tese]]`
+- `[[Como Escrever Bem]]`
+- `[[dicotomia antigo e contemporaneo]]`
+- `[[contemporaneo x classico]]`
+- `[[cap 1]]`
+- `[[Políticas Da Imagem]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Tecnodiversidade]]`
+- `[[wired with a coder]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/INFP]]`
+- `[[o conceito de pretoguês]]`
+- `[[Galego e Português]]`
+- `[[zettelzinsser chapter 7]]`
+- `[[David Graeber]]`
+- `[[David Wengrow]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[podcast o despertar de tudo]]`
+- `[[Harari, Yuval Noah]]`
+- `[[David Wengrow]]`
+- `[[O despertar de tudo]]`
+- `[[NATURE ISSUES FOR DEBATE - CHATGPT]]`
+- `[[Duas reagras básicas (segundo a Resvista Nature)]]`
+- `[[exemplo de inclusão do chatgpt na seção de métodos]]`
+- `[[Como Escrever Bem]]`
+- `[[William Zinsser]]`
+- `[[Todo projeto de texto deve ser reduzido antes de começar a escrever]]`
+- `[[Como se faz uma tese]]`
+- `[[Como Escrever Bem]]`
+- `[[lide com o lide]]`
+- `[[William Zinsser]]`
+- `[[Como Escrever Bem]]`
+- `[[NOTAS DE LEITURA/LIVROS/Zen E a Arte Da Escrita]]`
+- `[[NOTAS DE LEITURA/LIVROS/A Arte De Escrever]]`
+- `[[A Arte De Escrever-2]]`
+- `[[advérbios como ameaças ao edifício verbal]]`
+- `[[cyberspace independence 96]]`
+- `[[a origem do termo economia da atenção]]`
+- `[[5 pontos sobre Economia da Atenção]]`
+- `[[0 - VAULT/2 NOTAS PERMANENTES/o mercado, o indivíduo e como sua atenção se tornou uma mercadoria]]`
+- `[[HTML]]`
+- `[[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]`
+- `[[dissertação index]]`
+- `[[interesses de pesquisa]]`
+- `[[Foucault, Michel]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/MAGRITTE PROMPT]]`
+- `[[caligrama]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[Foucault, Michel]]`
+- `[[quisquilae]]`
+- `[[interesses de pesquisa]]`
+- `[[dissertação index]]`
+- `[[BERT]]`
+- `[[como o computador “aprende”]]`
+- `[[exemplo de uso de gpt-3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[poesia feita por gpt3]]`
+- `[[prompts midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[chatgpt]]`
+- `[[chatgpt]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[Robôs com um toque humano (pergunta) Sim, por favor]]`
+- `[[filosofia da tecnologia]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[prompts]]`
+- `[[prompts midjourney]]`
+- `[[digital humanities]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/1 DISSERTAÇÃO/📕 DISSERTAÇÃO/dissertação/stengers]]`
+- `[[cris e edu]]`
+- `[[Projeto REM-MT]]`
+- `[[dicas para ajudá-lo a aceitar sua entrevista]]`
+- `[[interpretação de imagens expandido ]]`
+- `[[081120221122]]`
+- `[[Ciberespaço]]`
+- `[[NOTAS PERMANENTES/quais problemas seu projeto pode resolver]]`
+- `[[episteme]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[episteme]]`
+- `[[Foucault, Michel]]`
+- `[[foucault this is not a pipe]]`
+- `[[Livros Nexo História e Política Contemporânea]]`
+- `[[EPISTEMES CONTEMPORÂNEAS Ecco 2020]]`
+- `[[O despertar de tudo]]`
+- `[[episteme]]`
+- `[[mestizaje]]`
+- `[[Canclini, Néstor García]]`
+- `[[interdisciplinaridade]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[ELO]]`
+- `[[Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica]]`
+- `[[dissertação index]]`
+- `[[interesses de pesquisa]]`
+- `[[A episteme de Foucault e a Hipercultura]]`
+- `[[episteme]]`
+- `[[O Que é Episteme]]`
+- `[[Epistemes Contemporâneas]]`
+- `[[dissertação index]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[hipercultura]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[hipercultura]]`
+- `[[Vilém Flusser]]`
+- `[[hipermídia]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/READY-NOTES]]`
+- `[[Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)]]`
+- `[[William Zinsser]]`
+- `[[Como Escrever Bem]]`
+- `[[ a guerra dos sexos -  sérgio rodrigues]]`
+- `[[Como Escrever Bem]]`
+- `[[William Zinsser]]`
+- `[[NATURE ISSUES FOR DEBATE - CHATGPT]]`
+- `[[Duas reagras básicas (segundo a Resvista Nature)]]`
+- `[[framework teórico de pesquisa]]`
+- `[[Joyce, Jaime]]`
+- `[[Eco, Umberto]]`
+- `[[Hipertexto]]`
+- `[[Clean perversion in consumer culture]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[Foucault, Michel]]`
+- `[[foucault this is not a pipe]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[Han, Byung-Chul]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[dicotomia antigo e contemporaneo]]`
+- `[[NOTAS DE LEITURA/LIVROS/Leonardo Da Vinci]]`
+- `[[Montaigne, Michel de]]`
+- `[[homem competente]]`
+- `[[Renascença]]`
+- `[[respostas da entrevista com o filosofo renascentista]]`
+- `[[episteme]]`
+- `[[Globalização]]`
+- `[[7 pontos-chave que eu deveria saber ao estudar a globalização]]`
+- `[[Globalização]]`
+- `[[Eco, Umberto]]`
+- `[[Hipertexto]]`
+- `[[interesses de pesquisa]]`
+- `[[aura em benjamin]]`
+- `[[Benjamin, Walter]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[filosofia da tecnologia]]`
+- `[[O microfone]]`
+- `[[Projeto Psiconautas]]`
+- `[[hipercultura]]`
+- `[[Han, Byung-Chul]]`
+- `[[Plantas Humildes e a Interconexão na Natureza]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[KINDLE-HIGHLIGHTS/Han-Hiperculturalidade]]`
+- `[[MICÉLIO]]`
+- `[[Cap. 4 - Mentes miceliais]]`
+- `[[Merlin Sheldrake]]`
+- `[[Deleuze]]`
+- `[[rizoma de Deleuze]]`
+- `[[terapia psicodélica]]`
+- `[[Cap. 4 - Mentes miceliais]]`
+- `[[hipercultura]]`
+- `[[hifacultura]]`
+- `[[Deleuze]]`
+- `[[Globalização]]`
+- `[[Indústria Cultural]]`
+- `[[Eichhorn, Kate]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[Byung-Chul Han]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[estudos da mídia]]`
+- `[[literatura ergódica]]`
+- `[[A HISTÓRIA DO HIPERTEXTO - 121020222345]]`
+- `[[ELO]]`
+- `[[Benjamin, Walter]]`
+- `[[estudos da mídia]]`
+- `[[hipercultura]]`
+- `[[hipermídia]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[dissertação index]]`
+- `[[How To Choose The Supporting Results]]`
+- `[[6 palpites de coisas que o mundo precisa e ninguém está a fazer nas humanidades]]`
+- `[[anti-psicodelia]]`
+- `[[Ray Kurzweil - ZT]]`
+- `[[Psiquiatras, Professores e o Paradoxo de Moravec]]`
+- `[[A IA em 2023 - e o que esperar em 2024]]`
+- `[[review On the Mode of Existence of Technical Objects by Simondon]]`
+- `[[O despertar de tudo]]`
+- `[[lembra que]]`
+- `[[Entrevista com Yuval Noah Harari]]`
+- `[[Harari, Yuval Noah]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/No tempo das catástrofes]]`
+- `[[The rehearsal]]`
+- `[[podcast o despertar de tudo]]`
+- `[[O passado não é mais como era antigamente]]`
+- `[[David Wengrow]]`
+- `[[David Graeber]]`
+- `[[Why smart people So Dumb Wisecrack]]`
+- `[[Jared Diamond]]`
+- `[[Steven Pinker]]`
+- `[[Entrevista com Yuval Noah Harari]]`
+- `[[amizade real]]`
+- `[[David Wengrow]]`
+- `[[David Graeber]]`
+- `[[David Wengrow]]`
+- `[[Dívida os primeiros 5000 anos]]`
+- `[[Why smart people So Dumb Wisecrack]]`
+- `[[Realismo Capitalista]]`
+- `[[Mark Fisher]]`
+- `[[David Wengrow]]`
+- `[[Isabelle Stengers]]`
+- `[[📚 NOTAS 📖 DE 📘 LITERATURA/LIVROS/No Tempo Das Catástrofes#^445468]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte um]]`
+- `[[IA WRITER sobre usar corretamente os recursos de IA]]`
+- `[[markdown]]`
+- `[[obsidian]]`
+- `[[IA WRITER sobre usar corretamente IA - com exemplos]]`
+- `[[Sumário Artigo THE INTERNET IS BROKEN]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[imagens não podem dizer não]]`
+- `[[Images cannot say Ain’ t]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[imagens não podem dizer não]]`
+- `[[Criticismo às redes sociais - artigo nexo]]`
+- `[[interesses de pesquisa]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Hipertexto]]`
+- `[[The Future of the Book]]`
+- `[[o meio é a mensagem]]`
+- `[[books vs other supports]]`
+- `[[Role of Automatons in Modern Society]]`
+- `[[The Consequences of AI Proliferation]]`
+- `[[radical AI network]]`
+- `[[dicas para ajudá-lo a aceitar sua entrevista]]`
+- `[[dicas para ajudá-lo a aceitar sua entrevista]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[081120221122]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[Políticas Da Imagem]]`
+- `[[escrita terapeutica nexo jornal]]`
+- `[[inumeráveis no nexo]]`
+- `[[distopia feudal digital]]`
+- `[[filosofia da tecnologia]]`
+- `[[quisquilae]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[NOTAS PARA REVISAR/Interesses de Pesquisa/interessesdepesquisa]]`
+- `[[World Wide Web]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[tecnocracia podcast — de narrar]]`
+- `[[dazed sobre amalia ulman]]`
+- `[[O TEXTO E O TEMPO (WEBINAR)]]`
+- `[[Eichhorn, Kate]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[Jameson, Fredric]]`
+- `[[Arqueologias do futuro]]`
+- `[[ELO]]`
+- `[[interesses de pesquisa]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Notas do debate Literatura e arte digital]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Notas do debate Literatura e arte digital]]`
+- `[[Sterne, Laurence]]`
+- `[[Montaigne, Michel de]]`
+- `[[Burton, Robert]]`
+- `[[A Vida e Opiniões do Tristram Shandy]]`
+- `[[071120222028]]`
+- `[[podcast o despertar de tudo]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[O despertar de tudo]]`
+- `[[Pasted image 20220825175702.png]]`
+- `[[Linguagem e capitalismo]]`
+- `[[Foucault, Michel]]`
+- `[[surrealismo]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[prompts midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[craiyon_2022-6-26_1-7-27.jpg]]`
+- `[[craiyon_2022-6-26_1-9-14.jpg]]`
+- `[[craiyon_2022-6-26_1-13-18.jpg]]`
+- `[[Benjamin, Walter]]`
+- `[[estudos da mídia]]`
+- `[[hipercultura]]`
+- `[[hipermídia]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[081120221122]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[Políticas Da Imagem]]`
+- `[[escrita terapeutica nexo jornal]]`
+- `[[inumeráveis no nexo]]`
+- `[[dissertação index]]`
+- `[[BERT]]`
+- `[[como o computador “aprende”]]`
+- `[[exemplo de uso de gpt-3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[poesia feita por gpt3]]`
+- `[[prompts midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[chatgpt]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[Ev Williams' Rules for Quality Content in the Clickbait Age]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[081120221122]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Políticas Da 
+ Imagem]]`
+- `[[escrita terapeutica nexo jornal]]`
+- `[[mapa sonoro na pandemia]]`
+- `[[covid museum]]`
+- `[[inumeráveis no nexo]]`
+- `[[escritas da pandemia]]`
+- `[[Foucault, Michel]]`
+- `[[as palavras e as coisas]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[como separar o processo metodológico de pesquisa em pequenas partes]]`
+- `[[Antônio Joaquim Severino]]`
+- `[[ o que é episteme - uma abordagem]]`
+- `[[episteme foucault.png]]`
+- `[[distopia feudal digital]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[racismo algorítmico]]`
+- `[[Santos, Milton]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte 2]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte]]`
+- `[[o que a IA significa para a criatividade humana]]`
+- `[[Hammett foi um dos pioneiros da ficção policial hardboiled]]`
+- `[[hard boiled]]`
+- `[[Monsieur Spade - review]]`
+- `[[Revisão feminista em narrativas de detetives - true detective]]`
+- `[[Renascimento de 'True Detective' na Quarta Temporada - nexo jornal]]`
+- `[[Critique Studies in Contemporary Fiction]]`
+- `[[mudar o enfoque do desenvolvimento de IA]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[The banality of ChatGPT]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[Pasted image 20220627104121.png]]`
+- `[[Capitalismo tardio]]`
+- `[[o meio é a mensagem]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[O meio é a mensagem notas do podcast boa noite internet]]`
+- `[[the medium its the metaphor]]`
+- `[[ELO]]`
+- `[[dissertação index]]`
+- `[[Hipertexto]]`
+- `[[Epistemes Contemporâneas]]`
+- `[[EPISTEMES CONTEMPORÂNEAS Ecco 2020]]`
+- `[[8. Lev Manovich]]`
+- `[[NOTAS DE LEITURA/LIVROS/Cérebro No Mundo Digital]]`
+- `[[Derrida]]`
+- `[[Manovitch, Liev]]`
+- `[[racismo algorítmico]]`
+- `[[ELIT - NO BRASIL HOJE]]`
+- `[[variabilidade]]`
+- `[[manovich]]`
+- `[[o meio é a mensagem]]`
+- `[[Levy, Pierre]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[Resumido podcast]]`
+- `[[Arqueologias do futuro]]`
+- `[[Trabalho é mesmo essencial, por James Suzman]]`
+- `[[Como o trabalho otimizado pode se tornar um ciclo vicioso]]`
+- `[[Não aguento mais não aguentar mais - principais ideias]]`
+- `[[DEEP WORK e MINDFUL TECH - artigo]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[armadilhas da otimização]]`
+- `[[armadilha do progresso]]`
+- `[[BERT]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[aura em benjamin]]`
+- `[[o consumo de massa]]`
+- `[[GPT COMO MICROFONE]]`
+- `[[Benjamin, Walter]]`
+- `[[estudos da mídia]]`
+- `[[hipercultura]]`
+- `[[hipermídia]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Was 1610 the beginning of a new human epoch]]`
+- `[[NOTAS DE LEITURA/LIVROS/Antropoceno]]`
+- `[[Capitalismo tardio]]`
+- `[[Capitalist Sorcery]]`
+- `[[Antropoceno, Capitaloceno e Plantationoceno]]`
+- `[[cap 1]]`
+- `[[Renascença]]`
+- `[[resumo por um filósofo da renascença segundo gpt3]]`
+- `[[respostas da entrevista com o filosofo renascentista]]`
+- `[[pentiment]]`
+- `[[o que é biohacking]]`
+- `[[a relação  entre antropoceno e biohacking]]`
+- `[[Como Escrever Bem]]`
+- `[[pesquisas apenas on-line]]`
+- `[[Malcolm Gladwell faz apologia das bibliotecas]]`
+- `[[chatgpt]]`
+- `[[como podemos ter uma relação minimalista com informações e conteúdo 1]]`
+- `[[O despertar de tudo]]`
+- `[[lembra que]]`
+- `[[Entrevista com Yuval Noah Harari]]`
+- `[[Harari, Yuval Noah]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/No tempo das catástrofes]]`
+- `[[The rehearsal]]`
+- `[[podcast o despertar de tudo]]`
+- `[[distopia feudal digital]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[racismo algorítmico]]`
+- `[[Santos, Milton]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte 2]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte]]`
+- `[[midjourney]]`
+- `[[Ergodic Literature]]`
+- `[[ELO]]`
+- `[[hipercultura]]`
+- `[[Hipertexto]]`
+- `[[markdown]]`
+- `[[Stengers]]`
+- `[[NOTAS DE LEITURA/LIVROS/No Tempo Das Catástrofes]]`
+- `[[recoding power]]`
+- `[[Políticas Da Imagem]]`
+- `[[racismo algorítmico]]`
+- `[[dissertação index]]`
+- `[[A internet corre o risco de afastar as mulheres]]`
+- `[[interesses de pesquisa]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[dissertação index]]`
+- `[[isso não é um blog]]`
+- `[[interesses de pesquisa]]`
+- `[[Sontag, Susan]]`
+- `[[Sob o signo de Saturno]]`
+- `[[Cortázar, Julio]]`
+- `[[O escorpião encalacrado]]`
+- `[[surrealismo]]`
+- `[[obsidian]]`
+- `[[Why note-taking apps don’t make us smarter]]`
+- `[[culto ao obsidian]]`
+- `[[Notas eficazes segundo Annotation - MIT Press]]`
+- `[[design]]`
+- `[[interesses de pesquisa]]`
+- `[[dissertação index]]`
+- `[[ELO]]`
+- `[[Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)]]`
+- `[[Cybertext]]`
+- `[[a dissertação argumentativa]]`
+- `[[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]`
+- `[[eight by seven]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Foucault, Michel]]`
+- `[[episteme]]`
+- `[[interesses de pesquisa]]`
+- `[[um ensaio sobre Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica - EXPERIMENTO COM CHATGPT]]`
+- `[[William Zinsser]]`
+- `[[Como Escrever Bem]]`
+- `[[verbos como motor]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[tecnocéticos]]`
+- `[[chatgpt]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[Husserl]]`
+- `[[paradoxo da contemporaneidade]]`
+- `[[artigo sobre IA e Polanyi]]`
+- `[[sindrome do impostor e dunning krugger efeito]]`
+- `[[como o computador “aprende”]]`
+- `[[Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[Resumido podcast]]`
+- `[[presentismo - conceito de história]]`
+- `[[Eduardo viveiros de castro]]`
+- `[[distopia feudal digital]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[racismo algorítmico]]`
+- `[[Santos, Milton]]`
+- `[[o que é estado da arte]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[racismo algorítmico]]`
+- `[[filosofia da tecnologia]]`
+- `[[Criticismo às redes sociais - artigo nexo]]`
+- `[[Eugênio Bucci]]`
+- `[[Beiguelman, Giselle]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Políticas da imagem]]`
+- `[[Políticas Da Imagem]]`
+- `[[ inteligência artificial em Beiguelman]]`
+- `[[TCHPML - THE CAMBRIDGE HISTORY OF POSTMODERN LITERATURE]]`
+- `[[Postmodernism]]`
+- `[[Derrida]]`
+- `[[Kant]]`
+- `[[Georg Wilhelm Friedrich Hegel]]`
+- `[[O paradoxo da fé]]`
+- `[[A Sociedade Do Espetáculo]]`
+- `[[Tudo que é sólido desmancha no ar]]`
+- `[[pós-modernismo]]`
+- `[[foto de agosto de 2007 no facebook.jpg]]`
+- `[[208998_5397401469_9318_n.jpg]]`
+- `[[Graeber - entrevista]]`
+- `[[Por que o Brasil não é a Argentina]]`
+- `[[Questionário socioeconômico e demais Informações 2]]`
+- `[[dissertação index]]`
+- `[[the creativity code.md]]`
+- `[[sentimentos gerais sobre o livro mind children.md]]`
+- `[[O MITO DA IA.md]]`
+- `[[Mind Children - H Moravec.md]]`
+- `[[Hans Moravec - Explorando o Futuro da Inteligência Artificial e Robótica.md]]`
+- `[[5 pontos-chave que eu deveria saber ao estudar Mind Children de Moravec.md]]`
+- `[[interesses de pesquisa]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Hipertexto]]`
+- `[[Three kinds of hypertext]]`
+- `[[2022-07-10]]`
+- `[[2022-07-12]]`
+- `[[2022-08-17]]`
+- `[[2022-W25]]`
+- `[[A Terra Não Se Move]]`
+- `[[dissertação index]]`
+- `[[PRIMEIRA SEMANA DE JULHO]]`
+- `[[DEFESA EM 12 PASSOS]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[a internet ta quebrada]]`
+- `[[World Wide Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[dissertação index]]`
+- `[[Problema do endividamento no Brasil]]`
+- `[[Questionário socioeconomico e demais Informações]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[contemporaneo x classico]]`
+- `[[dissertação index]]`
+- `[[alan moore acertou nessa]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[GLOBALIZAÇÃO - INDEX]]`
+- `[[Ciberespaço]]`
+- `[[Construa um argumento que relacione cibercultura e globalização, tecnologia e literatura]]`
+- `[[chatgpt]]`
+- `[[Jevons paradox]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[filosofia da tecnologia]]`
+- `[[dicotomia antigo e contemporaneo]]`
+- `[[NOTAS DE LEITURA/LIVROS/Leonardo Da Vinci]]`
+- `[[Montaigne, Michel de]]`
+- `[[sobre o estudo dos antigos, em oposição ao estudo de questões contemporâneas]]`
+- `[[Filosofo Renascentista]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[Como Transformar um Passeio de Bicicleta em um Treino de Ciclismo]]`
+- `[[orientações sobre a manutenção básica de bicicletas]]`
+- `[[Andar de bicicleta em cidade grande no Brasil é um verdadeiro pesadelo]]`
+- `[[Benjamin, Walter]]`
+- `[[estudos da mídia]]`
+- `[[hipercultura]]`
+- `[[hipermídia]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[um sombrio aviso]]`
+- `[[resenha the chaos machine]]`
+- `[[The Chaos Machine]]`
+- `[[Swartz alerta sobre a internet]]`
+- `[[8 pontos sobre o livro The Chaos Machine]]`
+- `[[Was 1610 the beginning of a new human epoch]]`
+- `[[onde começa o antropoceno]]`
+- `[[dicotomia antigo e contemporaneo]]`
+- `[[NOTAS DE LEITURA/LIVROS/Leonardo Da Vinci]]`
+- `[[Montaigne, Michel de]]`
+- `[[Filosofo Renascentista]]`
+- `[[resumo por um filósofo da renascença segundo gpt3]]`
+- `[[051220221024]]`
+- `[[051220221024#^ac8f64]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[Ted Chiang escreve sobre o ChatGpt]]`
+- `[[As entrelinhas dos conteúdos produzidos pelo ChatGpt]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[Alan Wake II - Maestria da narrativa]]`
+- `[[Renascimento de 'True Detective' na Quarta Temporada - nexo jornal]]`
+- `[[Monsieur Spade - Gênesis e Contextualização]]`
+- `[[A murder at the end of the world - série televisiva da FX]]`
+- `[[hifacultura]]`
+- `[[dissertação index]]`
+- `[[BERT]]`
+- `[[como o computador “aprende”]]`
+- `[[exemplo de uso de gpt-3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[poesia feita por gpt3]]`
+- `[[prompts midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[chatgpt]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[filosofia da tecnologia]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[Empatia na era da IA]]`
+- `[[ voce quer ser escritor - lamento]]`
+- `[[IA, Criatividade e a Essência da Humanidade]]`
+- `[[Impacto da IA em Ocupações e Novas Oportunidades de Trabalho]]`
+- `[[William Zinsser]]`
+- `[[Antes de começar faça a si mesmo 6 perguntas]]`
+- `[[Como Escrever Bem]]`
+- `[[Como se faz uma tese]]`
+- `[[Sobre o escopo do texto]]`
+- `[[unidade textual segundo zinsser]]`
+- `[[William Zinsser]]`
+- `[[Antes de começar faça a si mesmo 6 perguntas]]`
+- `[[Como Escrever Bem]]`
+- `[[Como se faz uma tese]]`
+- `[[sobre o argumento principal de um texto]]`
+- `[[THE INTERNET IS BROKEN]]`
+- `[[a internet ta quebrada]]`
+- `[[A internet corre o risco de afastar as mulheres]]`
+- `[[como consertar a internet]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[paradoxo da contemporaneidade]]`
+- `[[paradoxo de polanyi]]`
+- `[[chatgpt]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[resumo artigo ted chiang sobre ChatGpt]]`
+- `[[As entrelinhas dos conteúdos produzidos pelo ChatGpt]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[World Wide Web]]`
+- `[[Hypertext 3.0]]`
+- `[[hipercultura]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[markdown]]`
+- `[[Structangle]]`
+- `[[dissertação index]]`
+- `[[literatura ergódica]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[episteme]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[escritas da pandemia]]`
+- `[[escrita anticapitalista]]`
+- `[[sobre como alguem le]]`
+- `[[BERT]]`
+- `[[300920221013]]`
+- `[[caligrama]]`
+- `[[eis dois cachimbos]]`
+- `[[Eliot-Poemas]]`
+- `[[Esto no es una Pipa - video analise]]`
+- `[[filosofia do futuro]]`
+- `[[Foucault, Michel]]`
+- `[[isso não é um blog]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Metodologia do trabalho científico]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Notas do debate Literatura e arte digital]]`
+- `[[o caligrama desfeito]]`
+- `[[NOTAS DE LEITURA/LIVROS/Poemas]]`
+- `[[NOTAS DE LEITURA/LIVROS/Poemas]]`
+- `[[surrealismo]]`
+- `[[academic-foucault this is not a pipe]]`
+- `[[academic-this is not a review]]`
+- `[[Epistemes Contemporâneas]]`
+- `[[filosofia do futuro]]`
+- `[[foucault this is not a pipe]]`
+- `[[Isto não é um cachimbo por VF]]`
+- `[[The Sunset Limited]]`
+- `[[this is not a review]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Images cannot say Ain’ t]]`
+- `[[joão montanaro isso não é uma granada]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[teoria da cauda longa e a indústria do conteúdo 1]]`
+- `[[teoria da cauda longa e a indústria do conteúdo - revisão 1]]`
+- `[[5 pontos sobre Economia da Atenção]]`
+- `[[sobre economia, agentes do mercado e a boa gestão da economia]]`
+- `[[ teoria da cauda longa e a indústria do conteúdo 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/A teoria da cauda longa]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/A teoria da cauda longa]]`
+- `[[teoria da cauda longa e a indústria do conteúdo 1]]`
+- `[[tensão  entre capitalismo e autenticidade na indústria cultural]]`
+- `[[como podemos ter uma relação minimalista com informações e conteúdo 1]]`
+- `[[sobre economia, agentes do mercado e a boa gestão da economia]]`
+- `[[ teoria da cauda longa e a indústria do conteúdo 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/A teoria da cauda longa]]`
+- `[[teoria da cauda longa e a indústria do conteúdo - revisão 1]]`
+- `[[tensão  entre capitalismo e autenticidade na indústria cultural]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/A teoria da cauda longa]]`
+- `[[teoria da cauda longa e a indústria do conteúdo - revisão 1]]`
+- `[[tensão  entre capitalismo e autenticidade na indústria cultural]]`
+- `[[como podemos ter uma relação minimalista com informações e conteúdo 1]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/A teoria da cauda longa]]`
+- `[[cal newport]]`
+- `[[Simondon, Gilbert]]`
+- `[[Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a]]`
+- `[[The Age of Social Media Is Ending]]`
+- `[[digital minimalism]]`
+- `[[World Wide Web]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[argumento do quarto chinês]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[interesses de pesquisa]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Hipertexto]]`
+- `[[experiências hipertextuais]]`
+- `[[Images versus alphabetic culture]]`
+- `[[Sumário Artigo THE INTERNET IS BROKEN]]`
+- `[[como consertar a internet]]`
+- `[[ a internet ta quebrada]]`
+- `[[Heidegger, Martin]]`
+- `[[filosofia da tecnologia]]`
+- `[[Heidegger, Martin]]`
+- `[[Psiquiatras, Professores e o Paradoxo de Moravec]]`
+- `[[What AI Teaches Us About Good Writing]]`
+- `[[hábitos de escritores]]`
+- `[[ideias para escrever]]`
+- `[[blog para sempre]]`
+- `[[contador de historias]]`
+- `[[interesses de pesquisa]]`
+- `[[Eco, Umberto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/From Internet to Gutenberg]]`
+- `[[Hipertexto]]`
+- `[[World Wide Web]]`
+- `[[Derrida]]`
+- `[[racismo algorítmico]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[O futuro é multiespécie]]`
+- `[[digital minimalism]]`
+- `[[Tim Berners-Lee]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Gavin Wood pede ceticismo]]`
+- `[[w3]]`
+- `[[hipercultura]]`
+- `[[dissertação index]]`
+- `[[World Wide Web]]`
+- `[[Hipertexto]]`
+- `[[Ciberespaço]]`
+- `[[Como Escrever Bem]]`
+- `[[unidade textual segundo zinsser]]`
+- `[[Como se faz uma tese]]`
+- `[[antes de escrever reduza e simplifique]]`
+- `[[Além do homem]]`
+- `[[TRABALHO DE FACULDADE POSTADO NO  FACEBOOK - SEMIOTICA]]`
+- `[[Trabalho de Introdução à Filosofia]]`
+- `[[Happycracia]]`
+- `[[como ser um niilista feliz]]`
+- `[[substack, revue e blog]]`
+- `[[JARDIM DIGITAL E O FIM DO MEDIUM]]`
+- `[[when adopted people learn about their adoptee status]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[mudar o enfoque do desenvolvimento de IA]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[The banality of ChatGPT]]`
+- `[[plano de meditação 28 dias]]`
+- `[[prompt - louco, genio ou criança]]`
+- `[[Analise ou intuição - podcast ou leitura - ZT]]`
+- `[[podcast o despertar de tudo]]`
+- `[[um conjunto de perguntas absolutamente simples e interessantes sobre Inteligência humana - update]]`
+- `[[dissertação index]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[Carlos Heitor Cony]]`
+- `[[Quase Memória]]`
+- `[[Como se faz uma tese]]`
+- `[[lide com o lide]]`
+- `[[resenha the chaos machine]]`
+- `[[The Chaos Machine]]`
+- `[[Swartz alerta sobre a internet]]`
+- `[[8 pontos sobre o livro The Chaos Machine]]`
+- `[[as plataformas de mídia social são projetadas para exagerar e ampliar as identidades e crenças das pessoas]]`
+- `[[William Zinsser]]`
+- `[[Como Escrever Bem]]`
+- `[[NOTAS DE LEITURA/LIVROS/Zen E a Arte Da Escrita]]`
+- `[[NOTAS DE LEITURA/LIVROS/A Arte De Escrever]]`
+- `[[A Arte De Escrever-2]]`
+- `[[web 3.0]]`
+- `[[World Wide Web]]`
+- `[[Anna L Tsing]]`
+- `[[escritas da pandemia]]`
+- `[[escrita anticapitalista]]`
+- `[[NOTAS DE LEITURA/LIVROS/Antropoceno]]`
+- `[[Capitalismo tardio]]`
+- `[[Capitalist Sorcery]]`
+- `[[Antropoceno, Capitaloceno e Plantationoceno]]`
+- `[[NOTAS DE LEITURA/LIVROS/Antropoceno]]`
+- `[[cap 1]]`
+- `[[Renascença]]`
+- `[[resumo por um filósofo da renascença segundo gpt3]]`
+- `[[respostas da entrevista com o filosofo renascentista]]`
+- `[[pentiment]]`
+- `[[o fim do antropoceno]]`
+- `[[Tim Berners-Lee Explains the Semantic Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[w3]]`
+- `[[hipercultura]]`
+- `[[Web Semântica]]`
+- `[[Tim Berners-Lee Explains the Semantic Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[w3]]`
+- `[[hipercultura]]`
+- `[[Web Semântica]]`
+- `[[web 3.0]]`
+- `[[Web 3.0, Semantic Web, Potayto, Potahto]]`
+- `[[Tim Berners-Lee Explains the Semantic Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[w3]]`
+- `[[hipercultura]]`
+- `[[chat gpt na vice]]`
+- `[[o truque mais charmoso da IA é também sua maior freaqueza]]`
+- `[[chat gpt avisa]]`
+- `[[O brilhantismo e a esquisitice do ChatGPT]]`
+- `[[Ray Kurzweil - ZT]]`
+- `[[filosofia da tecnologia]]`
+- `[[AI Shouldn’t Compete With Workers]]`
+- `[[o homem competente (versão atualizada)]]`
+- `[[o fim do antropoceno]]`
+- `[[Tim Berners-Lee]]`
+- `[[como o computador “aprende”]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[web 3.0]]`
+- `[[Web Semântica]]`
+- `[[Tim Berners-Lee Explains the Semantic Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[w3]]`
+- `[[hipercultura]]`
+- `[[SN GOENKA]]`
+- `[[notas de retiro dhamma sarana]]`
+- `[[LEITURAS CLANDESTINAS I]]`
+
+### 131220221704.md
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[O aumento da oferta de textos causado pelo advento de grandes modelos de linguagem]]`
+- `[[chatgpt]]`
+- `[[chat gpt ajudou a complementar esse texto]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[Algoritmos e Criatividade - ecco 2023]]`
+
+### 202502111224.md
+- `[[CLAUDE - MENOS COMPLACENTE - TAG]]`
+- `[[analise codigo e explicacao filosofica chatgpt]]`
+- `[[meta-prompt Article to notes - RESUMO]]`
+- `[[Uma Análise Filosófica e Crítica de Diretrizes para Chatbots IA]]`
+
+### 220120232039.md
+- `[[pedi o chat gpt que recomendasse pentiment para um amigo de férias]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[A ascensão da indústria de conteúdo]]`
+- `[[teoria da cauda longa e a indústria do conteúdo]]`
+- `[[filosofia da tecnologia]]`
+- `[[usar o gpt é low effort (pergunta)]]`
+- `[[Autenticidade]]`
+- `[[Could AI help you to write your next paper]]`
+- `[[ChatGPT está a chegar para as salas de aula. Não entre em pânico]]`
+- `[[Como Escrever Bem]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Tirando de letra]]`
+- `[[Why They Cant Write Killing the Five-Paragraph Essay and Other Necessities]]`
+- `[[25-01-2023]]`
+- `[[DISSERTAÇÃO MESTRADO WALKER]]`
+- `[[como perceber um texto gerado por IA segundo... uma IA]]`
+- `[[ integridade acadêmica]]`
+
+### 221220221438.md
+- `[[dissertação index]]`
+- `[[BERT]]`
+- `[[como o computador “aprende”]]`
+- `[[exemplo de uso de gpt-3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[poesia feita por gpt3]]`
+- `[[prompts midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[chatgpt]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+
+### 5-chatgpt-prompts-to-create-awesome-content-that-actually-sounds-like-you.md
+- `[[Melhores prompts]]`
+- `[[artigo wired sobre engenharia de prompt para chat gpt]]`
+- `[[chatgpt cheat sheet]]`
+- `[[meta-prompt Article to notes]]`
+- `[[how would you like chatgpt to respond - HWYLTA]]`
+- `[[zettel-this custom prompt]]`
+- `[[IA WRITER sobre usar corretamente IA - com exemplos]]`
+
+### 5-coisas-sobre-existencialismo.md
+- `[[Existencialismo]]`
+- `[[Autenticidade]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/READY-NOTES]]`
+- `[[O paradoxo da fé]]`
+- `[[Kierkegaard]]`
+- `[[Camus, Albert]]`
+- `[[Autenticidade]]`
+- `[[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Declínio de um Homem]]`
+- `[[Jean-Paul Sartre]]`
+- `[[Georg Wilhelm Friedrich Hegel#^6ef1cd]]`
+- `[[Nietzsche-Crepúsculo dos Ídolos]]`
+- `[[Sontag-Sob o signo de Saturno]]`
+- `[[Cortella-A sorte segue a coragem!]]`
+- `[[LEIS DIÁRIAS DE ROBERT GREENE]]`
+- `[[lições de um retiro longo de meditação]]`
+- `[[As Páginas Matinais]]`
+- `[[6 ERROS PARA SE MANTER LEITOR]]`
+- `[[lições de um retiro longo de meditação]]`
+- `[[de como filosofar é aprender a morrer]]`
+- `[[TAD]]`
+- `[[NK - 091223]]`
+- `[[Chinese philosophy has long known that mental health is communal]]`
+- `[[filosofia da tecnologia]]`
+- `[[Postmodernism]]`
+- `[[Derrida]]`
+- `[[Deleuze]]`
+- `[[Foucault, Michel]]`
+- `[[8 questions for my interview with a postmodern philosopher]]`
+- `[[teoria do ator-rede]]`
+- `[[teoria do ator-rede]]`
+- `[[de como filosofar é aprender a morrer]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[when adopted people learn about their adoptee status]]`
+- `[[Derrida]]`
+- `[[O Individualista]]`
+- `[[eneagrama]]`
+- `[[ tipo 4 e 5]]`
+- `[[diagnosticar não é “predizer”, mas estar atento ao desconhecido que bate à porta]]`
+- `[[modelo de 8 circuitos de RAW]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[2022-07]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/🏡 PROJETOS E JARDIM DIGITAL🌱/Projeto Lendo Os Ensaios/LENDO MONTAIGNE 1]]`
+- `[[Lendo Montaigne aos poucos]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[2022-07]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[Piramide de maslow]]`
+- `[[naruhodo 404]]`
+- `[[Understanding Beliefs (SUMARIO)]]`
+- `[[Feynman's Approach]]`
+- `[[6 Keystone Skills for Deciding What You Want, Learning Effectively, and Mastering Life]]`
+- `[[A dúzia de problemas favoritos de Montaigne]]`
+- `[[Uma dúzia de perrengues preferidos]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[NOTAS DE LEITURA/LIVROS/Como Viver]]`
+- `[[Como Viver-2]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[lendo montaigne a sério]]`
+- `[[Da amizade 28]]`
+- `[[da amizade]]`
+- `[[Sobre a educação das crianças]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[computers make art, artists make money]]`
+- `[[onde memoria acaba e generativa IA começa]]`
+- `[[Analise ou intuição - podcast ou leitura - ZT]]`
+- `[[Sobre a educação das crianças]]`
+- `[[Ensaio 26 - autenticidade - DEDC]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[Montaigne, Michel de]]`
+- `[[youtube]]`
+- `[[Montaigne, Michel de]]`
+- `[[Projeto Psiconautas]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne#^9224ff]]`
+- `[[é dando que se recebe]]`
+- `[[os hábitos influenciam a percepção]]`
+- `[[Montaigne, Michel de]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Arqueologias do futuro]]`
+- `[[iching]]`
+- `[[filosofia da tecnologia]]`
+- `[[terapia psicodélica]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Sobre a educação das crianças]]`
+- `[[Montaigne, Michel de]]`
+- `[[Foucault, Michel]]`
+- `[[seis meses para aprender francês]]`
+- `[[Camus, Albert]]`
+- `[[Existencialismo]]`
+- `[[Sebald, W. G.]]`
+- `[[Understanding Sebald]]`
+- `[[when adopted people learn about their adoptee status]]`
+- `[[Cosmodernism and planetarism]]`
+- `[[ImageText]]`
+- `[[ep 4 - pôr o coração à prova]]`
+- `[[Heidegger, Martin]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[Karl Jaspers - Stanford Encyclopedia]]`
+- `[[bereal e a busca inalcançável pela autenticidade]]`
+- `[[031220221258]]`
+- `[[O microfone]]`
+- `[[Authentic Word of The Year -  wired]]`
+- `[[2022-07-27  ]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[nome de solteira da minha mãe]]`
+- `[[paoeágua]]`
+- `[[o exercício da sinceridade é condição para a sabedoria]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[midnight gospel]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[Understanding Beliefs (SUMARIO)]]`
+- `[[The scientific method (UB)]]`
+- `[[cético saudável]]`
+- `[[A dúzia de problemas favoritos de Montaigne]]`
+- `[[o problema de monty hall]]`
+- `[[Understanding Beliefs (SUMARIO)]]`
+- `[[reality and truth bonus]]`
+- `[[reality and truth]]`
+- `[[ramificação desta nota the role of uncertainty]]`
+- `[[ramificação desta nota the potential of AI to reshape our vision]]`
+- `[[The Psychedelic Scientist Who Sends Brains Back to Childhood - full article]]`
+- `[[vox -  meditation]]`
+- `[[Can Cognitive Behavioral Therapy Change Our Minds - ZT]]`
+- `[[como o estoicismo influenciou o pink floyd]]`
+- `[[When Philosophers Become Therapists]]`
+- `[[Psyche - Existe uma razão para que algumas pessoas sejam mais fáceis de mudar do que outras]]`
+- `[[A terapia cognitivo-comportamental (TCC)]]`
+- `[[como reconfigurar seu cérebro em 42 dias]]`
+- `[[Sontag, Susan]]`
+- `[[mushrooms, a poem by Sylvia Plath]]`
+- `[[advice to aspiring writers]]`
+- `[[NOTAS DE LEITURA/LIVROS/Borges Babilônico]]`
+- `[[Dossiê Borges BRAIN PICKINGS]]`
+- `[[bookscreens]]`
+- `[[ceticismo em montaigne]]`
+- `[[Por que os filósofos desconfiam dos seus sentidos]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Montaigne, Michel de]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[terapia psicodélica]]`
+- `[[A emergência da TP e como surfar na onda]]`
+- `[[A terapia cognitivo-comportamental (TCC)]]`
+- `[[Neoestoicismo]]`
+- `[[Uma dúzia de perrengues preferidos]]`
+- `[[barromeu]]`
+- `[[simplifique, simplifique, simplifique]]`
+- `[[sabedoria]]`
+- `[[Happycracia]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Jia Tolentino]]`
+- `[[Jenny Odell]]`
+- `[[Ottessa Moshfegh]]`
+- `[[Os quatro circuitos superiores]]`
+- `[[filosofia da mente - Definição e escopo]]`
+- `[[CONSENSUS APP - GUIA]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[NOTAS DE LEITURA/LIVROS/Como Viver]]`
+- `[[Como Viver-2]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[lendo montaigne a sério]]`
+- `[[Understanding Beliefs (SUMARIO)]]`
+- `[[Understanding Beliefs (SUMARIO)]]`
+- `[[Nego Bispo]]`
+- `[[Filosofia quilombola - Nego Bispo]]`
+- `[[Montaigne, Michel de]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[lendo montaigne a sério]]`
+- `[[ceticismo]]`
+- `[[ceticismo em montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[detesto o sábio que não é sábio por si próprio]]`
+- `[[do pedantismo]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[do pedantismo 25]]`
+- `[[sabedoria verdadeira é fazer juízos corretos para a própria vida]]`
+- `[[cal newport]]`
+- `[[Simondon, Gilbert]]`
+- `[[Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a]]`
+- `[[como trabalhar como um monge medieval]]`
+- `[[Você precisa pensar como um monge medieval]]`
+- `[[The Age of Social Media Is Ending]]`
+- `[[8 ações para melhorar a relação com a tecnologia em 2023]]`
+- `[[Montaigne, Michel de]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[lendo montaigne a sério]]`
+- `[[ceticismo]]`
+- `[[ceticismo em montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[detesto o sábio que não é sábio por si próprio]]`
+- `[[do pedantismo]]`
+- `[[Montaigne, Michel de]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[lendo montaigne a sério]]`
+- `[[ceticismo]]`
+- `[[ceticismo em montaigne]]`
+- `[[detesto o sábio que não é sábio por si próprio]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[NOTAS DE LEITURA/LIVROS/Como Viver]]`
+- `[[Como Viver-2]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[lendo montaigne a sério]]`
+- `[[Da amizade 28]]`
+- `[[da amizade]]`
+- `[[colonialismo químico]]`
+- `[[Decolonização - Um desafio às estruturas de poder opressivas]]`
+- `[[Chico mendes]]`
+- `[[ARLR - Paraná - citações]]`
+- `[[Educação Antiracista]]`
+- `[[assistindo adeus minha querida]]`
+- `[[O Individualista]]`
+- `[[eneagrama]]`
+- `[[INTP T]]`
+- `[[Sobre a educação das crianças]]`
+- `[[Autenticidade]]`
+- `[[Montaigne, Michel de]]`
+- `[[Sobre a educação das crianças]]`
+- `[[ceticismo em montaigne]]`
+- `[[Ensaio 26 - autenticidade - DEDC]]`
+- `[[uma abordagem mais cética da educação]]`
+- `[[o propósito do ensaio]]`
+- `[[Montaigne, Michel de]]`
+- `[[Foucault, Michel]]`
+- `[[episteme]]`
+- `[[amor aos livros - montaigne]]`
+- `[[Kierkegaard]]`
+- `[[Nietzsche, Friedrich]]`
+- `[[HASHTAG filosofia]]`
+- `[[o poder da leitura lenta]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Vipassana]]`
+- `[[Este é um filósofo chapado - artigo wired]]`
+- `[[Heidegger, Martin]]`
+- `[[paradoxo de polanyi]]`
+- `[[paradoxo da contemporaneidade]]`
+- `[[011220221620]]`
+- `[[DASEIN]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[interesses de pesquisa]]`
+- `[[de volta à terra]]`
+- `[[Nego Bispo]]`
+- `[[Ailton Krenak]]`
+- `[[Ecologia Decolonial]]`
+- `[[Robot Beliefs]]`
+- `[[ramificação desta nota the potential of AI to reshape our vision]]`
+- `[[ GPT-4 Acredita em quê]]`
+- `[[Understanding Beliefs (SUMARIO)]]`
+- `[[gpt responde sobre suas crenças]]`
+- `[[Understanding Beliefs (SUMARIO)]]`
+- `[[O conceito de heroísmo - para Becker]]`
+- `[[A NEGAÇÃO DA MORTE - BECKER]]`
+- `[[Sistema de Heróis]]`
+- `[[Sociedade e Heroísmo]]`
+- `[[Impacto dos Sistemas de Heróis na Cultura]]`
+- `[[Ler Homero - argumentos]]`
+- `[[Filosofia do zen-budismo]]`
+- `[[O Individualista]]`
+- `[[terapia psicodélica]]`
+- `[[The Catcher in the Rye]]`
+- `[[O Individualista]]`
+- `[[o homem competente (versão atualizada)]]`
+- `[[Filosofo Renascentista]]`
+- `[[ensaística digital]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[Manifesto Hacker - a live]]`
+- `[[Manifesto Hacker]]`
+- `[[13. Paul B Preciado]]`
+- `[[2002-11-27]]`
+- `[[2022-06-03]]`
+- `[[4900 palavras]]`
+- `[[Der Zauberberg Ou Como deixar a sala vazia rapidamente]]`
+- `[[202208011746]]`
+- `[[ANISEDADE]]`
+- `[[Artigo sobre microdose]]`
+- `[[Casamento]]`
+- `[[como fazer chá de amanita muscária]]`
+- `[[conte sobre seu projeto para todo mundo]]`
+- `[[corrija estas costas]]`
+- `[[corrija estas costas 1]]`
+- `[[da amizade parte dois]]`
+- `[[descobrindo o que seu projeto pode ser 1]]`
+- `[[diário]]`
+- `[[estudos]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[lendo montaigne a sério]]`
+- `[[Não existem horas suficientes para o dia]]`
+- `[[podcast heitor cony]]`
+- `[[Projeto Psiconautas]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/quais problemas seu projeto pode resolver]]`
+- `[[quais sao seus medos]]`
+- `[[qual o ancestral do meu projeto]]`
+- `[[qual o seu porque]]`
+- `[[quisquilae]]`
+- `[[resposta teonanacatl]]`
+- `[[serindipity]]`
+- `[[SUMÁRIO SEMANA 23 EM screenshot]]`
+- `[[um dia uma semana um mes um ano]]`
+- `[[Um milagre termodinamico - atomico 4]]`
+- `[[Um milagre termodinamico - atomico 5]]`
+- `[[Um milagre termodinamico - atomico final]]`
+- `[[Observações Culturais de Frankie - Análise dos Millennials]]`
+- `[[dissertação index]]`
+- `[[Quatro mil semanas-1669928613478]]`
+- `[[Quatro mil semanas]]`
+- `[[Relacione o paradoxo de Jevons com o uso de chatgpt e o aumento de trabalho intelectual]]`
+- `[[Existencialismo]]`
+- `[[Kierkegaard]]`
+- `[[Formas Contingentes do Conhecimento]]`
+- `[[Lyotard, Jean-François]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[Montaigne, Michel de]]`
+- `[[Life is Hard - Failure]]`
+- `[[Bartleby e Zizek]]`
+- `[[lendo fooquedeu de Nuno Ramos]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/filosofia/Vipassana]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/filosofia/Vipassana]]`
+- `[[terapia psicodélica]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Sobre a educação das crianças]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Como se faz uma tese]]`
+- `[[contemporaneo x classico]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[dicotomia antigo e contemporaneo]]`
+- `[[Montaigne, Michel de]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Sobre a educação das crianças]]`
+- `[[Metamorfoses de ovídio]]`
+- `[[sobre a criatividade]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[quisquilae]]`
+- `[[ensaistica]]`
+- `[[contemporaneo x classico]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[ensaistica]]`
+- `[[Por que os filósofos desconfiam dos seus sentidos]]`
+- `[[existencialismo, notas de estudo]]`
+- `[[Nietzsche, Friedrich]]`
+- `[[ELIT - NO BRASIL HOJE]]`
+- `[[5 pontos-chave que eu deveria saber ao estudar sobre como a programação da aprendizagem influencia as habilidades criativas e literárias]]`
+- `[[nos divertindo até a morte]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Gavin Wood pede ceticismo]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)]]`
+- `[[THE PLAYLIST DOCUMENTÁRIO]]`
+- `[[wired with a coder]]`
+- `[[NOTAS DE LEITURA/LIVROS/A Queda Do Céu]]`
+- `[[Ailton Krenak]]`
+- `[[Solón, Pablo]]`
+- `[[Eduardo viveiros de castro]]`
+- `[[Humans Have Always Been Wrong About Humans]]`
+- `[[Stengers, Isabelle]]`
+- `[[NOTAS DE LEITURA/LIVROS/No Tempo Das Catástrofes]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[Montaigne, Michel de]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne#^9224ff]]`
+- `[[OS AMANTES]]`
+- `[[Alejandro Jodorowsky]]`
+- `[[o panda vermelho e o individualista]]`
+- `[[eneagrama]]`
+- `[[tipo 4 e 5]]`
+- `[[o individualista e os amantes do tarô]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[O Individualista]]`
+- `[[ Holden Caulfield e o Individualista]]`
+- `[[Existencialismo]]`
+- `[[5 coisas sobre Kierkegaard]]`
+- `[[explore a ideia de aprender a conviver com os incômodos e ruídos em vez de tentar eliminá-los completamente]]`
+- `[[Robô que lê em segundos qualquer livro me ensina porque ler mais devagar]]`
+- `[[Montaigne, Michel de]]`
+- `[[Sobre a educação das crianças]]`
+- `[[ceticismo em montaigne]]`
+- `[[Ensaio 26 - autenticidade - DEDC]]`
+- `[[uma abordagem mais cética da educação]]`
+- `[[ensaistica]]`
+- `[[o efeito alucinógino, ao que parece, é uma defesa]]`
+- `[[transhumanismo]]`
+- `[[práticas biohacker]]`
+- `[[jejum como biohacking]]`
+- `[[drogas como biohacking]]`
+- `[[grinding no biohacking]]`
+- `[[justificativas para o biohacking]]`
+- `[[O Individualista]]`
+- `[[huberman husbands]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[NOTAS DE LEITURA/LIVROS/Como Viver]]`
+- `[[Como Viver-2]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[o exercício da sinceridade é condição para a sabedoria]]`
+- `[[lendo montaigne a sério]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Montaigne, Michel de]]`
+- `[[os ensaios 23]]`
+- `[[as leis da natureza nascem do costume]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[nota permanente]]`
+- `[[pentiment]]`
+- `[[Como criar um esboço para uma revisão do videogame na Steam]]`
+- `[[Citizen Sleeper - análise na steam com a qual eu concordei totalmente]]`
+- `[[19-01-2023]]`
+- `[[Você precisa pensar como um monge medieval]]`
+- `[[como trabalhar como um monge medieval]]`
+- `[[A.-D. Sertillanges]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/How to Take Smart Notes]]`
+- `[[como fazer notas melhores e mais espertas - introdução]]`
+- `[[Sertilanges A-D, Cap 7]]`
+- `[[10 princípios básicos das anotações eficazes]]`
+- `[[a filosofia por trás dos 10 princípios das anotações eficazes]]`
+- `[[usar o gpt é low effort (pergunta)]]`
+- `[[Qual deveria ser o espaço do brincar na vida de um adulto]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]`
+- `[[Anos De Formação]]`
+- `[[Aprendendo a Viver-2]]`
+- `[[NOTAS DE LEITURA/LIVROS/Breviário De Decomposição]]`
+- `[[Breviário De Decomposição-2]]`
+- `[[NOTAS DE LEITURA/LIVROS/Como Me Tornei Estúpido]]`
+- `[[NOTAS DE LEITURA/LIVROS/Demian]]`
+- `[[Existencialismo]]`
+- `[[NOTAS DE LEITURA/LIVROS/Na Natureza Selvagem - Nova Edição Com Posfácio Inédito Do Autor]]`
+- `[[O Livro Da Vida-2]]`
+- `[[plenitude]]`
+- `[[poesia feita por gpt3]]`
+- `[[NOTAS DE LEITURA/LIVROS/Silogismos Da Amargura]]`
+- `[[Silogismos Da Amargura-2]]`
+- `[[Síndrome do Impostor]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[ANISEDADE]]`
+- `[[Montaigne, Michel de]]`
+- `[[Survivorship bias]]`
+- `[[8 perguntas para minha entrevista com um autor de obituário]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[de como filosofar é aprender a morrer]]`
+- `[[Joyce, Jaime]]`
+- `[[Pynchon, Thomas]]`
+- `[[David Foster Wallace]]`
+- `[[Understanding Beliefs (SUMARIO)]]`
+- `[[Understanding Beliefs (SUMARIO)]]`
+- `[[Understanding Beliefs (SUMARIO)]]`
+- `[[reality and truth]]`
+- `[[bonus from gpt-4 (understanding beliefs)]]`
+- `[[Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a]]`
+- `[[Autenticidade]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/MEDITAÇÃO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/filosofia/Vipassana]]`
+- `[[Understanding Beliefs (SUMARIO)]]`
+- `[[gpt responde sobre suas crenças]]`
+- `[[Montaigne, Michel de]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[lendo montaigne a sério]]`
+- `[[ceticismo]]`
+- `[[ceticismo em montaigne]]`
+- `[[Autenticidade]]`
+- `[[do pedantismo 25]]`
+- `[[educação como mercadoria]]`
+- `[[Ler Homero - argumentos]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Virtude]]`
+- `[[Montaigne, Michel de]]`
+- `[[ceticismo]]`
+- `[[NOTAS DE LEITURA/LIVROS/A Vida Dos Estoicos]]`
+- `[[Mente Zen, Mente De Principiante]]`
+- `[[Fazer as contas]]`
+- `[[Henry David Thoreau sobre autenticidade]]`
+- `[[de como filosofar é aprender a morrer]]`
+- `[[Thoreau, Henry David]]`
+- `[[Sobre a educação das crianças]]`
+- `[[ceticismo em montaigne]]`
+- `[[Ensaio 26 - autenticidade - DEDC]]`
+- `[[uma abordagem mais cética da educação]]`
+- `[[Montaigne, Michel de]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Montaigne, Michel de]]`
+- `[[Metamorfoses de ovídio]]`
+- `[[montaigne e as metamorfoses de ovídio]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[minha mae foi embora]]`
+- `[[ceticismo]]`
+- `[[filosofia da tecnologia]]`
+- `[[o meio é a mensagem]]`
+- `[[12. Tiziana Terranova]]`
+- `[[091020221807]]`
+- `[[Antropoceno, Capitaloceno e Plantationoceno]]`
+- `[[como ser um niilista feliz]]`
+- `[[VERDADE - INSIGHTS]]`
+- `[[pdf análise - the oxford book of lying 1]]`
+- `[[pdf análise - the oxford book of lying 2]]`
+- `[[pdf análise - the oxford book of lying 3]]`
+- `[[Como mentir bem]]`
+- `[[pdf análise - the oxford book of lying 2]]`
+- `[[pdf análise - the oxford book of lying 3]]`
+- `[[Se você tem boa força de vontade e leva muito a sério a questão de não ser enganado]]`
+- `[[porque pensamento crítico te faz mais esperto]]`
+- `[[eneagrama]]`
+- `[[ O Individualista]]`
+- `[[Derrida]]`
+- `[[digital minimalism]]`
+- `[[mente estendida]]`
+- `[[prompt sobre biohacking no chatgpt]]`
+- `[[O futuro é multiespécie]]`
+- `[[prompt sobre biohacking no chatgpt]]`
+- `[[a tecnologia quebrou nossos cérebros]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Montaigne, Michel de]]`
+- `[[como viver, sarah bakewell]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[Sobre a educação das crianças]]`
+- `[[ceticismo em montaigne]]`
+- `[[Ensaio 26 - autenticidade - DEDC]]`
+- `[[Só os loucos tem certeza absoluta]]`
+- `[[(original) Understanding Beliefs]]`
+- `[[As crenças nos ajudam a fazer previsões, selecionar ações, compreender os assuntos com mais detalhes]]`
+- `[[Testando as crenças]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/de onde veem as crenças.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/de onde veem as crenças 2.md]]`
+- `[[NOTAS PERMANENTES/reality and truth.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/reality and truth bonus.md]]`
+- `[[bonus from gpt-4 (understanding beliefs)]]`
+- `[[ramificação desta nota the potential of AI to reshape our vision]]`
+- `[[ramificação desta nota the role of uncertainty]]`
+- `[[Robot Beliefs]]`
+- `[[gpt responde sobre suas crenças]]`
+- `[[GPT-4 Acredita em quê]]`
+- `[[some philosophical insights into making money or at least cutting living costs]]`
+- `[[Belief Traps]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Montaigne, Michel de]]`
+- `[[Metamorfoses de ovídio]]`
+- `[[montaigne e as metamorfoses de ovídio]]`
+- `[[lições de um retiro longo de meditação]]`
+- `[[notas de retiro dhamma sarana]]`
+- `[[NOTAS DE LEITURA/LIVROS/Torne-Se Quem Você é.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/O Livro Da Vida-2.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/Homo Deus-3.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/Deep Thinking in the Age of Distraction – The Startup – Medium.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/Como Viver.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/Como Viver-2.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/Cartas De Um Diabo a Seu Aprendiz.md]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/LIVROS/A Vida Intelectual]]`
+- `[[NOTAS DE LEITURA/LIVROS/50 Ways to Live on Your Own Terms.md]]`
+- `[[21 Lições Para O Século 21]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/PSICODELICO/Os psicodélicos mostram que a religião não é o único caminho para a espiritualidade.md]]`
+- `[[NOTAS DE LEITURA/LIT/ottappa.md]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/O livro da vida]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Como viver]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/KINDLE HIGHLIGHTS/A Vida Intelectual]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/CE1000PD]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/5 estratégias para potencializar a empatia através da investigação acadêmica.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/19082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/15082022.md]]`
+- `[[Usando o êxtase a seu favor]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/14082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/17082022.md]]`
+- `[[O significado do número 108 no budismo]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/13082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/12082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/11082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/Vipassana.md]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/Relacione cibernética com autenticidade]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/Meditation is like mountaineering approach it with care.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/ELIT/20082022.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/300920221642.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/2020-01-02.md]]`
+- `[[Serviço do Dhamma]]`
+- `[[lições de um retiro longo de meditação]]`
+- `[[plenitude]]`
+- `[[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]`
+- `[[LIT-DIG-BR]]`
+- `[[dissertação index]]`
+- `[[ensaistica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/ensaios, de montaigne]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Como se faz uma tese]]`
+- `[[contemporaneo x classico]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[dicotomia antigo e contemporaneo]]`
+
+### 5-dicas-para-ler-homero.md
+- `[[Heróis Clássicos e a Teoria do Heroísmo de Becker]]`
+- `[[Metamorfoses de ovídio]]`
+- `[[TEIMOSIA EM LER O LIVRO TODO MESMO SE RUIM]]`
+- `[[como perder o cabaço de livros]]`
+- `[[ELO]]`
+- `[[interesses de pesquisa]]`
+- `[[wired with a coder]]`
+- `[[filosofia da tecnologia]]`
+- `[[How to (Finally) Break That Bad Habit]]`
+- `[[digital minimalism]]`
+- `[[cal newport]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Antropoceno]]`
+- `[[o fim do antropoceno]]`
+- `[[Was 1610 the beginning of a new human epoch]]`
+- `[[Responsabilidade individual pelo aquecimento global]]`
+- `[[Criticismo ao mercado de carbono]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[BERT]]`
+- `[[paradoxo de polanyi]]`
+- `[[NOTAS DE LEITURA/LIVROS/O Que é Geografia]]`
+- `[[NOTAS DE LEITURA/LIVROS/Prisioneiros Da Geografia]]`
+- `[[PITCH]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[acabamos a the white lotus]]`
+- `[[acabamos a the white lotus]]`
+- `[[Quando deixamos de entender o mundo]]`
+- `[[dissertação index]]`
+- `[[interesses de pesquisa]]`
+- `[[sobre a criatividade]]`
+- `[[NOTAS DE LEITURA/LIVROS/Sobre a Escrita]]`
+- `[[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]`
+- `[[Como Escrever Bem]]`
+- `[[solucionadores de problemas]]`
+- `[[terapia psicodélica]]`
+- `[[William Zinsser]]`
+- `[[Como Escrever Bem]]`
+- `[[evitar o sexismo - podem ser feitos esforços para ser mais inclusivo dentro de limites razoáveis]]`
+- `[[Brandon Sanderson é teu deus]]`
+- `[[A Importância de Criar Conteúdo Autêntico com ChatGPT]]`
+- `[[AI Reveals the Most Human Parts of Writing]]`
+- `[[Alan Wake II - Maestria da narrativa]]`
+- `[[Renascimento de 'True Detective' na Quarta Temporada - nexo jornal]]`
+- `[[Monsieur Spade - Gênesis e Contextualização]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS DE LEITURA/REF BIBLIOGRÁFICA/promptgpt3]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte]]`
+- `[[AI Shouldn’t Compete With Workers]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[micro horror story generator#^90cdcb]]`
+- `[[notas sobre aspectos da psicologia e da ciência sobre nossa atração pelo medo]]`
+- `[[talk to me- 2023]]`
+- `[[cuando acecha la maldad]]`
+- `[[Alan wake 2 e a literatura ergódica]]`
+- `[[Joguei 700 horas de rimworld e ainda tô aprendendo - wiredetal]]`
+- `[[podcast mfc Jogos Bizarros]]`
+- `[[ALAN WAKE AWE]]`
+- `[[As origens do Gaúcho - Eduardo bueno]]`
+- `[[ARLR - glossário]]`
+- `[[Infancia - P M Campos]]`
+- `[[IA WRITER sobre usar corretamente os recursos de IA]]`
+- `[[analisando o poema do PHB]]`
+- `[[modernismo brasileiro]]`
+- `[[Paulo Mendes Campos]]`
+- `[[porque ficou mais difícil dividir a rua nas cidades]]`
+- `[[o chão é lava]]`
+- `[[Repetição espaçada - Spaced repetition]]`
+- `[[usando o ANKI para aprender QUALQUER COISA]]`
+- `[[anki tips]]`
+- `[[pkm - personal knowledge management]]`
+- `[[o que é PKM]]`
+- `[[criticismo PKM]]`
+- `[[1 NOTAS LITERAIS/conhecimento contingente e PKM]]`
+- `[[all about anki]]`
+- `[[Aplicativos de Saúde Mental não vão te tirar do sofá]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/DISSERTAÇÃO E PROJETOS PARALELOS/Gerais, Interesses/INFP]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/333 prompts criativos]]`
+- `[[051220221024]]`
+- `[[páginas matinais funcionam]]`
+- `[[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Plath, Sylvia.md]]`
+- `[[Psicodelia e misticismo]]`
+- `[[291020221621]]`
+- `[[291020221620]]`
+- `[[cheat code de dinheiro infinito]]`
+- `[[conte sobre seu projeto para todo mundo]]`
+- `[[NOTAS PERMANENTES/quais problemas seu projeto pode resolver]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/3 melhores momentos.md]]`
+- `[[aos 80 anos...]]`
+- `[[NOTAS DE LEITURA/tag pages/índice de 333 páginas para tirar seu projeto do papel.md]]`
+- `[[NOTAS DE LEITURA/LIVROS/O caminho do artista.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/As Páginas Matinais.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/ELIT/Sobre a autoficção.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/sobre a criatividade.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/Morning Pages technique.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/quais sao seus medos.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/um dia uma semana um mes um ano.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/qual o ancestral do meu projeto.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/filosofia/walker crianca.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/qual o seu porque.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/qual o seu proposito.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/# 8 estratégias para encontrar o problema com o qual trabalhar numa tese]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/quais problemas seu projeto pode resolver.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/o que o projeto deve potencializar em mim.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/141020221550.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/eu sou bom em quê.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/o que o mundo precisa e ninguem esta fazendo.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/descobrindo o que seu projeto pode ser.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/quem é voce.md]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/CEUPCD]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/descobrindo o que seu projeto pode ser 1.md]]`
+- `[[filosofia da tecnologia]]`
+- `[[Labatut no FLIP]]`
+- `[[La piedra de la locura]]`
+- `[[resenha 451 Quando deixamos de entender o mundo]]`
+- `[[covid museum]]`
+- `[[Políticas Da Imagem]]`
+- `[[0 - NOTAS PASSAGEIRAS/👨🏻‍💻🗃️NOTAS PARA PROCESSAR/10/Meditation is like mountaineering approach it with care]]`
+- `[[sobre a terapia psicodélica]]`
+- `[[assistindo drive my car]]`
+- `[[assitindo X]]`
+- `[[big red son, David foster wallace]]`
+- `[[Start here for a brief overview of concepts & science  Your Brain On Porn]]`
+- `[[selena gomez]]`
+- `[[Pedro Andrade]]`
+- `[[Pacto da branquitude]]`
+- `[[Max Hastings]]`
+- `[[Beevor, Antony]]`
+- `[[Antony Beevor]]`
+- `[[O despertar de tudo]]`
+- `[[Pense como um artista]]`
+- `[[James Bridle]]`
+- `[[Tim Berners-Lee]]`
+- `[[caligrama]]`
+- `[[nfy]]`
+- `[[20-01-2023]]`
+- `[[nfy#^7c98f3]]`
+- `[[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Declínio de um Homem]]`
+- `[[Camus, Albert]]`
+- `[[Dostoiévski, Fiodor]]`
+- `[[digital minimalism]]`
+- `[[📚 NOTAS 📖 DE 📘 LITERATURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]`
+- `[[nosurf]]`
+- `[[nosurf reddit recommendations]]`
+- `[[Passo a Passo para Sistematização das Informações de Zerar Jogos e Conhecer seu Progresso no Obsidian]]`
+- `[[0 - VAULT/1 NOTAS LITERAIS/Usando Obsidian para Zerar jogos e conhecer seu progresso]]`
+- `[[William Zinsser]]`
+- `[[Como Escrever Bem]]`
+- `[[Como se faz uma tese]]`
+- `[[COMO COMECEI A ESCREVER NOTAS ESTÚPIDAS]]`
+- `[[IA WRITER MINIMALISTA]]`
+- `[[IA WRITER]]`
+- `[[markdown]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/IAW]]`
+- `[[zettelkasten]]`
+- `[[how to take smart notes]]`
+- `[[8 dicas para iniciantes no Obsidian]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS]]`
+- `[[pentiment]]`
+- `[[pedi o chat gpt que recomendasse pentiment para um amigo de férias]]`
+- `[[usar o gpt é low effort (pergunta)]]`
+- `[[Citizen Sleeper - análise na steam com a qual eu concordei totalmente]]`
+- `[[PITCH]]`
+- `[[proposta de estágio IEL]]`
+- `[[wired with a coder]]`
+- `[[peso neural]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[Overwatch 2]]`
+- `[[Estratégia -  do grego stratos - exército -  e agein - liderar]]`
+- `[[Overwatch segundo Sun Tzu]]`
+- `[[interesses de pesquisa]]`
+- `[[📚 NOTAS 📖 DE 📘 LITERATURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]`
+- `[[🏡 PROJETOS E JARDIM DIGITAL🌱]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Antropoceno]]`
+- `[[o fim do antropoceno]]`
+- `[[Was 1610 the beginning of a new human epoch]]`
+- `[[Responsabilidade individual pelo aquecimento global]]`
+- `[[10 razões para ser bom o uso de créditos de carbono]]`
+- `[[LONGFORM OBSIDIAN]]`
+- `[[obsidian - o fenômeno]]`
+- `[[obsidian, dendron e foam]]`
+- `[[Minhas Notas - disponíveis em um site novo]]`
+- `[[A vida moderna está arruinando nossos poderes de concentração (pergunta)]]`
+- `[[Trabalho Focado]]`
+- `[[digital minimalism]]`
+- `[[nosurf]]`
+- `[[nosurf reddit recommendations]]`
+- `[[filosofia da tecnologia]]`
+- `[[Chico Moura and Wilma Moura]]`
+- `[[ escrita clara é como um videogame]]`
+- `[[NOTAS DE LEITURA/LIVROS/Tirando De Letra]]`
+- `[[aprenda a curtir as idas e vindas]]`
+- `[[lide com o lide]]`
+- `[[A reescrita é crucial]]`
+- `[[aprenda a curtir as idas e vindas]]`
+- `[[substack, revue e blog]]`
+- `[[w4lker ponto com ponto br]]`
+- `[[Tim Berners-Lee]]`
+- `[[padroes de hipertexto e criação lit]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[obsidian]]`
+- `[[o filmete emperor tomato ketchup]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/reddit saves/r gaming.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/Gerais, Interesses/muito velho para games.md]]`
+- `[[SUMÁRIO SEMANA 23 EM screenshot]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/estudos.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/2022-08-19.md]]`
+- `[[Senador Pergunta por que a steam hospeda tanto conteúdo Neo-Nazista]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[081120221122]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[Políticas Da Imagem]]`
+- `[[escrita terapeutica nexo jornal]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[081120221122]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[Políticas Da Imagem]]`
+- `[[escrita terapeutica nexo jornal]]`
+- `[[mapa sonoro na pandemia]]`
+- `[[covid museum]]`
+- `[[memorial vagalumes]]`
+- `[[Como subir na classificação no Overwatch - de acordo com os pros]]`
+- `[[Overwatch segundo Sun Tzu]]`
+- `[[overwatch dicas de coachs]]`
+- `[[Sun tzu - Fortnite sessions]]`
+- `[[A Arte da Guerra]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[etnomusicologia]]`
+- `[[entrevista com Four Tet]]`
+- `[[w3]]`
+- `[[web 3.0]]`
+- `[[Web Semântica]]`
+- `[[World Wide Web]]`
+- `[[Observações Culturais do frankie -  pessoas que leem livros em público]]`
+- `[[Observações Culturais de Frankie - Análise dos Millennials]]`
+- `[[GLOBALIZAÇÃO - INDEX]]`
+- `[[chronically online CONVERSATIONS]]`
+- `[[nosurf reddit recommendations]]`
+- `[[hipercultura]]`
+- `[[transhumanismo]]`
+- `[[práticas biohacker]]`
+- `[[Cyberpunk Needs a Reboot]]`
+- `[[NoSurf - uso consciente e intencional da Internet]]`
+- `[[digital minimalism]]`
+- `[[nathan for you é absolutamente genial]]`
+- `[[nfy]]`
+- `[[Como se faz uma tese]]`
+- `[[COMO COMECEI A ESCREVER NOTAS ESTÚPIDAS]]`
+- `[[IA WRITER MINIMALISTA]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/IAW]]`
+- `[[markdown]]`
+- `[[IA WRITER MINIMALISTA]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[PITCH]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/INFP]]`
+- `[[Autenticidade]]`
+- `[[INFP-T (T é para Turbulento)]]`
+- `[[foucault this is not a pipe]]`
+- `[[academic-foucault this is not a pipe]]`
+- `[[digital minimalism]]`
+- `[[nosurf]]`
+- `[[Como se divertir]]`
+- `[[serendipital]]`
+- `[[Malcolm Gladwell faz apologia das bibliotecas]]`
+- `[[ELO]]`
+- `[[OBJETIVOS DE ESCRITA]]`
+- `[[obsidian]]`
+- `[[IA WRITER]]`
+- `[[Swartz alerta sobre a internet]]`
+- `[[por que escrever em md - plaintext blog]]`
+- `[[texto puro não é uma bala mágica - plaintext blog]]`
+- `[[Tim Berners-Lee]]`
+- `[[World Wide Web]]`
+- `[[cap 1]]`
+- `[[substackers contra nazis]]`
+- `[[Substack é uma ameaça, mais ou menos]]`
+- `[[Para além dos jardins  murados dos substack]]`
+- `[[naomi jaffe anton tchekov]]`
+- `[[O fim da escrita - artigo da IAW]]`
+- `[[Como se faz uma tese]]`
+- `[[COMO COMECEI A ESCREVER NOTAS ESTÚPIDAS]]`
+- `[[IA WRITER MINIMALISTA]]`
+- `[[IA WRITER]]`
+- `[[markdown]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/IAW]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/A teoria da cauda longa]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/IAW]]`
+- `[[Monsieur Spade - Gênesis e Contextualização]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[games violentos x politicas retrogradas]]`
+- `[[2022-08-19]]`
+- `[[Do Not Fear AI Image Generators - ZT]]`
+- `[[nosurf]]`
+- `[[digital minimalism]]`
+- `[[How to (Finally) Break That Bad Habit]]`
+- `[[Lista de coisas para se fazer offline]]`
+- `[[nosurf reddit recommendations]]`
+- `[[chronically online CONVERSATIONS]]`
+- `[[aforismo sobre o medo e o cinema]]`
+- `[[uma série de questões sobre horror, cinema e psicologia]]`
+- `[[o medo]]`
+- `[[quais sao seus medos]]`
+- `[[emperor tomato ketchup foi derribado]]`
+- `[[isso não é um filme]]`
+- `[[3. Pier Paolo Pasolini]]`
+- `[[terapia psicodélica]]`
+- `[[JANEIRO-SECO]]`
+- `[[Como remover informações pessoais dos resultados de pesquisa do Google]]`
+- `[[a web está mal]]`
+- `[[como o google aperfeiçoou a web]]`
+- `[[PITCH]]`
+- `[[proposta de estágio IEL]]`
+- `[[político brasileiro Euvaldo Lodi]]`
+- `[[gen z - FCO]]`
+- `[[Consequências Psicológicas do Uso do Instagram]]`
+- `[[literary ethnography]]`
+- `[[Observações Culturais de Franky - Análise dos Boomers]]`
+- `[[ironic cringe]]`
+- `[[Observações Culturais de Frankie - Análise dos Millennials]]`
+- `[[gen z - FCO]]`
+- `[[COMO LER MAIS LIVROS - VIA NEXO]]`
+- `[[Consequências Psicológicas do Uso do Instagram]]`
+- `[[Farmácia Literária - sofrimentos relacionados à leitura]]`
+- `[[r books#^ec5812]]`
+- `[[Impacto do Aquecimento Global na Decisão de Ter Filhos]]`
+- `[[RELATORIO IPCC]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Antropoceno]]`
+- `[[o fim do antropoceno]]`
+- `[[Was 1610 the beginning of a new human epoch]]`
+- `[[Responsabilidade individual pelo aquecimento global]]`
+- `[[Criticismo ao mercado de carbono]]`
+- `[[Responsabilidade individual pelo aquecimento global]]`
+- `[[Organização de Memórias e Experiências]]`
+- `[[Ferramentas de Registro Pessoal]]`
+- `[[Impacto Emocional e Subjetividade na Avaliação de Jogos]]`
+- `[[Importância da Comunicação na Definição de Gêneros de Jogos]]`
+- `[[Criação e Compartilhamento de Listas de Jogos]]`
+- `[[Cogumelando Games indica uso de planilha]]`
+- `[[0 - VAULT/1 NOTAS LITERAIS/Usando Obsidian para Zerar jogos e conhecer seu progresso]]`
+- `[[Citizen Sleeper - análise na steam com a qual eu concordei totalmente]]`
+- `[[muito velho para games]]`
+- `[[Como criar um esboço para uma revisão do videogame na Steam]]`
+- `[[pedi o chat gpt que recomendasse pentiment para um amigo de férias]]`
+- `[[Como chegar ao Dhamma Sarana]]`
+- `[[como o computador “aprende”]]`
+- `[[lide com o lide]]`
+- `[[Aprenda a procurar informações e materiais em uma ampla gama de fontes]]`
+- `[[Malcolm Gladwell faz apologia das bibliotecas]]`
+- `[[Como se faz uma tese]]`
+- `[[PITCH]]`
+- `[[esboço para o pitch]]`
+- `[[O QUE É O IEL]]`
+- `[[pitch educação é a resposta]]`
+- `[[como fazer um pitch de 3 min]]`
+- `[[PITCH]]`
+- `[[Como o trabalho otimizado pode se tornar um ciclo vicioso]]`
+- `[[armadilhas da otimização]]`
+- `[[Algoritmos e Criatividade - ecco 2023]]`
+- `[[DEEP WORK e MINDFUL TECH - artigo]]`
+- `[[Nietzsche, Friedrich]]`
+- `[[ceticismo]]`
+- `[[ceticismo em montaigne]]`
+- `[[desequilíbrio entre oferta e demanda de profissionais na área de tecnologia no Brasil]]`
+- `[[transhumanismo]]`
+- `[[práticas biohacker]]`
+- `[[Cyberpunk Needs a Reboot]]`
+- `[[o que é biohacking]]`
+- `[[mente estendida]]`
+- `[[transhumanismo]]`
+- `[[o que é biohacking]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[prompts]]`
+- `[[Não temais a IA capaz de imitar arte]]`
+- `[[prompts]]`
+- `[[prompts midjourney]]`
+- `[[o que podemos aprender sobre resistência com os programadores]]`
+- `[[How I Rewired My Brain to Become Fluent in Math]]`
+- `[[anki tips]]`
+- `[[repetição espaçada - conceituação]]`
+- `[[How to beat maths anxiety]]`
+- `[[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Antropoceno]]`
+- `[[o fim do antropoceno]]`
+- `[[Was 1610 the beginning of a new human epoch]]`
+- `[[Responsabilidade individual pelo aquecimento global]]`
+- `[[Criticismo ao mercado de carbono]]`
+- `[[otimista-realista (aquecimento global)]]`
+- `[[Sun tzu - Fortnite sessions]]`
+- `[[3 - DISSERTAÇÃO E PROJETOS PARALELOS/Gerais, Interesses/muito velho para games.md]]`
+- `[[3 - DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/estudos.md]]`
+- `[[3 - DISSERTAÇÃO E PROJETOS PARALELOS/Gerais, Interesses/epic games invadiu privacidade de crianças.md]]`
+- `[[3 - DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/SUMÁRIO SEMANA 23 EM screenshot.md]]`
+- `[[3 - DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/2022-08-19.md]]`
+- `[[3 - DISSERTAÇÃO E PROJETOS PARALELOS/reddit saves/r gaming.md]]`
+- `[[Fortnite levou meus filhos]]`
+- `[[Porque tentar o mataroa]]`
+- `[[post blog hoje 2024-02-28]]`
+- `[[Substack é uma ameaça, mais ou menos]]`
+- `[[w4lker ponto com ponto br]]`
+- `[[MELHOR VOO - SANTANA PARNAIBA]]`
+- `[[notas de retiro dhamma sarana]]`
+- `[[Lista de coisas a levar para um retiro]]`
+- `[[Roteiros de viagem para São Paulo - personalizadíssimo - UPDATE]]`
+- `[[Roteiros de viagem para São Paulo - personalizadíssimo]]`
+- `[[SP - ROTEIRO PARA UM AMANTE DE LITERATURA]]`
+- `[[SP - ROTEIRO PARA UM ESTUDANTE DE CULTURA CONTEMPORANEA]]`
+- `[[SP - ROTEIRO PARA UM ESTUDANTE DE GEOGRAFIA]]`
+- `[[SERIE DE POSTAGENS SOBRE SAO PAULO]]`
+- `[[Não existem horas suficientes para o dia]]`
+- `[[50 Ideias de Economia#^ref-31377]]`
+- `[[série]]`
+- `[[atlanta]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/reddit saves/r gaming.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/Gerais, Interesses/muito velho para games.md]]`
+- `[[SUMÁRIO SEMANA 23 EM screenshot]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/estudos.md]]`
+- `[[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/2022-08-19.md]]`
+- `[[epic games invadiu privacidade de crianças]]`
+- `[[insight sobre minha dissertação]]`
+- `[[quem é voce]]`
+- `[[obsidian]]`
+- `[[zetteltipity]]`
+- `[[zettelkasten e serendipidade]]`
+- `[[Laura Carvalho]]`
+- `[[a origem do termo economia da atenção]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/CANTO DO CISNE]]`
+- `[[escrita anticapitalista]]`
+- `[[12 Regras Para a Vida#^3984ba]]`
+- `[[o que podemos aprender sobre resistência com os programadores]]`
+- `[[Como Escrever Bem]]`
+- `[[2 why buddhism is true]]`
+- `[[entrevista com J Goldstein - por Robert Wright]]`
+- `[[O QUE É MEDITAÇÃO - SEGUNDO HUBERMAN LAB PODCAST]]`
+- `[[NOTAS IMPORTANTES AO VER UM DOC]]`
+- `[[031220221028]]`
+- `[[Você precisa pensar como um monge medieval]]`
+- `[[a tecnologia quebrou nossos cérebros]]`
+- `[[Neal Stephenson - textos sobre reclusão e redes sociais]]`
+- `[[digital minimalism]]`
+- `[[cal newport]]`
+- `[[Montaigne, Michel de]]`
+- `[[Neal Stephenson - textos sobre reclusão e redes sociais]]`
+- `[[amor aos livros - montaigne]]`
+- `[[fatwa realizada]]`
+- `[[NOTAS DE LEITURA/LIVROS/Oriente, Ocidente]]`
+- `[[three creative questions GPT-4]]`
+- `[[um conjunto de perguntas absolutamente simples e interessantes sobre Inteligência humana]]`
+- `[[three creative questions]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica]]`
+- `[[episteme]]`
+- `[[EPISTEMES CONTEMPORÂNEAS Ecco 2020]]`
+- `[[EPISTEMES CONTEMPORÂNEAS Ecco 2020]]`
+- `[[Dicas de revisão para produzir uma escrita que encante o leitor]]`
+- `[[Como Escrever Bem]]`
+- `[[Tutorial Scrivener]]`
+- `[[obsidian to scrivener to blog]]`
+- `[[Karl Ove Knausgård]]`
+- `[[Knausgård - o que esperar destes próximos livros, se a melhor estratégia é devorar ou ler aos poucos]]`
+- `[[Peering Into the Future of Novels, With Trained Machines Ready]]`
+- `[[knausgard decide ser programador (gpt4)]]`
+- `[[literary ethnography]]`
+- `[[Atlas das Representações Literárias Regionais - O Sul]]`
+- `[[Lucas-Viagem ao país do futuro]]`
+- `[[SP - ROTEIRO PARA UM ESTUDANTE DE GEOGRAFIA]]`
+- `[[The banality of ChatGPT]]`
+- `[[chat gpt na vice]]`
+- `[[resumo artigo ted chiang sobre ChatGpt]]`
+- `[[As entrelinhas dos conteúdos produzidos pelo ChatGpt]]`
+- `[[Hipertexto]]`
+- `[[obsidian]]`
+- `[[serendipital]]`
+- `[[2 - NOTAS PERMANENTES/zettelkasten]]`
+- `[[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/how to take smart notes]]`
+- `[[Luhmann]]`
+- `[[Luhmann]]`
+
+### Customization.md
+- `[[Deployment]]`
+
+### Deployment.md
+- `[[Wiki Links]]`
+
+### Getting Started.md
+- `[[Wiki Links]]`
+- `[[Wiki Links]]`
+- `[[Markdown Guide]]`
+- `[[Customization]]`
+- `[[Deployment]]`
+
+### Markdown Guide.md
+- `[[Wiki link to another note]]`
+- `[[External link::https://example.com]]`
+- `[[Wiki Links]]`
+
+### Obsidian Setup.md
+- `[[Wiki Links]]`
+
+### Theme Features.md
+- `[[note title]]`
+- `[[Customization]]`
+
+### Wiki Links.md
+- `[[Note Title]]`
+- `[[Note Title]]`
+- `[[Google::https://google.com]]`
+- `[[Getting Started]]`
+- `[[Markdown Guide]]`
+- `[[Jekyll::https://jekyllrb.com]]`
+- `[[Getting Started]]`
+
+### _death-of-an-author_-prophesies-the-future-of-ai-novels.md
+- `[[Um crítico literário resenha livro escrito por robô]]`
+- `[[Peering Into the Future of Novels, With Trained Machines Ready]]`
+- `[[Um crítico literário resenha livro escrito por robô]]`
+- `[[AI Reveals the Most Human Parts of Writing]]`
+- `[[Why the Future Doesn_t Need Us]]`
+- `[[o que voce vai fazer quando uma IA tomar seu emprego]]`
+- `[[O fim da escrita - artigo da IAW]]`
+
+### a-filosofia-e-a-inteligência-artificial-uma-investigação-multidimensional-20251023.md
+- `[[Deep Learning - uma abordagem interdisciplinar]]`
+- `[[TP PROMPT FILOSOFIA & IA]]`
+
+### a-filosofia-e-a-inteligência-artificial-uma-investigação-multidimensional.md
+- `[[PROMPT DEEP RESEARCH FILOSOFIA & IA]]`
+
+### a-integração-ética-de-ferramentas-de-ia-na-escrita-acadêmica-de-estudantes-recém-ingressos.md
+- `[[ESCREVER SEM PLAGIO - perplexity simples]]`
+- `[[ESCREVER SEM PLAGIO - GEMINI DEEP RESEARCH]]`
+- `[[ESCREVER SEM PLAGIO - CHATGPT DEEP RESEARCH]]`
+
+### a-trama-da-máquina-inteligência-artificial-antropologia-geertziana-e-comunidades-minoritárias.md
+- `[[AI Impacts on Minority Cultures and Communities (2018–2024)]]`
+- `[[Digital Anthropology and AI Ethics - Applying Geertz's Theories to Understand Technology's Impact on Minority Communities]]`
+
+### abstracts-fooling-scientists.md
+- `[[pedi o chat gpt que recomendasse pentiment para um amigo de férias]]`
+- `[[meta-prompt Article to notes]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[A ascensão da indústria de conteúdo]]`
+- `[[teoria da cauda longa e a indústria do conteúdo]]`
+- `[[filosofia da tecnologia]]`
+- `[[Ferramentas como o ChatGPT ameaçam a ciência transparente - aqui estão as nossas regras básicas para a sua utilização]]`
+- `[[Don’t ask if artificial intelligence is good or fair, ask how it shifts power]]`
+
+### ai-expert-gary-marcus.md
+- `[[o que é agi]]`
+- `[[mudar o enfoque do desenvolvimento de IA]]`
+- `[[chat gpt na vice]]`
+
+### algoritmos-e-criatividade-ecco-2023.md
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[literature, at least in theory, enhance my metacognition]]`
+- `[[QS - Quantified Self - Self-tracking - mit press]]`
+- `[[armadilha do progresso]]`
+
+### analysis.md
+- `[[ processo de pensamento - Deep Learning - uma abordagem interdisciplinar]]`
+- `[[Investigação dos Impactos da Inteligência Artificial em Comunidades Minoritária - Uma Análise Cultural Crítica]]`
+- `[[XML TAG Deep Research prompt-creator]]`
+- `[[PROMPT - DR  uma abordagem interdisciplinar]]`
+- `[[DEEP RESEARCH - ANTROPOLOGIA & IA]]`
+- `[[Deep research Linguística & IA]]`
+- `[[Deep research Mediações Culturais & IA]]`
+- `[[Deep research FILOSOFIA & IA]]`
+- `[[Deep Research Geografia & IA]]`
+
+### análise-crítica-das-analogias-entre-inteligência-artificial-e-cognição-humana-na-linguística-computacional-uma-abordagem-epistemológica.md
+- `[[linguística do desenvolvimento humano]]`
+- `[[Para compreendermos o conceito de embeddings e espaços vetoriais densos]]`
+- `[[Para compreendermos o conceito de embeddings e espaços vetoriais densos]]`
+
+### análise-textual-rascunhos-acadêmicos-e-reflexões-metodológicas.md
+- `[[analisando a sétima parte - TP]]`
+- `[[analisando meu blog, o HBQ, com Claude]]`
+
+### best-practices-for-deep-research-with-ai-agents-gemini-perplexity-and-chatgpt.md
+- `[[ENTENDER A ORIGEM DO USO DE  PESQUISA PROFUNDA - DEEP RESEARCH - GEMINI E PERPLEXITY]]`
+
+### capítulo-1-fundamentação-teórico-metodológica.md
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[chatgpt]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[Episteme em Foucault]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[Episteme em Foucault]]`
+- `[[ChatGPT created this guide to Prompt Engineering]]`
+
+### capítulo-2-literatura-digital-e-cibercultura.md
+- `[[Ciberespaço]]`
+- `[[Construa um argumento que relacione cibercultura e globalização, tecnologia e literatura]]`
+- `[[Alan wake 2 e a literatura ergódica]]`
+- `[[A escrita não como terapia, mas como expressão e exploração, na visão de Alice Notley]]`
+
+### capítulo-3-tecnologia-e-transformação-epistêmica.md
+- `[[gpt 4 vale o preço]]`
+- `[[ChatGPT created this guide to Prompt Engineering]]`
+- `[[gpt 4 vale o preço]]`
+- `[[ChatGPT created this guide to Prompt Engineering]]`
+- `[[artigo wired sobre engenharia de prompt]]`
+
+### capítulo-4-análise-do-corpus.md
+- `[[CORPUS_DEFINITIVO]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[Episteme em Foucault]]`
+- `[[ChatGPT created this guide to Prompt Engineering]]`
+- `[[gpt 4 brainstorming TCC]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[ChatGPT created this guide to Prompt Engineering]]`
+- `[[gpt 4 brainstorming TCC]]`
+- `[[Episteme em Foucault]]`
+- `[[Construa um argumento que relacione cibercultura e globalização]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[ChatGPT created this guide to Prompt Engineering]]`
+- `[[gpt 4 brainstorming TCC]]`
+- `[[Episteme em Foucault]]`
+
+### chatgpt-ideologia-direita.md
+- `[[Perplexity sobre ideologia do chatgpt]]`
+- `[[Gemini DR sobre ideologia do chatgpt]]`
+
+### claude-ai-porque-soa-melhor.md
+- `[[Comparação de ChatGPT, Bing Chat e Bard - wired zt]]`
+- `[[writing with AI - IA net]]`
+- `[[writing with AI - IA net]]`
+
+### clusters-conceituais-autenticidade-plágio-e-impacto-na-educação.md
+- `[[Heidegger, Martin]]`
+- `[[Karl Jaspers - Stanford Encyclopedia]]`
+- `[[bereal e a busca inalcançável pela autenticidade]]`
+- `[[chatgpt]]`
+- `[[Sobre a educação das crianças]]`
+- `[[Como deveríamos estar usando IA nesse momento]]`
+- `[[Técnicas Eficazes de Tomada de Notas em Aulas]]`
+- `[[Ergodic Literature]]`
+- `[[Cybertext]]`
+- `[[Ciberespaço]]`
+- `[[Notas do debate Literatura e arte digital]]`
+- `[[Como se faz uma tese]]`
+- `[[zettelkasten]]`
+- `[[CE1000PD]]`
+- `[[bereal e a busca inalcançável pela autenticidade]]`
+- `[[Autenticidade]]`
+- `[[Manual de Sobrevivência à era da IA]]`
+- `[[uma abordagem mais cética da educação]]`
+- `[[resumo artigo ted chiang sobre ChatGpt]]`
+- `[[Montaigne, Michel de]]`
+- `[[plágio intelectual e originalidade]]`
+- `[[Literatura Eletrônica]]`
+- `[[Inteligência Artificial na Literatura]]`
+- `[[Ciberespaço]]`
+- `[[Pensamento crítico]]`
+- `[[Como avaliar conteúdo gerado por IA]]`
+- `[[Ética da IA na Educação]]`
+- `[[Plágio vs Inspiração na Era Digital]]`
+- `[[Pedagogia Crítica para IA]]`
+- `[[Autenticidade Performática nas Redes]]`
+
+### como-descobrir-a-posição-da-ufmt-frente-às-ias.md
+- `[[Guia de como usar o GPT-3 e o ChatGPT para resumir artigos e reescrever notas]]`
+- `[[ escala de uso de IA no contexto academico]]`
+- `[[explique o metodo estatistico do gpt 3 de forma simples]]`
+- `[[NATURE ISSUES FOR DEBATE - CHATGPT]]`
+- `[[Ferramentas como o ChatGPT ameaçam a ciência transparente - aqui estão as nossas regras básicas para a sua utilização]]`
+
+### como-deveríamos-estar-usando-ia-nesse-momento-gpt-4-zt.md
+- `[[writing with AI - IA net]]`
+- `[[What AI Teaches Us About Good Writing]]`
+
+### como-deveríamos-estar-usando-ia-nesse-momento-pergunta.md
+- `[[writing with AI - IA net]]`
+
+### como-deveríamos-estar-usando-ia-nesse-momento-zt.md
+- `[[writing with AI - IA net]]`
+- `[[Impacto da IA na criatividade]]`
+- `[[O microfone]]`
+
+### corpus-definitivo-dissertação.md
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[gpt 4 brainstorming TCC]]`
+- `[[ChatGPT created this guide to Prompt Engineering]]`
+- `[[bonus from gpt-4 (understanding beliefs)]]`
+- `[[gpt 4 lê a lei das fake news]]`
+- `[[knausgard decide ser programador (gpt4)]]`
+- `[[Alan wake 2 e a literatura ergódica]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/CE1000PD]]`
+- `[[zettelkasten]]`
+- `[[episteme]]`
+- `[[o meio é a mensagem]]`
+- `[[nos divertindo até a morte]]`
+- `[[its the content killing the culture]]`
+- `[[No tempo das catástrofes (inserção possível na dissertação)]]`
+- `[[O passado não é mais como era antigamente]]`
+- `[[GLOBALIZAÇÃO - INDEX]]`
+
+### disclaimer-chat-gpt.md
+- `[[Guia de como usar o GPT-3 e o ChatGPT para resumir artigos e reescrever notas]]`
+- `[[ escala de uso de IA no contexto academico]]`
+- `[[explique o metodo estatistico do gpt 3 de forma simples]]`
+- `[[NATURE ISSUES FOR DEBATE - CHATGPT]]`
+- `[[Ferramentas como o ChatGPT ameaçam a ciência transparente - aqui estão as nossas regras básicas para a sua utilização]]`
+
+### dissertação-atualizada.md
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[um ensaio sobre Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica]]`
+- `[[Ciberespaço]]`
+- `[[Levy, Pierre]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[chatgpt]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Notas do debate Literatura e arte digital]]`
+- `[[Ciberespaço]]`
+- `[[GLOBALIZAÇÃO - INDEX]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[o meio é a mensagem]]`
+- `[[No tempo das catástrofes (inserção possível na dissertação)]]`
+- `[[O passado não é mais como era antigamente]]`
+- `[[nos divertindo até a morte]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/CE1000PD]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/CE1000PD]]`
+- `[[zettelkasten]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/CANTO DO CISNE]]`
+- `[[Como se faz uma tese]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[chatgpt]]`
+- `[[zettelkasten]]`
+- `[[Como Escrever Bem]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/CE1000PD]]`
+
+### duas-regras-básicas-da-nature-para-uso-de-chatgpt.md
+- `[[Duas reagras básicas (segundo a Resvista Nature)]]`
+- `[[exemplo de inclusão do chatgpt na seção de métodos]]`
+
+### estudos-de-caso-de-pkm-aprimorado-por-ia-a-integração-de-claude-mcp-e-obsidian.md
+- `[[14-06-25]]`
+
+### examining-claims-of-a-rightward-shift-in-chatgpts-political-positions-a-deep-research-investigation.md
+- `[[Perplexity sobre ideologia do chatgpt]]`
+
+### expandindo-prompts-para-pensar-como-interdisciplina.md
+- `[[prompts para pensar criticamente]]`
+- `[[Análise da Pesquisa Apresentada]]`
+
+### google-notebooklm-para-aprendizagem-contínua-e-pesquisa-acadêmica-análise-integração-com-obsidian-e-estratégias-otimizadas-20251023.md
+- `[[THINKING PROCESS NOTEBOOKLM]]`
+- `[[como é e como funciona o notebooklm]]`
+
+### google-notebooklm-para-aprendizagem-contínua-e-pesquisa-acadêmica-análise-integração-com-obsidian-e-estratégias-otimizadas.md
+- `[[PROMPT DE PESQUISA SOBRE NOTEBOOKLM]]`
+- `[[VAULT NOTEBOOKLM]]`
+- `[[PERPLEXITY - como é e como funciona o notebooklm]]`
+- `[[PROMPT DE PESQUISA SOBRE NOTEBOOKLM]]`
+
+### gpt-4-brainstorming-tcc-16-20251023.md
+- `[[Brainstorming TCC - 23]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[ECCO 2023 - Tecnologia e Indústria do Conteúdo]]`
+- `[[refatorarando a pesquisa de 2019]]`
+- `[[Algoritmos e Criatividade - ecco 2023]]`
+- `[[Monetização e Economia do Conteúdo - ecco 2023]]`
+- `[[Identidade e Autenticidade - ecco 2023]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[literature, at least in theory, enhance my metacognition]]`
+- `[[QS - Quantified Self - Self-tracking - mit press]]`
+- `[[armadilha do progresso]]`
+- `[[14 opções de pesquisa]]`
+- `[[lista de produções ecco 2023]]`
+- `[[ecco 2023 - dissertação 3]]`
+- `[[PROMPT INICIAL - ECCO 2023 INCURSÃO]]`
+- `[[projeto de pesquisa 2024]]`
+- `[[Eficácia da Alteração de Palavras para Evasão de Algoritmos de Mídia Social]]`
+- `[[PESQUISA REFATORADA]]`
+- `[[SONHOS TECNOFEUDAIS]]`
+- `[[pc siqueira está morto]]`
+- `[[Solidão ameaça a democracia, afirma estudo]]`
+- `[[Guia para transformar sua pesquisa em forma escrita]]`
+- `[[Sertilanges A-D, Cap 7]]`
+- `[[10 princípios básicos das anotações eficazes]]`
+- `[[UMBERTO ECO - WTWAT 1]]`
+- `[[O QUE É FICHAMENTO - SEGUNDO WEG]]`
+- `[[14 opções de pesquisa]]`
+- `[[ECCO 2023 - Tecnologia e Indústria do Conteúdo]]`
+- `[[refatorarando a pesquisa de 2019]]`
+- `[[projeto de pesquisa 2024]]`
+- `[[MESTRADO 2024 - caminhos]]`
+- `[[refatorarando a pesquisa de 2019]]`
+- `[[Geografia das emoções - transcrição de vídeo]]`
+- `[[8 questions for my interview with a postmodern philosopher]]`
+- `[[Interview with McKenzie Wark- ZT]]`
+- `[[Bom fichamento]]`
+- `[[Cultura Geral - tudo o que você deve saber]]`
+- `[[231020221719]]`
+- `[[MESTRE DE CULTURA CONTEMPORANEA]]`
+- `[[aflito pelo número de livros no mundo 1]]`
+- `[[DESEJO DE PARECER CULTO]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[Como criar um esboço para uma revisão do videogame na Steam]]`
+- `[[Assisti pleasure]]`
+- `[[atlanta]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD]]`
+- `[[Como mudar sua mente - netflix]]`
+- `[[conte sobre seu projeto para todo mundo]]`
+- `[[Cultura Geral - tudo o que você deve saber]]`
+- `[[descobrindo o que seu projeto pode ser]]`
+- `[[descobrindo o que seu projeto pode ser 1]]`
+- `[[interesses de pesquisa]]`
+- `[[Eduardo viveiros de castro]]`
+- `[[entrevista com Four Tet]]`
+- `[[etnomusicologia]]`
+- `[[filosofia do futuro]]`
+- `[[Foucault, Michel]]`
+- `[[Four Tet na Pitchfork]]`
+- `[[insight sobre minha dissertação]]`
+- `[[isso não é um blog]]`
+- `[[Livros Nexo História e Política Contemporânea]]`
+- `[[mestizaje]]`
+- `[[mestrado]]`
+- `[[Santos, Milton]]`
+- `[[o que voce planeja com minha filha me perguntou o meta]]`
+- `[[O rompimento com a linguagem]]`
+- `[[prompts midjourney]]`
+- `[[quais sao seus medos]]`
+- `[[qual o ancestral do meu projeto]]`
+- `[[qual o seu porque]]`
+- `[[qualificação]]`
+- `[[quisquilae]]`
+- `[[Relatório da bolsa]]`
+- `[[Schwanitz, Dietrich]]`
+- `[[um dia uma semana um mes um ano]]`
+- `[[Bauman, Zygmunt]]`
+- `[[Schwanitz, Dietrich]]`
+- `[[Deleuze]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[Assisti pleasure]]`
+- `[[atlanta]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD]]`
+- `[[Como mudar sua mente - netflix]]`
+- `[[conte sobre seu projeto para todo mundo]]`
+- `[[descobrindo o que seu projeto pode ser]]`
+- `[[descobrindo o que seu projeto pode ser 1]]`
+- `[[interesses de pesquisa]]`
+- `[[Eduardo viveiros de castro]]`
+- `[[NOTAS PERMANENTES/insight sobre minha dissertação.md]]`
+- `[[isso não é um blog]]`
+- `[[mestrado]]`
+- `[[Santos, Milton]]`
+- `[[O rompimento com a linguagem]]`
+- `[[prompts midjourney]]`
+- `[[NOTAS PERMANENTES/quais problemas seu projeto pode resolver]]`
+- `[[quais sao seus medos]]`
+- `[[qual o ancestral do meu projeto]]`
+- `[[qual o seu porque]]`
+- `[[quisquilae]]`
+- `[[um dia uma semana um mes um ano]]`
+- `[[Bauman, Zygmunt]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[When Philosophers Become Therapists]]`
+- `[[The achievement society is burning us out, we need more play]]`
+- `[[no nothing - article meditation]]`
+- `[[ECCO 2023 - Mídias Sociais e Narrativas de migrantes]]`
+- `[[lista de produções ecco 2023]]`
+- `[[ECCO 2023 - Mídias Sociais e Narrativas de migrantes]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[ecco 2023 - dissertação 2]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[lista de produções ecco 2023]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[DICOTOMIA ACADEMICA]]`
+- `[[ecco 2023 - dissertação 2]]`
+- `[[ECCO 2023 - Mídias Sociais e Narrativas de migrantes]]`
+- `[[ECCO 2023 - Tecnologia e Indústria do Conteúdo]]`
+- `[[Suerte garay]]`
+- `[[Este projeto visa explorar as trajetórias da globalização e os desafios intrínsecos a seu surgimento]]`
+- `[[meta-prompt Article to notes - RESUMO]]`
+- `[[MESTRADO 2024 - REFLEXÕES]]`
+- `[[ECCO 2023 - Geografia e ativismo social]]`
+- `[[ECCO 2023 - Mídias Sociais e Narrativas de migrantes]]`
+- `[[ECCO 2023 - Tecnologia e Indústria do Conteúdo]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[ecco 2023 - dissertação 2]]`
+- `[[ecco 2023 - dissertação 3]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[ECCO 2023 - Geografia e ativismo social]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[lista de produções ecco 2023]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[literatura de revisão - tecnologia e indústria do conteúdo]]`
+- `[[literatura de revisão - tecnologia e indústria do conteúdo]]`
+- `[[ECCO 2023 - Geografia e ativismo social]]`
+- `[[14 opções de pesquisa]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[literatura de revisão - tecnologia e indústria do conteúdo]]`
+- `[[Autocensura e Autorregulação na Mídia Online]]`
+- `[[O aumento da oferta de textos causado pelo advento de grandes modelos de linguagem]]`
+- `[[racismo algorítmico]]`
+- `[[ECCO 2023 - Geografia e ativismo social]]`
+- `[[refatorarando a pesquisa de 2019]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[MESTRADO 2024 - caminhos]]`
+- `[[ECCO 2023 - Mídias Sociais e Narrativas de migrantes]]`
+- `[[5 livros sobre a relação entre Poder e Cultura]]`
+- `[[ECCO 2023 - Tecnologia e Indústria do Conteúdo]]`
+- `[[A revolução das máquinas de conteúdo]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[mestrado]]`
+- `[[projeto de pesquisa 2024]]`
+- `[[MESTRADO 2024 - REFLEXÕES]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[mestrado]]`
+- `[[MESTRADO 2024 - caminhos]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[contemporaneo x classico]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[RESPOSTA - PROMPT INICIAL - ECCO 2023 INCURSÃO]]`
+- `[[newsletter nova - baseada neste vault]]`
+- `[[ECCO dois ponto zero]]`
+- `[[Explorando as possibilidades de pesquisa geográfica no meu Vault - Mem]]`
+- `[[Explorando o Megavault Um Podcast sobre Pesquisa Geográfica e Cultura Contemporânea]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[202207091819]]`
+- `[[202207151739]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[Assisti pleasure]]`
+- `[[assitindo X]]`
+- `[[atlanta]]`
+- `[[Como mudar sua mente - netflix]]`
+- `[[como mudar sua mente ep 2]]`
+- `[[compras na primeday]]`
+- `[[interesses de pesquisa]]`
+- `[[giuseppe paterno]]`
+- `[[insight sobre minha dissertação]]`
+- `[[lendo fooquedeu]]`
+- `[[lendo nuno ramos]]`
+- `[[mestrado]]`
+- `[[quisquilae]]`
+- `[[Relatório da bolsa]]`
+- `[[reuniao colegiado 22 07]]`
+- `[[sobre as pedras nop caminho]]`
+- `[[IAW]]`
+- `[[chat gpt me ajuda a escrever]]`
+- `[[writing with AI - IA net]]`
+- `[[IA WRITER - authorship]]`
+- `[[As entrelinhas dos conteúdos produzidos pelo ChatGpt]]`
+- `[[Annotation - Remi H.]]`
+- `[[compilado anotação - remi H]]`
+- `[[Mestrado em 2024]]`
+- `[[suplemento teórico]]`
+- `[[mestrado]]`
+- `[[PESQUISA REFATORADA]]`
+- `[[UMBERTO ECO - WTWAT 2]]`
+- `[[Ciclo Renato Ortiz - 3 Modernidade e modernidade-mundo]]`
+- `[[projeto de pesquisa 2024]]`
+- `[[Este projeto visa explorar as trajetórias da globalização e os desafios intrínsecos a seu surgimento]]`
+- `[[MESTRADO 2024 - REFLEXÕES]]`
+- `[[MESTRADO 2024 - caminhos]]`
+- `[[Mestrado em 2024]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[MESTRADO 2024 - REFLEXÕES]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica]]`
+- `[[episteme]]`
+
+### gpt-4-brainstorming-tcc-16.md
+- `[[Brainstorming TCC - 23]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[ECCO 2023 - Tecnologia e Indústria do Conteúdo]]`
+- `[[refatorarando a pesquisa de 2019]]`
+- `[[Algoritmos e Criatividade - ecco 2023]]`
+- `[[Monetização e Economia do Conteúdo - ecco 2023]]`
+- `[[Identidade e Autenticidade - ecco 2023]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[literature, at least in theory, enhance my metacognition]]`
+- `[[QS - Quantified Self - Self-tracking - mit press]]`
+- `[[armadilha do progresso]]`
+- `[[14 opções de pesquisa]]`
+- `[[lista de produções ecco 2023]]`
+- `[[ecco 2023 - dissertação 3]]`
+- `[[PROMPT INICIAL - ECCO 2023 INCURSÃO]]`
+- `[[projeto de pesquisa 2024]]`
+- `[[Eficácia da Alteração de Palavras para Evasão de Algoritmos de Mídia Social]]`
+- `[[PESQUISA REFATORADA]]`
+- `[[SONHOS TECNOFEUDAIS]]`
+- `[[pc siqueira está morto]]`
+- `[[Solidão ameaça a democracia, afirma estudo]]`
+- `[[Guia para transformar sua pesquisa em forma escrita]]`
+- `[[Sertilanges A-D, Cap 7]]`
+- `[[10 princípios básicos das anotações eficazes]]`
+- `[[UMBERTO ECO - WTWAT 1]]`
+- `[[O QUE É FICHAMENTO - SEGUNDO WEG]]`
+- `[[14 opções de pesquisa]]`
+- `[[ECCO 2023 - Tecnologia e Indústria do Conteúdo]]`
+- `[[refatorarando a pesquisa de 2019]]`
+- `[[projeto de pesquisa 2024]]`
+- `[[MESTRADO 2024 - caminhos]]`
+- `[[refatorarando a pesquisa de 2019]]`
+- `[[Geografia das emoções - transcrição de vídeo]]`
+- `[[8 questions for my interview with a postmodern philosopher]]`
+- `[[Interview with McKenzie Wark- ZT]]`
+- `[[Bom fichamento]]`
+- `[[Cultura Geral - tudo o que você deve saber]]`
+- `[[231020221719]]`
+- `[[MESTRE DE CULTURA CONTEMPORANEA]]`
+- `[[aflito pelo número de livros no mundo 1]]`
+- `[[DESEJO DE PARECER CULTO]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[Como criar um esboço para uma revisão do videogame na Steam]]`
+- `[[Assisti pleasure]]`
+- `[[atlanta]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD]]`
+- `[[Como mudar sua mente - netflix]]`
+- `[[conte sobre seu projeto para todo mundo]]`
+- `[[Cultura Geral - tudo o que você deve saber]]`
+- `[[descobrindo o que seu projeto pode ser]]`
+- `[[descobrindo o que seu projeto pode ser 1]]`
+- `[[interesses de pesquisa]]`
+- `[[Eduardo viveiros de castro]]`
+- `[[entrevista com Four Tet]]`
+- `[[etnomusicologia]]`
+- `[[filosofia do futuro]]`
+- `[[Foucault, Michel]]`
+- `[[Four Tet na Pitchfork]]`
+- `[[insight sobre minha dissertação]]`
+- `[[isso não é um blog]]`
+- `[[Livros Nexo História e Política Contemporânea]]`
+- `[[mestizaje]]`
+- `[[mestrado]]`
+- `[[Santos, Milton]]`
+- `[[o que voce planeja com minha filha me perguntou o meta]]`
+- `[[O rompimento com a linguagem]]`
+- `[[prompts midjourney]]`
+- `[[quais sao seus medos]]`
+- `[[qual o ancestral do meu projeto]]`
+- `[[qual o seu porque]]`
+- `[[qualificação]]`
+- `[[quisquilae]]`
+- `[[Relatório da bolsa]]`
+- `[[Schwanitz, Dietrich]]`
+- `[[um dia uma semana um mes um ano]]`
+- `[[Bauman, Zygmunt]]`
+- `[[Schwanitz, Dietrich]]`
+- `[[Deleuze]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[Assisti pleasure]]`
+- `[[atlanta]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD]]`
+- `[[Como mudar sua mente - netflix]]`
+- `[[conte sobre seu projeto para todo mundo]]`
+- `[[descobrindo o que seu projeto pode ser]]`
+- `[[descobrindo o que seu projeto pode ser 1]]`
+- `[[interesses de pesquisa]]`
+- `[[Eduardo viveiros de castro]]`
+- `[[NOTAS PERMANENTES/insight sobre minha dissertação.md]]`
+- `[[isso não é um blog]]`
+- `[[mestrado]]`
+- `[[Santos, Milton]]`
+- `[[O rompimento com a linguagem]]`
+- `[[prompts midjourney]]`
+- `[[NOTAS PERMANENTES/quais problemas seu projeto pode resolver]]`
+- `[[quais sao seus medos]]`
+- `[[qual o ancestral do meu projeto]]`
+- `[[qual o seu porque]]`
+- `[[quisquilae]]`
+- `[[um dia uma semana um mes um ano]]`
+- `[[Bauman, Zygmunt]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[When Philosophers Become Therapists]]`
+- `[[The achievement society is burning us out, we need more play]]`
+- `[[no nothing - article meditation]]`
+- `[[ECCO 2023 - Mídias Sociais e Narrativas de migrantes]]`
+- `[[lista de produções ecco 2023]]`
+- `[[ECCO 2023 - Mídias Sociais e Narrativas de migrantes]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[ecco 2023 - dissertação 2]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[lista de produções ecco 2023]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[DICOTOMIA ACADEMICA]]`
+- `[[ecco 2023 - dissertação 2]]`
+- `[[ECCO 2023 - Mídias Sociais e Narrativas de migrantes]]`
+- `[[ECCO 2023 - Tecnologia e Indústria do Conteúdo]]`
+- `[[Suerte garay]]`
+- `[[Este projeto visa explorar as trajetórias da globalização e os desafios intrínsecos a seu surgimento]]`
+- `[[meta-prompt Article to notes]]`
+- `[[MESTRADO 2024 - REFLEXÕES]]`
+- `[[ECCO 2023 - Geografia e ativismo social]]`
+- `[[ECCO 2023 - Mídias Sociais e Narrativas de migrantes]]`
+- `[[ECCO 2023 - Tecnologia e Indústria do Conteúdo]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[ecco 2023 - dissertação 2]]`
+- `[[ecco 2023 - dissertação 3]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[ECCO 2023 - Geografia e ativismo social]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[lista de produções ecco 2023]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[literatura de revisão - tecnologia e indústria do conteúdo]]`
+- `[[literatura de revisão - tecnologia e indústria do conteúdo]]`
+- `[[ECCO 2023 - Geografia e ativismo social]]`
+- `[[14 opções de pesquisa]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[literatura de revisão - tecnologia e indústria do conteúdo]]`
+- `[[Autocensura e Autorregulação na Mídia Online]]`
+- `[[O aumento da oferta de textos causado pelo advento de grandes modelos de linguagem]]`
+- `[[racismo algorítmico]]`
+- `[[ECCO 2023 - Geografia e ativismo social]]`
+- `[[refatorarando a pesquisa de 2019]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[ecco 2023 - dissertação 1]]`
+- `[[MESTRADO 2024 - caminhos]]`
+- `[[ECCO 2023 - Mídias Sociais e Narrativas de migrantes]]`
+- `[[5 livros sobre a relação entre Poder e Cultura]]`
+- `[[ECCO 2023 - Tecnologia e Indústria do Conteúdo]]`
+- `[[A revolução das máquinas de conteúdo]]`
+- `[[Content, por Kate Eichorn]]`
+- `[[mestrado]]`
+- `[[projeto de pesquisa 2024]]`
+- `[[MESTRADO 2024 - REFLEXÕES]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[mestrado]]`
+- `[[MESTRADO 2024 - caminhos]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[contemporaneo x classico]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[RESPOSTA - PROMPT INICIAL - ECCO 2023 INCURSÃO]]`
+- `[[newsletter nova - baseada neste vault]]`
+- `[[ECCO dois ponto zero]]`
+- `[[Explorando as possibilidades de pesquisa geográfica no meu Vault - Mem]]`
+- `[[Explorando o Megavault Um Podcast sobre Pesquisa Geográfica e Cultura Contemporânea]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[202207091819]]`
+- `[[202207151739]]`
+- `[[aquela vez que escrevi sobre meu avo no inumeraveis]]`
+- `[[Assisti pleasure]]`
+- `[[assitindo X]]`
+- `[[atlanta]]`
+- `[[Como mudar sua mente - netflix]]`
+- `[[como mudar sua mente ep 2]]`
+- `[[compras na primeday]]`
+- `[[interesses de pesquisa]]`
+- `[[giuseppe paterno]]`
+- `[[insight sobre minha dissertação]]`
+- `[[lendo fooquedeu]]`
+- `[[lendo nuno ramos]]`
+- `[[mestrado]]`
+- `[[quisquilae]]`
+- `[[Relatório da bolsa]]`
+- `[[reuniao colegiado 22 07]]`
+- `[[sobre as pedras nop caminho]]`
+- `[[IAW]]`
+- `[[chat gpt me ajuda a escrever]]`
+- `[[writing with AI - IA net]]`
+- `[[IA WRITER - authorship]]`
+- `[[As entrelinhas dos conteúdos produzidos pelo ChatGpt]]`
+- `[[Annotation - Remi H.]]`
+- `[[compilado anotação - remi H]]`
+- `[[Mestrado em 2024]]`
+- `[[suplemento teórico]]`
+- `[[mestrado]]`
+- `[[PESQUISA REFATORADA]]`
+- `[[UMBERTO ECO - WTWAT 2]]`
+- `[[Ciclo Renato Ortiz - 3 Modernidade e modernidade-mundo]]`
+- `[[projeto de pesquisa 2024]]`
+- `[[Este projeto visa explorar as trajetórias da globalização e os desafios intrínsecos a seu surgimento]]`
+- `[[MESTRADO 2024 - REFLEXÕES]]`
+- `[[MESTRADO 2024 - caminhos]]`
+- `[[Mestrado em 2024]]`
+- `[[ECCO 2023 - INCURSÕES]]`
+- `[[MESTRADO 2024 - REFLEXÕES]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica]]`
+- `[[episteme]]`
+
+### gpt3-20251023.md
+- `[[dissertação index]]`
+- `[[BERT]]`
+- `[[como o computador “aprende”]]`
+- `[[exemplo de uso de gpt-3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[poesia feita por gpt3]]`
+- `[[prompts midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[chatgpt]]`
+- `[[racismo algorítmico]]`
+
+### gpt3.md
+- `[[dissertação]]`
+- `[[BERT]]`
+- `[[131220222146]]`
+- `[[exemplo de uso de gpt-3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[poesia feita por gpt3]]`
+- `[[prompts midjourney]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[chatgpt]]`
+- `[[racismo algorítmico]]`
+
+### integração-ética-de-ferramentas-de-ia-na-escrita-acadêmica-para-estudantes-iniciantes.md
+- `[[ESCREVER SEM PLAGIO - perplexity simples]]`
+- `[[ESCREVER SEM PLAGIO - GEMINI DEEP RESEARCH]]`
+- `[[ESCREVER SEM PLAGIO - CHATGPT DEEP RESEARCH]]`
+
+### investigação-dos-impactos-da-inteligência-artificial-em-comunidades-minoritárias-uma-análise-cultural-crítica.md
+- `[[PROMPT - DR  uma abordagem interdisciplinar]]`
+- `[[Deep Learning - uma abordagem interdisciplinar]]`
+
+### investigação-linguística-da-inteligência-artificial-um-estudo-interdisciplinar-sobre-processamento-representação-e-impacto-da-linguagem.md
+- `[[Deep research Linguística & IA]]`
+- `[[PROMPT DEEP RESEARCH - linguística & IA - INGLES]]`
+- `[[Deep Learning - uma abordagem interdisciplinar]]`
+- `[[TP - PROMPT DEEP RESEARCH - linguística & IA]]`
+
+### itinerário-temático-ferramenta-vs-mediação-cognitiva-na-era-da-ia.md
+- `[[How to Resist the Temptation of AI When Writing- ZT]]`
+- `[[escala de uso de IA no contexto academico]]`
+- `[[Workflow Avançado_3A Doutorando em Humanidades como _22Organizador de Agentes IA_22]]`
+- `[[onde memoria acaba e generativa IA começa]]`
+- `[[filosofia-merged]]`
+- `[[a tecnologia quebrou nossos cérebros]]`
+- `[[chatgpt-ideologia-direita]]`
+- `[[onde memoria acaba e generativa IA começa]]`
+- `[[chatgpt-ideologia-direita]]`
+
+### itinerário-temático-manual-metodologia-híbrida-e-escrita-não-linear.md
+- `[[justificativa-enviada]]`
+- `[[4 Metodologia simplificada...]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/05-PROJETOS/mestrado-ufmt/mestrado/nalise minha ideia de projeto de pesquisa de mestrado]]`
+- `[[sintese-argumentos]]`
+- `[[autenticidade-escrita-academica]]`
+- `[[ESCREVER SEM PLAGIO - GEMINI DEEP RESEARCH]]`
+- `[[matriz-swot-autenticidade]]`
+- `[[como fazer notas melhores e mais espertas - introdução]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/06-ARQUIVO/conhecimento-consolidado/Interesses de Pesquisa-merged]]`
+
+### itinerário-temático-metodologia-híbrida-e-escrita-não-linear-formalizando-um-método-autoetnográfico-de-coautoria-controlada-com-ia.md
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa-merged]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/06-ARQUIVO/conhecimento-consolidado/Interesses de Pesquisa-merged]]`
+- `[[INSIGHT PENSAMENTO E MEDITAÇÃO-merged]]`
+- `[[Gerais, Interesses-merged]]`
+- `[[filosofia-merged]]`
+- `[[escala de uso de IA no contexto academico]]`
+- `[[A Importância de Criar Conteúdo Autêntico com ChatGPT]]`
+- `[[What AI Teaches Us About Good Writing - DESAFIOS ÉTICOS]]`
+- `[[How to Resist the Temptation of AI When Writing- ZT]]`
+- `[[What AI Teaches Us About Good Writing]]`
+- `[[conclusão das entrelinhas]]`
+- `[[What AI Teaches Us About Good Writing - NORMAS LITERÁRIAS E INOVAÇÕES]]`
+- `[[What AI Teaches Us About Good Writing]]`
+- `[[writing with AI - IA net]]`
+- `[[Don’t ask if artificial intelligence is good or fair, ask how it shifts power]]`
+- `[[BLOGUERAGEM-merged]]`
+- `[[CONSENSUS APP - GUIA]]`
+- `[[chat gpt me ajuda a escrever]]`
+- `[[Bom fichamento]]`
+- `[[CONSENSUS APP E PLAGIO]]`
+- `[[chat gpt avisa]]`
+- `[[Temos um índice - pergunta]]`
+- `[[Tips For Revising…
+- [[Como deveríamos estar usando IA nesse momento (zt)]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa-merged]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/06-ARQUIVO/conhecimento-consolidado/Interesses de Pesquisa-merged]]`
+- `[[INSIGHT PENSAMENTO E MEDITAÇÃO-merged]]`
+- `[[Gerais, Interesses-merged]]`
+
+### itinerário-temático-o-evento-ia-como-fenômeno-sociocultural.md
+- `[[CAPITULO_1_FUNDAMENTACAO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/06-ARQUIVO/conhecimento-consolidado/Interesses de Pesquisa-merged]]`
+- `[[estrutura-dissertacao]]`
+- `[[Deep Research Geografia & IA]]`
+- `[[Digital Anthropology and AI Ethics - Applying Geertz_s Theories to Understand Technology_s Impact on Minority Communities]]`
+- `[[2025-10-13_detectores-ia-e-crise-avaliacao]]`
+- `[[autenticidade-escrita-academica]]`
+- `[[DISSERTACAO_FINAL_CONSOLIDADA]]`
+- `[[CAPITULO_3_TECNOLOGIA_EPISTEME]]`
+
+### itinerário-temático-ética-e-epistemologia-aplicada-derivar-princípios-normativos-da-prática-híbrida-human-machine.md
+- `[[ESCREVER SEM PLAGIO - CHATGPT DEEP RESEARCH]]`
+- `[[ESCREVER SEM PLAGIO - GEMINI DEEP RESEARCH]]`
+- `[[DEEP- RESEARCH - DINHEIRO DE FORMA ÉTICA- PERPLEXITY]]`
+- `[[ESCREVER SEM PLAGIO - PROMPT]]`
+- `[[pontos sensíveis de privacidade - PI Inflection AI e chatgpt]]`
+- `[[chatgpt-ideologia-direita]]`
+- `[[A criação do conjunto de dados Books3 e a controvérsia]]`
+- `[[DEEP- RESEARCH - DINHEIRO DE FORMA ÉTICA]]`
+- `[[como é e como funciona o notebooklm]]`
+- `[[analisando meu blog, o HBQ, com Claude]]`
+- `[[PROMPT DEEP RESEARCH - 400K PAISAGEM ECONOMICA]]`
+- `[[chat gpt me ajuda a escrever]]`
+- `[[sobre economia, agentes do mercado e a boa gestão da economia]]`
+
+### justificativa-da-pesquisa.md
+- `[[REF]]`
+- `[[china e IA]]`
+- `[[problema de pesquise definido segundo Metodo de Diniz]]`
+- `[[como  escrever - a questão das fontes: Umberto Eco como romancista e seus conselhos]]`
+- `[[XML LACUNAS EPISTEMOLÓGICAS]]`
+- `[[TESTE LACUNA EPISTEMOLÓGICO]]`
+- `[[kierkegaard - projeto de pesquisa interdisciplinar com tecnologia]]`
+- `[[professor cristõvão -  orientador]]`
+- `[[aqui - justificativa]]`
+- `[[ANALISE ETICA - UMA ESTRUTURA XML]]`
+- `[[pesquisa: o que é justificativa]]`
+- `[[Orientação sob medida pra Justificativa]]`
+- `[[justificativa - deep seek -  programa ECCO e os três arquétipos de orientadores]]`
+- `[[o1 fala sobre opções de justificativa]]`
+- `[[JUSTIFICATIVAS - PRELIMINARES]]`
+- `[[JUSTIFICATIVA ENVIADA]]`
+- `[[resposta do professor]]`
+- `[[orientadores de filosofia no ECCO]]`
+- `[[possíveis adaptações do projeto]]`
+- `[[resposta ao professor]]`
+- `[[professor cristõvão -  orientador]]`
+- `[[observações iniciais]]`
+- `[[AUTHENTICITY - VERSAO classic]]`
+- `[[AUTHENTICITY - VERSAO POSTMODERN]]`
+- `[[resumo autenticidade e autoria]]`
+- `[[matriz swot autenticidade]]`
+- `[[MÉTODOS DE VERIFICAÇÃO - ESCRITA AUTÊNTICA]]`
+- `[[escrevendo em LaTeX & GIT]]`
+- `[[vai sair: perfomance de dissertaçao]]`
+- `[[ROTEIRO-LIVE-ESCRITA]]`
+- `[[DEEP-RESEARCH]]`
+- `[[Workflow Avançado: Doutorando em Humanidades como "Organizador de Agentes IA"]]`
+- `[[multi agente de IA para pesquisa científica]]`
+- `[[You are a research assistant tasked with analyzing a scientific article]]`
+- `[[KIERKEGAARD & A AUTENTICIDADE]]`
+- `[[KIERKEGAARD, TECNOLOGIA E AUTENTICIDADE]]`
+- `[[kierkegaard e a autenticidade (iteração 1)]]`
+- `[[KIERKEGAARD & A AUTENTICIDADE ITERAÇÃO 2]]`
+- `[[analisando o melhor modo de usar o openrouter]]`
+- `[[Kierkegaard e Autenticidade na Era da Inteligência Artificial - CLAUDE UPDATE]]`
+- `[[escrita & ia]]`
+- `[[DEEP RESEARCH Comprehensive Analysis of AI Text Detection]]`
+- `[[pistas que um texto foi escrito por IA]]`
+- `[[CATEGORIZAÇÃO DAS PISTAS DE IA NOS TEXTOS]]`
+- `[[prompts para melhorar pesquisa]]`
+- `[[problema de pesquise definido segundo Metodo de Diniz]]`
+- `[[xml tag engenharia reversa de metodologia]]`
+- `[[Ética no uso de IA]]`
+- `[[GERADORES DE IMAGEM NÃO SÃO ARTISTAS]]`
+- `[[uso de xml - avaliado por três modelos de reasoning]]`
+- `[[XML TAG CONSELHEIRO SABIO]]`
+- `[[pergunta de pesquisa - kierkegaard]]`
+
+### justificativas-preliminares.md
+- `[[JUSTIFICATIVA PRELIMINAR CHATGPT]]`
+- `[[JUSTIFICATIVA PRELIMINAR CLAUDE]]`
+- `[[JUSTIFICATIVA PRELIMINAR DEEPSEEK]]`
+- `[[Respostas essenciais para delinear sua justificativa de pesquisa]]`
+- `[[mais 7 perguntas sobre o projeto e a justificativa]]`
+
+### log-do-processo-criação-da-dissertação.md
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[Alan wake 2 e a literatura ergódica]]`
+- `[[ChatGPT created this guide to Prompt Engineering]]`
+- `[[ChatGPT created this guide to Prompt Engineering]]`
+- `[[dissertação index]]`
+
+### mapa-autores-e-conceitos-dissertação-iaacademiaautenticidade.md
+- `[[dissertação index]]`
+- `[[chatgpt]]`
+- `[[filosofia da tecnologia]]`
+- `[[BERT]]`
+- `[[racismo algorítmico]]`
+- `[[Como Escrever Bem]]`
+- `[[William Zinsser]]`
+- `[[Como se faz uma tese]]`
+- `[[mestrado]]`
+- `[[📕 DISSERTAÇÃO]]`
+- `[[ECCO 2023]]`
+- `[[deep research]]`
+- `[[interdisciplinaridade]]`
+- `[[prompt]]`
+- `[[xml]]`
+- `[[zettelkasten]]`
+- `[[meta]]`
+- `[[Santos, Milton]]`
+- `[[episteme]]`
+- `[[Foucault, Michel]]`
+- `[[interessesdepesquisa]]`
+- `[[hipercultura]]`
+
+### mapa-conceitual-integrado.md
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[Ciberespaço]]`
+- `[[Levy, Pierre]]`
+- `[[Ergodic Literature]]`
+- `[[o meio é a mensagem]]`
+- `[[chatgpt]]`
+- `[[dissertação index]]`
+- `[[interesses de pesquisa]]`
+- `[[filosofia da tecnologia]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[LENDO MONTAIGNE]]`
+- `[[Como Escrever Bem]]`
+- `[[zettelkasten]]`
+- `[[hipercultura]]`
+- `[[PROJETO PASTORINO COM UM GRÃO DE SAL]]`
+- `[[its the content killing the culture]]`
+- `[[terapia psicodélica]]`
+
+### mestrado-projeto.md
+- `[[Pasted image 20250204232248.png]]`
+- `[[artigo 1 Authenticating AI-Generated Content]]`
+- `[[artigo 2 Analyzing Social Media Posts]]`
+- `[[3 Ajuda a estruturar um plano de ação para sua pesquisa no ECCO]]`
+- `[[4 Metodologia simplificada...]]`
+- `[[Aprofundando questoes de pesquisa]]`
+- `[[um guia equilibrado e pragmático sobre o uso de IA]]`
+- `[[compilação - pejorativo]]`
+
+### pesquisa-acadêmica-integração-ética-de-ferramentas-de-ia-na-escrita-acadêmica-para-estudantes-iniciantes.md
+- `[[ESCREVER SEM PLAGIO - perplexity simples]]`
+- `[[ESCREVER SEM PLAGIO - GEMINI DEEP RESEARCH]]`
+- `[[ESCREVER SEM PLAGIO - CHATGPT DEEP RESEARCH]]`
+- `[[ESCREVER SEM PLAGIO - claude pensa]]`
+
+### prompt-ligeriramente-diferente-usando-strawberry-model.md
+- `[[argumento analisado por IA]]`
+
+### promptgpt.md
+- `[[Explorando as possibilidades de pesquisa geográfica no meu Vault - Mem]]`
+- `[[How to Resist the Temptation of AI When Writing- ZT]]`
+- `[[Limitações dos aplicativos de anotações]]`
+- `[[onde memoria acaba e generativa IA começa]]`
+- `[[Por que precisamos reaprender a perguntar]]`
+- `[[quando o cara ta doido no intertexto]]`
+- `[[The Impact of the Internet on Productivity Exploring Its Benefits and Drawbacks]]`
+- `[[Abstracts written by ChatGPT fool scientists]]`
+- `[[advérbios como ameaças ao edifício verbal]]`
+- `[[ALARMADOS PELO GPT3, UNIVERSIDADES COMEÇAM E REVISAR SUA FORMA DE ENSINAR - artigo]]`
+- `[[chat gpt me ajuda a escrever]]`
+- `[[ChatGPT está a chegar para as salas de aula. Não entre em pânico]]`
+- `[[clouds doc]]`
+- `[[Como fazer melhores resumos (e depender menos do gpt)]]`
+- `[[COMO LER MAIS LIVROS - VIA NEXO]]`
+- `[[como melhor usar o chatgpt para pesquisa]]`
+- `[[como perceber um texto gerado por IA segundo... uma IA]]`
+- `[[como se tornar mais estoico - um guia]]`
+- `[[como trabalhar como um monge medieval]]`
+- `[[computers make art, artists make money]]`
+- `[[dazai e o pósmodernismo]]`
+- `[[dissertação index]]`
+- `[[Don’t ask if artificial intelligence is good or fair, ask how it shifts power]]`
+- `[[Doze dicas para terminar TCC, dissertação de mestrado e tese de doutorado]]`
+- `[[Entendendo o autocontrole equilibrado com as tendências humanas]]`
+- `[[Esforçando-se pelo autocontrole]]`
+- `[[Examinando a interseção de etnia, autocontrole e saúde]]`
+- `[[exemplo de uso de gpt-3]]`
+- `[[Ferramentas como o ChatGPT ameaçam a ciência transparente - aqui estão as nossas regras básicas para a sua utilização]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[Guia de como usar o GPT-3 e o ChatGPT para resumir artigos e reescrever notas]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte 2]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte um]]`
+- `[[Implicações socioemocionais do autocontrole excessivo]]`
+- `[[luke, Im not your father]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[NATURE ISSUES FOR DEBATE - CHATGPT]]`
+- `[[no surf para personalidade da INTP-T]]`
+- `[[NOTAS IMPORTANTES AO VER UM DOC]]`
+- `[[o homem competente (versão atualizada)]]`
+- `[[o meio é a mensagem]]`
+- `[[OpenAI API sobre usaro chat gpt como educador]]`
+- `[[Pai, sua bênção, pois quero aprender programação]]`
+- `[[pesquisa com mais de 40 mil pessoas apontam que games não fazem mal]]`
+- `[[pontos-chave que eu deveria saber ao estudar a Indústria Cultural]]`
+- `[[prompt zettelkasten]]`
+- `[[quais problemas seu projeto pode resolver]]`
+- `[[Que outros usos para a pesquisa acadêmica nas ciências humanas eu posso usar o chatgpt3]]`
+- `[[radical AI network]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/READY-NOTES]]`
+- `[[Recado aos mestrandos]]`
+- `[[renascença tecnológica (pergunta)]]`
+- `[[Resumo - Homem de 38 anos com 15 anos de educação superior buscando uma mudança de carreira]]`
+- `[[resumo por um filósofo da renascença segundo gpt3]]`
+- `[[seria Foucault um filósofo da tecnologia]]`
+- `[[Somos todos bardos na era da IA]]`
+- `[[The battle for ethical AI at the worlds biggest machine-learning conference]]`
+- `[[um verdadeiro renascimento conjunto da ciência e das artes]]`
+- `[[Unheimlich Everywhere]]`
+- `[[usar o gpt é low effort (pergunta)]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[zetteltipity]]`
+- `[[5 pontos-chave planejar escrever uma tese]]`
+- `[[Explorando o Megavault Um Podcast sobre Pesquisa Geográfica e Cultura Contemporânea]]`
+- `[[Introdução ao GPT personalizado]]`
+- `[[MEMAI - assuntos relacionados]]`
+- `[[Newsletter Megavault Exploring Research for Geography and Podcast Possibilities]]`
+- `[[newsletter nova - baseada neste vault]]`
+- `[[Se este Vault fosse um canal de youtube]]`
+- `[[Théâtre D’opéra Spatial]]`
+- `[[Are there any legitimate ways one can actually make decent money with ChatGPT]]`
+- `[[IA WRITER - authorship]]`
+- `[[Erowid]]`
+- `[[031220221028]]`
+- `[[A autenticidade é um conceito bastante abstrato]]`
+- `[[A Importância de Criar Conteúdo Autêntico com ChatGPT]]`
+- `[[bereal e a busca inalcançável pela autenticidade]]`
+- `[[esboço para o pitch]]`
+- `[[formas sóbrias de exercitar sua criatividade]]`
+- `[[portfolio]]`
+- `[[suposto chefe]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[diagnosticar não é “predizer”, mas estar atento ao desconhecido que bate à porta]]`
+- `[[Mestrado em 2024]]`
+- `[[projeto de pesquisa 2024]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[Autoficção]]`
+- `[[Ergodic Literature]]`
+- `[[padroes de hipertexto e criação lit]]`
+- `[[Sobre a autoficção]]`
+- `[[061020221329]]`
+- `[[091020221807]]`
+- `[[210920221522]]`
+- `[[A conexão entre aceleração de partículas e práticas indígenas]]`
+- `[[a técnica do feynman]]`
+- `[[ceticismo]]`
+- `[[Como ser um ateísta ético (conversa com o chatgpt)]]`
+- `[[encontre Jack, o individualista]]`
+- `[[Jevons paradox]]`
+- `[[pedi o chat gpt que recomendasse pentiment para um amigo de férias]]`
+- `[[plenitude]]`
+- `[[Qual é mais difícil de ler]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/filosofia/Relacione cibernética com autenticidade]]`
+- `[[teoria da informação de Claude Shannon]]`
+- `[[teoria do ator-rede]]`
+- `[[The microphones em 2020 explicado]]`
+- `[[traço]]`
+- `[[011120220402]]`
+- `[[081220221047]]`
+- `[[5 pontos-chave que eu deveria saber ao estudar sobre como a programação da aprendizagem influencia as habilidades criativas e literárias]]`
+- `[[bora empreender]]`
+- `[[Como criar um esboço para uma revisão do videogame na Steam]]`
+- `[[como o computador “aprende”]]`
+- `[[deleted_user]]`
+- `[[Dicas de revisão para produzir uma escrita que encante o leitor]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Gavin Wood pede ceticismo]]`
+- `[[Improving the Text Challenges and Suggestions]]`
+- `[[INFP-T (T é para Turbulento)]]`
+- `[[markdown]]`
+- `[[micro horror story generator]]`
+- `[[muito velho para games]]`
+- `[[Não temais a IA capaz de imitar arte]]`
+- `[[pentiment]]`
+- `[[peso neural]]`
+- `[[recoding power]]`
+- `[[Resumo YT Pesadelo Existencial do Fortnite]]`
+- `[[solucionadores de problemas]]`
+- `[[um ensaio sobre Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica - EXPERIMENTO COM CHATGPT]]`
+- `[[Vício em ChatGpt]]`
+- `[[zettelkasten e serendipidade]]`
+- `[[061020221357]]`
+- `[[5 estratégias para potencializar a empatia através da investigação acadêmica]]`
+- `[[6 palpites de coisas que o mundo precisa e ninguém está a fazer nas humanidades]]`
+- `[[8 estratégias para encontrar o problema com o qual trabalhar numa tese]]`
+- `[[8 questions for my interview with a postmodern philosopher]]`
+- `[[blog]]`
+- `[[Contrageografia]]`
+- `[[descobrindo o que seu projeto pode ser]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Develop the story of the paper]]`
+- `[[dicas para explorar conteúdos nas plataformas]]`
+- `[[o poema cogumelos explicado]]`
+- `[[o que o projeto deve potencializar em mim]]`
+- `[[quais problemas seu projeto pode resolver]]`
+- `[[Síndrome do Impostor]]`
+- `[[101020221256]]`
+- `[[101020221319]]`
+- `[[121020221412]]`
+- `[[121020222215]]`
+- `[[121020222237]]`
+- `[[121020222239]]`
+- `[[210920221546]]`
+- `[[8 perguntas para minha entrevista com um autor de obituário]]`
+- `[[A ascensão da indústria de conteúdo]]`
+- `[[A HISTÓRIA DO HIPERTEXTO - 121020222345]]`
+- `[[A IA em 2023 - e o que esperar em 2024]]`
+- `[[A revolução das máquinas de conteúdo]]`
+- `[[AI Shouldn’t Compete With Workers]]`
+- `[[AI still hasn’t passed the “imitation game”]]`
+- `[[alienação]]`
+- `[[Analogias sobre a contradição capitalisma na indústria do conteúdo]]`
+- `[[armadilha do progresso]]`
+- `[[artigo sobre IA e Polanyi]]`
+- `[[As entrelinhas dos conteúdos produzidos pelo ChatGpt]]`
+- `[[Atlantic argumentou que o ChatGPT é divertido e não persuasivo]]`
+- `[[BERT]]`
+- `[[cap 1]]`
+- `[[chat gpt ajudou a complementar esse texto]]`
+- `[[chat gpt na vice]]`
+- `[[chat gpt pode substituir o google e as redes sociais]]`
+- `[[chatgpt roubou seu trabalho - e agora oque farás (pergunta)]]`
+- `[[chatgpt ta cheio de investidor babando]]`
+- `[[chatgpt]]`
+- `[[Ciberespaço]]`
+- `[[Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a]]`
+- `[[Clean perversion in consumer culture]]`
+- `[[Como o paradoxo de polanyi tem sido superado]]`
+- `[[Como perceber uma arte gerada por IA, segundo artistas]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[Construa um argumento que relacione cibercultura e globalização, tecnologia e literatura]]`
+- `[[DASEIN]]`
+- `[[distopia feudal digital]]`
+- `[[eight by seven]]`
+- `[[Empatia na era da IA]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[Episteme em Foucault]]`
+- `[[Escreva um ensaio sobre hipercultura e globalização, impactos na produção literária]]`
+- `[[experiências hipertextuais]]`
+- `[[Filosofo Renascentista]]`
+- `[[Foucault e a globalização]]`
+- `[[GPT COMO MICROFONE]]`
+- `[[Hipertexto]]`
+- `[[homogeneização]]`
+- `[[humanidades digitais]]`
+- `[[IA está assumindo enigmas cada vez maiores]]`
+- `[[ideias para corrigir o que há de erra com a internet]]`
+- `[[imagens não podem dizer não]]`
+- `[[Images cannot say Ain’ t]]`
+- `[[Is AI art really art]]`
+- `[[Kate Eichhorn on the Rise of Insta-Artists and InstaPoets]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/MAGRITTE PROMPT]]`
+- `[[manipulação]]`
+- `[[midjourney]]`
+- `[[mudar o enfoque do desenvolvimento de IA]]`
+- `[[Máquinas Conscientes Podem Nunca Ser Possíveis]]`
+- `[[nos divertindo até a morte]]`
+- `[[O aumento da oferta de textos causado pelo advento de grandes modelos de linguagem]]`
+- `[[o consumo de massa]]`
+- `[[o que a IA significa para a criatividade humana]]`
+- `[[o que podemos aprender sobre resistência com os programadores]]`
+- `[[O QUE É LITERATURA ERGÓDICA, VIA gpt3]]`
+- `[[os 5 pontos-chave que eu deveria saber ao estudar Como a produção literária moderna ocorre nos meios eletrônicos e quais são suas implicações]]`
+- `[[Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica]]`
+- `[[paradoxo da contemporaneidade]]`
+- `[[paradoxo de polanyi]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte]]`
+- `[[Relacionar a hipercultura com a globalização]]`
+- `[[Relacione o paradoxo de Jevons com o uso de chatgpt e o aumento de trabalho intelectual]]`
+- `[[Renascença]]`
+- `[[reprodução da desigualdade]]`
+- `[[respostas da entrevista com o filosofo renascentista]]`
+- `[[respostas da IA para perguntas existenciais]]`
+- `[[resumo artigo ted chiang sobre ChatGpt]]`
+- `[[rizoma de Deleuze]]`
+- `[[Robôs com um toque humano (pergunta) Sim, por favor]]`
+- `[[tecnocéticos]]`
+- `[[Ted Chiang escreve sobre o ChatGpt]]`
+- `[[tensão  entre capitalismo e autenticidade na indústria cultural]]`
+- `[[The banality of ChatGPT]]`
+- `[[Tim Berners-Lee Explains the Semantic Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[w3]]`
+- `[[Web 3.0, Semantic Web, Potayto, Potahto]]`
+- `[[web 3.0]]`
+- `[[Web Semântica]]`
+- `[[Why GPT lie]]`
+- `[[World Wide Web]]`
+- `[[231020221719]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD]]`
+- `[[Comparação de ChatGPT, Bing Chat e Bard - wired zt]]`
+- `[[custom prompt acadêmico]]`
+- `[[custom-prompt]]`
+- `[[how would you like chatgpt to respond - HWYLTA]]`
+- `[[meta-prompt Article to notes]]`
+- `[[meta]]`
+- `[[prompt - louco, genio ou criança]]`
+- `[[prompt resumo não alienado]]`
+- `[[sobre a criatividade]]`
+- `[[zettel-this custom prompt]]`
+- `[[zinsser-ia - prompt]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[O meio é a mensagem notas do podcast boa noite internet]]`
+- `[[131020221204]]`
+- `[[5 depoimentos sobre amanita muscaria no erowid]]`
+- `[[amanita muscaria - padrões]]`
+- `[[amanita muscaria]]`
+- `[[como fazer chá de amanita muscária]]`
+- `[[Definição de microdose]]`
+- `[[MICÉLIO]]`
+- `[[petris hallucinating in the mind]]`
+- `[[sobre a terapia psicodélica]]`
+- `[[um amigo precisa de ajuda]]`
+- `[[Joyce, Jaime]]`
+- `[[Proust, Marcel]]`
+- `[[011220221620]]`
+- `[[081020220303]]`
+- `[[081020220305]]`
+- `[[091020221817]]`
+- `[[5 coisas sobre romantismo alemão]]`
+- `[[5 pontos chave para tornar lúdico a escrita de uma tese]]`
+- `[[5 pontos sobre Economia da Atenção]]`
+- `[[7 pontos-chave que eu deveria saber ao estudar a globalização]]`
+- `[[A criação do conjunto de dados Books3 e a controvérsia]]`
+- `[[A IA generativa ainda não revolucionará o desenvolvimento do jogo]]`
+- `[[Amanita muscaria - preparação e microdosagem]]`
+- `[[argumento do quarto chinês]]`
+- `[[ARTIGO NYT RELACIONANDO CHATGPT E ATAQUES À DEMOCRACIA]]`
+- `[[Bartleby e Zizek]]`
+- `[[BARTLEBY PELO GPT4]]`
+- `[[Bergson, Henry]]`
+- `[[Bordieu, Pierre]]`
+- `[[ChatGPT Não é a única forma de usar a IA na Educação]]`
+- `[[como fazer chá de amanita muscária -  atualizado]]`
+- `[[como fazer um tanque de privação sensorial em casa]]`
+- `[[Como o ChatGPT funciona]]`
+- `[[conclusão das entrelinhas]]`
+- `[[CONSENSUS APP - GUIA]]`
+- `[[CONSENSUS APP E PLAGIO]]`
+- `[[DEFESA EM 12 PASSOS]]`
+- `[[Deleuze]]`
+- `[[Derrida]]`
+- `[[desconstrução]]`
+- `[[différance]]`
+- `[[Eco, Umberto]]`
+- `[[entrevista com Four Tet]]`
+- `[[episteme]]`
+- `[[Ernaux, Annie]]`
+- `[[escala de uso de IA no contexto academico]]`
+- `[[existencialismo, notas de estudo]]`
+- `[[Finalmente a IA é boa nas coisas - vox]]`
+- `[[Georg Wilhelm Friedrich Hegel]]`
+- `[[George Landow]]`
+- `[[GPT3-kazuo-ishiguro]]`
+- `[[HAMILTONS TAKE]]`
+- `[[Han, Byung-Chul]]`
+- `[[Harari, Yuval Noah]]`
+- `[[hibridismo]]`
+- `[[How to Resist the Temptation of AI When Writing]]`
+- `[[improved prompt to learn a book]]`
+- `[[Jordan B. Peterson]]`
+- `[[LEITURA DE LIVROS DE FICÇÃO]]`
+- `[[Levy, Pierre]]`
+- `[[Linguagem e capitalismo]]`
+- `[[manual básico de uso do GPT-3]]`
+- `[[Melhores prompts]]`
+- `[[non fiction novel]]`
+- `[[nota relacionada2601 1]]`
+- `[[nota relacionada2601 2]]`
+- `[[nota relacionada2601 3]]`
+- `[[notas sobre RAN]]`
+- `[[O brilhantismo e a esquisitice do ChatGPT]]`
+- `[[o náufrago]]`
+- `[[o truque mais charmoso da IA é também sua maior freaqueza]]`
+- `[[Olavo Amaral sobre regulação da IA]]`
+- `[[Os Anéis de Saturno]]`
+- `[[Para ser um pouco mais estóico e ateísta - manual]]`
+- `[[pedi pro chatgpt analisar algumas manchetes no reddit r world (em inglês)]]`
+- `[[prompt alt-text]]`
+- `[[prompt personalizado - chatgpt]]`
+- `[[Pynchon, Thomas]]`
+- `[[Reação ao Prosecraft e a Grande Reação Contra a IA]]`
+- `[[Regulando a inteligência artificial]]`
+- `[[Resuma RBU em cento e quarenta caracteres]]`
+- `[[Savoir (conceito)]]`
+- `[[Schwanitz, Dietrich]]`
+- `[[SEARLE, JOHN]]`
+- `[[Sebald, W. G.]]`
+- `[[Stefano Mancuso]]`
+- `[[the difference between Best of minimum and higher]]`
+- `[[Tzvetan Todorov]]`
+- `[[Using AI to get a job]]`
+- `[[Vilém Flusser]]`
+- `[[What AI Teaches Us About Good Writing - DESAFIOS ÉTICOS]]`
+- `[[What AI Teaches Us About Good Writing - NORMAS LITERÁRIAS E INOVAÇÕES]]`
+- `[[What AI Teaches Us About Good Writing]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/05-PROJETOS/mestrado-ufmt/ECCO-merged]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/05-PROJETOS/mestrado-ufmt/ECCO-merged]]`
+- `[[Are there any legitimate ways one can actually make decent money with ChatGPT]]`
+- `[[IA WRITER - authorship]]`
+- `[[Erowid]]`
+- `[[031220221028]]`
+- `[[A autenticidade é um conceito bastante abstrato]]`
+- `[[A Importância de Criar Conteúdo Autêntico com ChatGPT]]`
+- `[[bereal e a busca inalcançável pela autenticidade]]`
+- `[[esboço para o pitch]]`
+- `[[formas sóbrias de exercitar sua criatividade]]`
+- `[[portfolio]]`
+- `[[suposto chefe]]`
+- `[[análise das listas fornecidas de dissertações e teses produzidas pelo seu programa de pós-graduação de 2019 a 2023]]`
+- `[[diagnosticar não é “predizer”, mas estar atento ao desconhecido que bate à porta]]`
+- `[[Mestrado em 2024]]`
+- `[[projeto de pesquisa 2024]]`
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[Autoficção]]`
+- `[[Ergodic Literature]]`
+- `[[padroes de hipertexto e criação lit]]`
+- `[[Sobre a autoficção]]`
+- `[[061020221329]]`
+- `[[091020221807]]`
+- `[[210920221522]]`
+- `[[A conexão entre aceleração de partículas e práticas indígenas]]`
+- `[[a técnica do feynman]]`
+- `[[ceticismo]]`
+- `[[Como ser um ateísta ético (conversa com o chatgpt)]]`
+- `[[encontre Jack, o individualista]]`
+- `[[Jevons paradox]]`
+- `[[pedi o chat gpt que recomendasse pentiment para um amigo de férias]]`
+- `[[plenitude]]`
+- `[[Qual é mais difícil de ler]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/filosofia/Relacione cibernética com autenticidade]]`
+- `[[teoria da informação de Claude Shannon]]`
+- `[[teoria do ator-rede]]`
+- `[[The microphones em 2020 explicado]]`
+- `[[traço]]`
+- `[[011120220402]]`
+- `[[081220221047]]`
+- `[[5 pontos-chave que eu deveria saber ao estudar sobre como a programação da aprendizagem influencia as habilidades criativas e literárias]]`
+- `[[bora empreender]]`
+- `[[Como criar um esboço para uma revisão do videogame na Steam]]`
+- `[[como o computador “aprende”]]`
+- `[[deleted_user]]`
+- `[[Dicas de revisão para produzir uma escrita que encante o leitor]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Gerais, Interesses/Gavin Wood pede ceticismo]]`
+- `[[Improving the Text Challenges and Suggestions]]`
+- `[[INFP-T (T é para Turbulento)]]`
+- `[[markdown]]`
+- `[[micro horror story generator]]`
+- `[[muito velho para games]]`
+- `[[Não temais a IA capaz de imitar arte]]`
+- `[[pentiment]]`
+- `[[peso neural]]`
+- `[[recoding power]]`
+- `[[Resumo YT Pesadelo Existencial do Fortnite]]`
+- `[[solucionadores de problemas]]`
+- `[[um ensaio sobre Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica - EXPERIMENTO COM CHATGPT]]`
+- `[[um ensaio sobre Michel foucault, episteme e a mídia eletrônica]]`
+- `[[Vício em ChatGpt]]`
+- `[[zettelkasten e serendipidade]]`
+- `[[061020221357]]`
+- `[[5 estratégias para potencializar a empatia através da investigação acadêmica]]`
+- `[[6 palpites de coisas que o mundo precisa e ninguém está a fazer nas humanidades]]`
+- `[[8 estratégias para encontrar o problema com o qual trabalhar numa tese]]`
+- `[[8 questions for my interview with a postmodern philosopher]]`
+- `[[blog]]`
+- `[[Contrageografia]]`
+- `[[descobrindo o que seu projeto pode ser]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/INSIGHT PENSAMENTO E MEDITAÇÃO/Develop the story of the paper]]`
+- `[[dicas para explorar conteúdos nas plataformas]]`
+- `[[o poema cogumelos explicado]]`
+- `[[o que o projeto deve potencializar em mim]]`
+- `[[quais problemas seu projeto pode resolver]]`
+- `[[Síndrome do Impostor]]`
+- `[[101020221256]]`
+- `[[101020221319]]`
+- `[[121020221412]]`
+- `[[121020222215]]`
+- `[[121020222237]]`
+- `[[121020222239]]`
+- `[[210920221546]]`
+- `[[8 perguntas para minha entrevista com um autor de obituário]]`
+- `[[A ascensão da indústria de conteúdo]]`
+- `[[A HISTÓRIA DO HIPERTEXTO - 121020222345]]`
+- `[[A IA em 2023 - e o que esperar em 2024]]`
+- `[[A revolução das máquinas de conteúdo]]`
+- `[[AI Shouldn’t Compete With Workers]]`
+- `[[AI still hasn’t passed the “imitation game”]]`
+- `[[alienação]]`
+- `[[Analogias sobre a contradição capitalisma na indústria do conteúdo]]`
+- `[[armadilha do progresso]]`
+- `[[artigo sobre IA e Polanyi]]`
+- `[[As entrelinhas dos conteúdos produzidos pelo ChatGpt]]`
+- `[[Atlantic argumentou que o ChatGPT é divertido e não persuasivo]]`
+- `[[BERT]]`
+- `[[cap 1]]`
+- `[[chat gpt ajudou a complementar esse texto]]`
+- `[[chat gpt na vice]]`
+- `[[chat gpt pode substituir o google e as redes sociais]]`
+- `[[chatgpt roubou seu trabalho - e agora oque farás (pergunta)]]`
+- `[[chatgpt ta cheio de investidor babando]]`
+- `[[chatgpt]]`
+- `[[Ciberespaço]]`
+- `[[Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a]]`
+- `[[Clean perversion in consumer culture]]`
+- `[[Como o paradoxo de polanyi tem sido superado]]`
+- `[[Como perceber uma arte gerada por IA, segundo artistas]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[Construa um argumento que relacione cibercultura e globalização, tecnologia e literatura]]`
+- `[[DASEIN]]`
+- `[[distopia feudal digital]]`
+- `[[eight by seven]]`
+- `[[Empatia na era da IA]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/engenharia reversa do midjourney]]`
+- `[[entrevista inumeráveis para dissertação]]`
+- `[[Episteme em Foucault]]`
+- `[[Escreva um ensaio sobre hipercultura e globalização, impactos na produção literária]]`
+- `[[experiências hipertextuais]]`
+- `[[Filosofo Renascentista]]`
+- `[[Foucault e a globalização]]`
+- `[[GPT COMO MICROFONE]]`
+- `[[Hipertexto]]`
+- `[[homogeneização]]`
+- `[[humanidades digitais]]`
+- `[[IA está assumindo enigmas cada vez maiores]]`
+- `[[ideias para corrigir o que há de erra com a internet]]`
+- `[[imagens não podem dizer não]]`
+- `[[Images cannot say Ain’ t]]`
+- `[[Is AI art really art]]`
+- `[[Kate Eichhorn on the Rise of Insta-Artists and InstaPoets]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/MAGRITTE PROMPT]]`
+- `[[manipulação]]`
+- `[[midjourney]]`
+- `[[mudar o enfoque do desenvolvimento de IA]]`
+- `[[Máquinas Conscientes Podem Nunca Ser Possíveis]]`
+- `[[nos divertindo até a morte]]`
+- `[[O aumento da oferta de textos causado pelo advento de grandes modelos de linguagem]]`
+- `[[o consumo de massa]]`
+- `[[o que a IA significa para a criatividade humana]]`
+- `[[o que podemos aprender sobre resistência com os programadores]]`
+- `[[O QUE É LITERATURA ERGÓDICA, VIA gpt3]]`
+- `[[os 5 pontos-chave que eu deveria saber ao estudar Como a produção literária moderna ocorre nos meios eletrônicos e quais são suas implicações]]`
+- `[[Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica]]`
+- `[[paradoxo da contemporaneidade]]`
+- `[[paradoxo de polanyi]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/pode inteligencia virtual fazer arte]]`
+- `[[Relacionar a hipercultura com a globalização]]`
+- `[[Relacione o paradoxo de Jevons com o uso de chatgpt e o aumento de trabalho intelectual]]`
+- `[[Renascença]]`
+- `[[reprodução da desigualdade]]`
+- `[[respostas da entrevista com o filosofo renascentista]]`
+- `[[respostas da IA para perguntas existenciais]]`
+- `[[resumo artigo ted chiang sobre ChatGpt]]`
+- `[[rizoma de Deleuze]]`
+- `[[Robôs com um toque humano (pergunta) Sim, por favor]]`
+- `[[tecnocéticos]]`
+- `[[Ted Chiang escreve sobre o ChatGpt]]`
+- `[[tensão  entre capitalismo e autenticidade na indústria cultural]]`
+- `[[The banality of ChatGPT]]`
+- `[[Tim Berners-Lee Explains the Semantic Web]]`
+- `[[Tim Berners-Lee]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/Interesses de Pesquisa/Turing Trap]]`
+- `[[w3]]`
+- `[[Web 3.0, Semantic Web, Potayto, Potahto]]`
+- `[[web 3.0]]`
+- `[[Web Semântica]]`
+- `[[Why GPT lie]]`
+- `[[World Wide Web]]`
+- `[[231020221719]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/1 NOTAS LITERAIS/meta notas/CEUPCD]]`
+- `[[Comparação de ChatGPT, Bing Chat e Bard - wired zt]]`
+- `[[custom prompt acadêmico]]`
+- `[[custom-prompt]]`
+- `[[how would you like chatgpt to respond - HWYLTA]]`
+- `[[meta-prompt Article to notes]]`
+- `[[meta]]`
+- `[[prompt - louco, genio ou criança]]`
+- `[[prompt resumo não alienado]]`
+- `[[sobre a criatividade]]`
+- `[[zettel-this custom prompt]]`
+- `[[zinsser-ia - prompt]]`
+- `[[its the content killing the culture - wisecrack edition]]`
+- `[[O meio é a mensagem notas do podcast boa noite internet]]`
+- `[[131020221204]]`
+- `[[5 depoimentos sobre amanita muscaria no erowid]]`
+- `[[amanita muscaria - padrões]]`
+- `[[amanita muscaria]]`
+- `[[como fazer chá de amanita muscária]]`
+- `[[Definição de microdose]]`
+- `[[MICÉLIO]]`
+- `[[petris hallucinating in the mind]]`
+- `[[sobre a terapia psicodélica]]`
+- `[[um amigo precisa de ajuda]]`
+- `[[Joyce, Jaime]]`
+- `[[Proust, Marcel]]`
+- `[[5 pontos-chave planejar escrever uma tese]]`
+- `[[Abstracts written by ChatGPT fool scientists]]`
+- `[[advérbios como ameaças ao edifício verbal]]`
+- `[[ALARMADOS PELO GPT3, UNIVERSIDADES COMEÇAM E REVISAR SUA FORMA DE ENSINAR - artigo]]`
+- `[[chat gpt me ajuda a escrever]]`
+- `[[ChatGPT está a chegar para as salas de aula. Não entre em pânico]]`
+- `[[clouds doc]]`
+- `[[Como fazer melhores resumos (e depender menos do gpt)]]`
+- `[[COMO LER MAIS LIVROS - VIA NEXO]]`
+- `[[como melhor usar o chatgpt para pesquisa]]`
+- `[[como perceber um texto gerado por IA segundo... uma IA]]`
+- `[[como se tornar mais estoico - um guia]]`
+- `[[como trabalhar como um monge medieval]]`
+- `[[computers make art, artists make money]]`
+- `[[dazai e o pósmodernismo]]`
+- `[[dissertação index]]`
+- `[[Don’t ask if artificial intelligence is good or fair, ask how it shifts power]]`
+- `[[Doze dicas para terminar TCC, dissertação de mestrado e tese de doutorado]]`
+- `[[Entendendo o autocontrole equilibrado com as tendências humanas]]`
+- `[[Esforçando-se pelo autocontrole]]`
+- `[[Examinando a interseção de etnia, autocontrole e saúde]]`
+- `[[exemplo de uso de gpt-3]]`
+- `[[Explorando as possibilidades de pesquisa geográfica no meu Vault - Mem]]`
+- `[[Ferramentas como o ChatGPT ameaçam a ciência transparente - aqui estão as nossas regras básicas para a sua utilização]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/gpt3]]`
+- `[[gpt3 por ele mesmo]]`
+- `[[Guia de como usar o GPT-3 e o ChatGPT para resumir artigos e reescrever notas]]`
+- `[[How to Resist the Temptation of AI When Writing- ZT]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte 2]]`
+- `[[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte um]]`
+- `[[Implicações socioemocionais do autocontrole excessivo]]`
+- `[[Limitações dos aplicativos de anotações]]`
+- `[[luke, Im not your father]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/0 - VAULT/2 NOTAS PERMANENTES/PERMANENTES/MdCC]]`
+- `[[NATURE ISSUES FOR DEBATE - CHATGPT]]`
+- `[[no surf para personalidade da INTP-T]]`
+- `[[NOTAS IMPORTANTES AO VER UM DOC]]`
+- `[[o homem competente (versão atualizada)]]`
+- `[[o meio é a mensagem]]`
+- `[[onde memoria acaba e generativa IA começa]]`
+- `[[OpenAI API sobre usaro chat gpt como educador]]`
+- `[[Pai, sua bênção, pois quero aprender programação]]`
+- `[[pesquisa com mais de 40 mil pessoas apontam que games não fazem mal]]`
+- `[[pontos-chave que eu deveria saber ao estudar a Indústria Cultural]]`
+- `[[Por que precisamos reaprender a perguntar]]`
+- `[[prompt zettelkasten]]`
+- `[[quais problemas seu projeto pode resolver]]`
+- `[[quando o cara ta doido no intertexto]]`
+- `[[Que outros usos para a pesquisa acadêmica nas ciências humanas eu posso usar o chatgpt3]]`
+- `[[radical AI network]]`
+- `[[MDCC/VAULTS-REFERENCIA/vault-consolidado-genealogia/NOTAS PERMANENTES/READY-NOTES]]`
+- `[[Recado aos mestrandos]]`
+- `[[renascença tecnológica (pergunta)]]`
+- `[[Resumo - Homem de 38 anos com 15 anos de educação superior buscando uma mudança de carreira]]`
+- `[[resumo por um filósofo da renascença segundo gpt3]]`
+- `[[seria Foucault um filósofo da tecnologia]]`
+- `[[Somos todos bardos na era da IA]]`
+- `[[The battle for ethical AI at the worlds biggest machine-learning conference]]`
+- `[[The Impact of the Internet on Productivity Exploring Its Benefits and Drawbacks]]`
+- `[[um verdadeiro renascimento conjunto da ciência e das artes]]`
+- `[[Unheimlich Everywhere]]`
+- `[[usar o gpt é low effort (pergunta)]]`
+- `[[Utilizando o chat GPT para auxiliar na correção Dissertação sobre a teoria da cauda longa e a indústria do conteúdo - Revisão 1]]`
+- `[[zetteltipity]]`
+- `[[011220221620]]`
+- `[[081020220303]]`
+- `[[081020220305]]`
+- `[[091020221817]]`
+- `[[5 coisas sobre romantismo alemão]]`
+- `[[5 pontos chave para tornar lúdico a escrita de uma tese]]`
+- `[[5 pontos sobre Economia da Atenção]]`
+- `[[7 pontos-chave que eu deveria saber ao estudar a globalização]]`
+- `[[A criação do conjunto de dados Books3 e a controvérsia]]`
+- `[[A IA generativa ainda não revolucionará o desenvolvimento do jogo]]`
+- `[[Amanita muscaria - preparação e microdosagem]]`
+- `[[argumento do quarto chinês]]`
+- `[[ARTIGO NYT RELACIONANDO CHATGPT E ATAQUES À DEMOCRACIA]]`
+- `[[Bartleby e Zizek]]`
+- `[[BARTLEBY PELO GPT4]]`
+- `[[Bergson, Henry]]`
+- `[[Bordieu, Pierre]]`
+- `[[ChatGPT Não é a única forma de usar a IA na Educação]]`
+- `[[como fazer chá de amanita muscária -  atualizado]]`
+- `[[como fazer um tanque de privação sensorial em casa]]`
+- `[[Como o ChatGPT funciona]]`
+- `[[conclusão das entrelinhas]]`
+- `[[CONSENSUS APP - GUIA]]`
+- `[[CONSENSUS APP E PLAGIO]]`
+- `[[DEFESA EM 12 PASSOS]]`
+- `[[Deleuze]]`
+- `[[Derrida]]`
+- `[[desconstrução]]`
+- `[[différance]]`
+- `[[Eco, Umberto]]`
+- `[[entrevista com Four Tet]]`
+- `[[episteme]]`
+- `[[Ernaux, Annie]]`
+- `[[escala de uso de IA no contexto academico]]`
+- `[[existencialismo, notas de estudo]]`
+- `[[Finalmente a IA é boa nas coisas - vox]]`
+- `[[Georg Wilhelm Friedrich Hegel]]`
+- `[[George Landow]]`
+- `[[GPT3-kazuo-ishiguro]]`
+- `[[HAMILTONS TAKE]]`
+- `[[Han, Byung-Chul]]`
+- `[[Harari, Yuval Noah]]`
+- `[[hibridismo]]`
+- `[[How to Resist the Temptation of AI When Writing]]`
+- `[[improved prompt to learn a book]]`
+- `[[Jordan B. Peterson]]`
+- `[[LEITURA DE LIVROS DE FICÇÃO]]`
+- `[[Levy, Pierre]]`
+- `[[Linguagem e capitalismo]]`
+- `[[manual básico de uso do GPT-3]]`
+- `[[Melhores prompts]]`
+- `[[non fiction novel]]`
+- `[[nota relacionada2601 1]]`
+- `[[nota relacionada2601 2]]`
+- `[[nota relacionada2601 3]]`
+- `[[notas sobre RAN]]`
+- `[[O brilhantismo e a esquisitice do ChatGPT]]`
+- `[[o náufrago]]`
+- `[[o truque mais charmoso da IA é também sua maior freaqueza]]`
+- `[[Olavo Amaral sobre regulação da IA]]`
+- `[[Os Anéis de Saturno]]`
+- `[[Para ser um pouco mais estóico e ateísta - manual]]`
+- `[[pedi pro chatgpt analisar algumas manchetes no reddit r world (em inglês)]]`
+- `[[prompt alt-text]]`
+- `[[prompt personalizado - chatgpt]]`
+- `[[Pynchon, Thomas]]`
+- `[[Reação ao Prosecraft e a Grande Reação Contra a IA]]`
+- `[[Regulando a inteligência artificial]]`
+- `[[Resuma RBU em cento e quarenta caracteres]]`
+- `[[Savoir (conceito)]]`
+- `[[Schwanitz, Dietrich]]`
+- `[[SEARLE, JOHN]]`
+- `[[Sebald, W. G.]]`
+- `[[Stefano Mancuso]]`
+- `[[the difference between Best of minimum and higher]]`
+- `[[Tzvetan Todorov]]`
+- `[[Using AI to get a job]]`
+- `[[Vilém Flusser]]`
+- `[[What AI Teaches Us About Good Writing - DESAFIOS ÉTICOS]]`
+- `[[What AI Teaches Us About Good Writing - NORMAS LITERÁRIAS E INOVAÇÕES]]`
+- `[[What AI Teaches Us About Good Writing]]`
+- `[[Explorando o Megavault Um Podcast sobre Pesquisa Geográfica e Cultura Contemporânea]]`
+- `[[Introdução ao GPT personalizado]]`
+- `[[MEMAI - assuntos relacionados]]`
+- `[[Newsletter Megavault Exploring Research for Geography and Podcast Possibilities]]`
+- `[[newsletter nova - baseada neste vault]]`
+- `[[Se este Vault fosse um canal de youtube]]`
+- `[[Théâtre D’opéra Spatial]]`
+
+### rede-de-wikilinks-autenticidade-plágio-e-impacto-na-educação.md
+- `[[Autenticidade]]`
+- `[[Autenticidade]]`
+- `[[Heidegger, Martin]]`
+- `[[Autenticidade]]`
+- `[[Karl Jaspers - Stanford Encyclopedia]]`
+- `[[Autenticidade]]`
+- `[[5 coisas sobre filosofia da tecnologia]]`
+- `[[Autenticidade]]`
+- `[[bereal e a busca inalcançável pela autenticidade]]`
+- `[[Autenticidade]]`
+- `[[Ensaio 26 - autenticidade - DEDC]]`
+- `[[Autenticidade]]`
+- `[[Relacione cibernética com autenticidade]]`
+- `[[chatgpt]]`
+- `[[Como se faz uma tese]]`
+- `[[zettelkasten]]`
+- `[[CE1000PD]]`
+- `[[ChatGPT]]`
+- `[[ChatGPT]]`
+- `[[Ted Chiang escreve sobre o ChatGpt]]`
+- `[[ChatGPT]]`
+- `[[As entrelinhas dos conteúdos produzidos pelo ChatGpt]]`
+- `[[ChatGPT]]`
+- `[[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]`
+- `[[ChatGPT]]`
+- `[[ChatGPT created this guide to Prompt Engineering]]`
+- `[[Autenticidade]]`
+- `[[Relacione cibernética com autenticidade]]`
+- `[[filosofia da tecnologia]]`
+- `[[Ciberespaço]]`
+- `[[Literatura Eletrônica]]`
+- `[[Sobre a educação das crianças]]`
+- `[[uma abordagem mais cética da educação]]`
+- `[[Manual de Sobrevivência à era da IA]]`
+- `[[ChatGPT]]`
+- `[[Como deveríamos estar usando IA nesse momento]]`
+- `[[Literatura Eletrônica]]`
+- `[[Notas do debate Literatura e arte digital]]`
+- `[[Inteligência Artificial na Literatura]]`
+- `[[rebind.ai]]`
+- `[[Ergodic Literature]]`
+- `[[Cybertext]]`
+- `[[Autenticidade]]`
+- `[[ChatGPT]]`
+- `[[Literatura Eletrônica]]`
+- `[[O microfone]]`
+- `[[031220221258]]`
+- `[[Authentic Word of The Year - wired]]`
+- `[[Autenticidade]]`
+- `[[Manual de Sobrevivência à era da IA]]`
+- `[[uma abordagem mais cética da educação]]`
+- `[[ChatGPT]]`
+- `[[Montaigne, Michel de]]`
+- `[[IA e originalidade]]`
+- `[[Autenticidade]]`
+- `[[ChatGPT]]`
+- `[[DISSERTAÇÃO]]`
+- `[[filosofia da tecnologia]]`
+- `[[Ciberespaço]]`
+- `[[Como Escrever Bem]]`
+
+### review-de-chat-gpt-bard-e-bing-chat.md
+- `[[Somos todos bardos na era da IA]]`
+- `[[Como destaca o autor, os chatbots com IA estão se tornando mais difundidos, mesmo quando continuam a evoluir]]`
+- `[[O artigo ressalta as experiências divergentes dos usuários em diferentes chatbots]]`
+- `[[O autor enfatiza que, apesar das capacidades dos chatbots de IA, eles estão longe de substituir a interação humana]]`
+- `[[Preconceito de gênero e questões de veracidade em chatbots de IA]]`
+
+### revisão-estrutural-final.md
+- `[[um ensaio - Michel foucault - EXPERIMENTO ATUALIZADO]]`
+- `[[ChatGPT created this guide to Prompt Engineering]]`
+- `[[gpt 4 brainstorming TCC]]`
+- `[[Episteme em Foucault]]`
+
+### the-space-of-possible-minds.md
+- `[[Psiquiatras, Professores e o Paradoxo de Moravec]]`
+- `[[What AI Teaches Us About Good Writing]]`
+
+### workflow-de-um-doutorando-em-humanidades-com-ia-no-sul-global.md
+- `[[Workflow Avançado: Doutorando em Humanidades como "Organizador de Agentes IA"]]`
+
+### your-ai-companion-will-support-you-no-matter-what.md
+- `[[PI e Inflection AI]]`
+- `[[No feature -  IAW]]`
+- `[[Comparação de ChatGPT, Bing Chat e Bard - wired zt]]`
+- `[[writing with AI - IA net]]`
+- `[[meta-prompt Article to notes#^ac4406]]`
+
