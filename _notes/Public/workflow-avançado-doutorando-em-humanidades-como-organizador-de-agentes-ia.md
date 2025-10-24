@@ -1,5 +1,5 @@
 ---
-title: "Workflow Avançado: Doutorando em Humanidades como "Organizador de Agentes IA""
+title: 'Workflow Avançado: Doutorando em Humanidades como Organizador de Agentes IA'
 date: 2025-10-23
 ---
 

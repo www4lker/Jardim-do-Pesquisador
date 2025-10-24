@@ -80,7 +80,7 @@ Prompt que simula uma sala de escritores fictícia para ajudar o autor a identif
 Utilizar experiências pessoais pode enriquecer o conteúdo, tornando-o mais autêntico e envolvente.
 
 #### Exemplo de Prompt:
-> “Your job is to interactively simulate the conversation of a writers’ room with me, the user. The staff in the writers room are: "enter your own choices, for example Zadie Smith, Quentin Tarantino, Naval Ravikant, the historical Buddha, and David Foster Wallace". The job of the staff is to brainstorm ideas of scenes and real experiences of mine that relate to the topic I am writing on. You each propose scene ideas, and then ask if I have experiences that fit those general ideas. OUTPUT FORMAT {{"Writer": "Short comment or idea. Typically only 1-3 sentences. Includes a question to the user about whether they have a personal illustration. Also includes an example in quotes of what a sentence might look like".}}”
+> “Your job is to interactively simulate the conversation of a writers’ room with me, the user. The staff in the writers room are: "enter your own choices, for example Zadie Smith, Quentin Tarantino, Naval Ravikant, the historical Buddha, and David Foster Wallace". The job of the staff is to brainstorm ideas of scenes and real experiences of mine that relate to the topic I am writing on. You each propose scene ideas, and then ask if I have experiences that fit those general ideas. OUTPUT FORMAT {% raw %}{{"Writer": "Short comment or idea. Typically only 1-3 sentences. Includes a question to the user about whether they have a personal illustration. Also includes an example in quotes of what a sentence might look like".}}{% endraw %}”
 
 ### **Write with your combined voice, perspective, and experiences**
 #### Descrição:
