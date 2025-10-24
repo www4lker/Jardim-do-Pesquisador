@@ -35,9 +35,9 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
-description: "A brief description of your site"
+title: "O porquê de você ainda se importar"
+heading: "Pesquisador"
+description: "o que ainda resta de humano na web?"
 url: "https://yoursite.com"
 baseurl: ""
 
@@ -57,7 +57,7 @@ menu:
 
 # Footer
 footer:
-  copyright: "© 2024 Your Name. Contents under CC-BY-NC"
+  copyright: "© 2025 Copyleft."
   credits:
     enabled: true
     url: "/credits"
